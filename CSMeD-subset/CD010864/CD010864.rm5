@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COCHRANE_REVIEW TYPE="DIAGNOSTIC" REVMAN_VERSION="5" ID="000000000000000000" VERSION_NO="3.0" STAGE="R" STATUS="A">
+<COVER_SHEET>
+<TITLE>D-dimer test for excluding the diagnosis of pulmonary embolism [Data only. When citing this record quote "Cochrane Database of Systematic Reviews 2016, Issue 8".]</TITLE>
+<CONTACT>
+<PERSON ID="7317" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Fay</FIRST_NAME>
+<LAST_NAME>Crawford</LAST_NAME>
+<SUFFIX>DPodM MSc PhD</SUFFIX>
+<POSITION>Senior Research Advisor</POSITION>
+<EMAIL_1>fay.crawford@nhs.net</EMAIL_1>
+<ADDRESS>
+<ORGANISATION>NHS Fife, Queen Margaret Hospital</ORGANISATION>
+<CITY>Dunfermline</CITY>
+<ZIP>KY12 0SU</ZIP>
+<COUNTRY CODE="GB">UK</COUNTRY>
+</ADDRESS>
+</PERSON>
+</CONTACT>
+<CREATORS>
+<PERSON ID="7317" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Fay</FIRST_NAME>
+<LAST_NAME>Crawford</LAST_NAME>
+<SUFFIX>DPodM MSc PhD</SUFFIX>
+<POSITION>Senior Research Advisor</POSITION>
+<EMAIL_1>fay.crawford@nhs.net</EMAIL_1>
+<ADDRESS>
+<ORGANISATION>NHS Fife, Queen Margaret Hospital</ORGANISATION>
+<CITY>Dunfermline</CITY>
+<ZIP>KY12 0SU</ZIP>
+<COUNTRY CODE="GB">UK</COUNTRY>
+</ADDRESS>
+</PERSON>
+<PERSON ID="58101036010735430743110819104321" ROLE="AUTHOR">
+<FIRST_NAME>Alina</FIRST_NAME>
+<LAST_NAME>Andras</LAST_NAME>
+<POSITION>Study Co-ordinator for Renal Research</POSITION>
+<EMAIL_1>a.andras@keele.ac.uk</EMAIL_1>
+<EMAIL_2>alinaro@hotmail.com</EMAIL_2>
+<ADDRESS>
+<DEPARTMENT>Institute for Science and Technology in Medicine</DEPARTMENT>
+<ORGANISATION>Keele University, Guy Hilton Research Centre</ORGANISATION>
+<ADDRESS_1>Thornburrow Drive</ADDRESS_1>
+<ADDRESS_2>Hartshill</ADDRESS_2>
+<CITY>Stoke-on-Trent</CITY>
+<ZIP>ST4 7QB</ZIP>
+<COUNTRY CODE="GB">UK</COUNTRY>
+</ADDRESS>
+</PERSON>
+<PERSON ID="12198" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Karen</FIRST_NAME>
+<LAST_NAME>Welch</LAST_NAME>
+<POSITION>Information Specialist Cochrane Vascular</POSITION>
+<EMAIL_1>Karen.Welch@ed.ac.uk</EMAIL_1>
+<ADDRESS>
+<DEPARTMENT>Usher Institute of Population Health Sciences and Informatics</DEPARTMENT>
+<ORGANISATION>University of Edinburgh</ORGANISATION>
+<ADDRESS_1>Teviot Place</ADDRESS_1>
+<CITY>Edinburgh</CITY>
+<ZIP>EH8 9AG</ZIP>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 131 6503206</PHONE_1>
+<FAX_1>+44 131 6506904</FAX_1>
+</ADDRESS>
+</PERSON>
+<PERSON ID="55707455064987909957111102120102" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Karen</FIRST_NAME>
+<LAST_NAME>Sheares</LAST_NAME>
+<POSITION>Consultant Respiratory Physician</POSITION>
+<EMAIL_1>ksheares@doctors.org.uk</EMAIL_1>
+<EMAIL_2>karen.sheares@papworth.nhs.uk</EMAIL_2>
+<ADDRESS>
+<ORGANISATION>Papworth Hospital NHS Foundation Trust</ORGANISATION>
+<CITY>Cambridge</CITY>
+<ZIP>CB23 3RE</ZIP>
+<COUNTRY CODE="GB">UK</COUNTRY>
+</ADDRESS>
+</PERSON>
+<PERSON ID="E7AFF47282E26AA200334BFE6AEDD117" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>David</FIRST_NAME>
+<LAST_NAME>Keeling</LAST_NAME>
+<POSITION>Consultant Haematologist</POSITION>
+<EMAIL_1>david.keeling@ndm.ox.ac.uk</EMAIL_1>
+<ADDRESS>
+<DEPARTMENT>Oxford Haemophilia &amp; Thrombosis Centre</DEPARTMENT>
+<ORGANISATION>Churchill Hospital</ORGANISATION>
+<CITY>Oxford</CITY>
+<ZIP>OX3 7LJ</ZIP>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 1865 225318</PHONE_1>
+<FAX_1>+44 1865 225608</FAX_1>
+</ADDRESS>
+</PERSON>
+<PERSON ID="55C0265882E26AA2000F11BCA6AEC3B3" ROLE="AUTHOR">
+<FIRST_NAME>Francesca</FIRST_NAME>
+<MIDDLE_INITIALS>M</MIDDLE_INITIALS>
+<LAST_NAME>Chappell</LAST_NAME>
+<POSITION>Medical Statistician</POSITION>
+<EMAIL_1>francesca.chappell@ed.ac.uk</EMAIL_1>
+<ADDRESS>
+<DEPARTMENT>Division of Clinical Neurosciences</DEPARTMENT>
+<ORGANISATION>University of Edinburgh</ORGANISATION>
+<ADDRESS_1>Western General Hospital</ADDRESS_1>
+<CITY>Edinburgh</CITY>
+<ZIP>EH4 2XU</ZIP>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>00 44 131 537 3585</PHONE_1>
+</ADDRESS>
+</PERSON>
+</CREATORS>
+<DATES>
+<UP_TO_DATE>
+<DATE DAY="" MONTH="" YEAR="" />
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="" MONTH="" YEAR="" />
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="" MONTH="" YEAR="" />
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="" YEAR="" />
+<REVIEW_PUBLISHED ISSUE="" YEAR="" />
+<LAST_CITATION_ISSUE ISSUE="" YEAR="" />
+</DATES>
+<WHATS_NEW />
+<HISTORY />
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES />
+<EXTERNAL_SOURCES />
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO" />
+<KEYWORDS />
+</COVER_SHEET>
+<MAIN_TEXT>
+<SUMMARY>
+<TITLE>D-dimer for excluding pulmonary embolism in hospital outpatient and accident and emergency populations</TITLE>
+<SUMMARY_BODY>
+<P>
+<B>Review question</B>
+</P>
+<P>To investigate the ability of the D-dimer test to rule out a diagnosis of acute pulmonary embolism (PE) in patients treated in hospital outpatient and accident and emergency (A&amp;E) departments.</P>
+<P>
+<B>Background</B>
+</P>
+<P>Pulmonary embolism (PE) is a serious, potentially fatal condition that occurs when a blood clot becomes lodged in the blood vessels of the lungs. When people arrive to hospital A&amp;E departments reporting difficulty breathing, breathlessness and chest pain, several explanations are possible but a quick diagnosis is needed. Tests that are available to detect blood clots in the lungs can be invasive and time-consuming, can carry a radiation burden and may be costly. Quick, easy-to-use and inexpensive tests that can be used to rule out the diagnosis would be very valuable.</P>
+<P>One such test is the D-dimer test, which is so named because it detects small pieces of protein in the blood, which are called D-dimer. When someone with symptoms of breathlessness and chest pain arrives to the hospital A&amp;E department, the staff conducts an examination and asks questions about the patient's medical history and lifestyle. This helps them to calculate a score for the patient's risk that symptoms are due to a PE.</P>
+<P>If the score shows that they are at high risk of a blood clot in the lungs, patients undergo diagnostic scanning immediately (or are treated while test results are awaited). A D-dimer test can be ordered for people in low or moderate (or unlikely) risk groups; a negative D-dimer result might rule out the diagnosis of PE without the need for imaging.</P>
+<P>
+<B>Study characteristics</B>
+</P>
+<P>This review considered all evidence provided by studies that assess the ability of D-dimer to rule out PE in people attending hospital outpatient and A&amp;E departments.</P>
+<P>We assessed all available reports from a wide search of databases of medical literature. Two review authors independently assessed studies that met the review criteria, including use of a study design called a cross-sectional study; inclusion of people with symptoms of PE who attended hospital outpatient and A&amp;E departments; use of a risk score and then a D-dimer test; and comparison of results of the D-dimer test against the results of the very best available tests - ventilation/perfusion scanning (V/Q scanning), pulmonary angiography, computerised tomography pulmonary angiography, and magnetic resonance pulmonary angiography.</P>
+<P>
+<B>Key results</B>
+</P>
+<P>Four studies met our criteria, and data from 1585 patients were available. We found evidence that negative (disease absent) D-dimer tests are very good at ruling out PE and identifying people without PE, but high numbers of false-positive test results suggest that people with a raised D-dimer may not in fact have a PE; therefore, a positive result needs to be followed by imaging. In one study, false-positives were more common among people older than 65 years of age.</P>
+<P>
+<B>Quality of the evidence</B>
+</P>
+<P>The flow of patients and the timing of D-dimer and reference standard tests were of greatest methodological concern; no study authors provided a flow diagram to show the flow of patients throughout their study, and only one study clearly reported the time between administration of index and reference standard tests. In the remaining three studies, timing between conduct of the index test and completion of the reference standard was not clearly reported, leading to an unclear classification of bias.</P>
+<P>
+<B>Conclusions</B>
+</P>
+<P>Limited evidence from the studies included in this review suggests that quantitative D-dimer tests used in emergency departments have few false-negatives but very high levels of false-positive results, with a high level of sensitivity consistently evident across all age groups. This makes the test useful as a rule-out test but means that a positive result requires diagnostic imaging.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P />
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P />
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P />
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P />
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P />
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P />
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P />
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY>
+<BACKGROUND>
+<P />
+<CONDITION>
+<P />
+</CONDITION>
+<INTERVENTION>
+<P />
+</INTERVENTION>
+<THEORY>
+<P />
+</THEORY>
+<IMPORTANCE>
+<P />
+</IMPORTANCE>
+</BACKGROUND>
+<OBJECTIVES>
+<P />
+</OBJECTIVES>
+<METHODS>
+<SELECTION_CRITERIA>
+<CRIT_STUDIES>
+<P />
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P />
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P />
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES>
+<P />
+<CRIT_OUTCOMES_PRIMARY>
+<P />
+</CRIT_OUTCOMES_PRIMARY>
+<CRIT_OUTCOMES_SECONDARY>
+<P />
+</CRIT_OUTCOMES_SECONDARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS>
+<P />
+<ELECTRONIC_SEARCHES>
+<P />
+</ELECTRONIC_SEARCHES>
+<OTHER_SEARCHES>
+<P />
+</OTHER_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION>
+<P />
+<STUDY_SELECTION>
+<P />
+</STUDY_SELECTION>
+<DATA_EXTRACTION>
+<P />
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT>
+<P />
+</QUALITY_ASSESSMENT>
+<EFFECT_MEASURES>
+<P />
+</EFFECT_MEASURES>
+<UNIT_OF_ANALYSIS>
+<P />
+</UNIT_OF_ANALYSIS>
+<MISSING_DATA>
+<P />
+</MISSING_DATA>
+<HETEROGENEITY_ASSESSMENT>
+<P />
+</HETEROGENEITY_ASSESSMENT>
+<BIAS_ASSESSMENT>
+<P />
+</BIAS_ASSESSMENT>
+<DATA_SYNTHESIS>
+<P />
+</DATA_SYNTHESIS>
+<SUBGROUP_ANALYSIS>
+<P />
+</SUBGROUP_ANALYSIS>
+<SENSITIVITY_ANALYSIS>
+<P />
+</SENSITIVITY_ANALYSIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS>
+<STUDY_DESCRIPTION>
+<P />
+<SEARCH_RESULTS>
+<P />
+</SEARCH_RESULTS>
+<INCLUDED_STUDIES_DESCR>
+<P />
+</INCLUDED_STUDIES_DESCR>
+<EXCLUDED_STUDIES_DESCR>
+<P />
+</EXCLUDED_STUDIES_DESCR>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P />
+<ALLOCATION>
+<P />
+</ALLOCATION>
+<BLINDING>
+<P />
+</BLINDING>
+<EXCLUSIONS>
+<P />
+</EXCLUSIONS>
+<SELECTIVE_REPORTING>
+<P />
+</SELECTIVE_REPORTING>
+<OTHER_BIAS_SOURCES>
+<P />
+</OTHER_BIAS_SOURCES>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS>
+<P />
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P />
+<SUMMARY_OF_RESULTS>
+<P />
+</SUMMARY_OF_RESULTS>
+<APPLICABILITY_OF_FINDINGS>
+<P />
+</APPLICABILITY_OF_FINDINGS>
+<QUALITY_OF_EVIDENCE>
+<P />
+</QUALITY_OF_EVIDENCE>
+<POTENTIAL_BIASES>
+<P />
+</POTENTIAL_BIASES>
+<AGREEMENT>
+<P />
+</AGREEMENT>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P />
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P />
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P />
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P />
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P />
+</CONTRIBUTIONS>
+<PRO_REV_DIFF>
+<P />
+</PRO_REV_DIFF>
+<PUBLIC_NOTES>
+<P />
+</PUBLIC_NOTES>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES>
+<STUDIES>
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gupta-2009" NAME="Gupta 2009" YEAR="2009">
+<IDENTIFIERS />
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Raviv-2012" NAME="Raviv 2012" YEAR="2012">
+<IDENTIFIERS />
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Soderberg-2009" NAME="Soderberg 2009" YEAR="2009">
+<IDENTIFIERS />
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sohne-2004" NAME="Sohne 2004" YEAR="2005">
+<IDENTIFIERS />
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES />
+<AWAITING_STUDIES />
+<ONGOING_STUDIES />
+</STUDIES>
+<OTHER_REFERENCES>
+<ADDITIONAL_REFERENCES />
+<OTHER_VERSIONS_REFERENCES />
+<PENDING_REFERENCES />
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES>
+<CHARACTERISTICS_OF_INCLUDED_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR STUDY_ID="STD-Gupta-2009">
+<CHAR_METHODS><P /></CHAR_METHODS>
+<CHAR_PARTICIPANTS><P /></CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS><P /></CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES><P /></CHAR_OUTCOMES>
+<CHAR_NOTES><P /></CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Raviv-2012">
+<CHAR_METHODS><P /></CHAR_METHODS>
+<CHAR_PARTICIPANTS><P /></CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS><P /></CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES><P /></CHAR_OUTCOMES>
+<CHAR_NOTES><P /></CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Soderberg-2009">
+<CHAR_METHODS><P /></CHAR_METHODS>
+<CHAR_PARTICIPANTS><P /></CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS><P /></CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES><P /></CHAR_OUTCOMES>
+<CHAR_NOTES><P /></CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Sohne-2004">
+<CHAR_METHODS><P /></CHAR_METHODS>
+<CHAR_PARTICIPANTS><P /></CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS><P /></CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES><P /></CHAR_OUTCOMES>
+<CHAR_NOTES><P /></CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS />
+<SOF_TABLES />
+<ADDITIONAL_TABLES />
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<TESTS />
+<COVARIATES />
+<ANALYSES />
+</ANALYSES_AND_DATA>
+<FIGURES />
+<FEEDBACK />
+<APPENDICES />
+<EXTENSIONS />
+</COCHRANE_REVIEW>

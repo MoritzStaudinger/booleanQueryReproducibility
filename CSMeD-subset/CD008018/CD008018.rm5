@@ -1,0 +1,3814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COCHRANE_REVIEW DESCRIPTION="No update planned"
+                 DOI="10.1002/14651858.CD008018.pub3"
+                 GROUP_ID="GYNAECA"
+                 ID="955008121515142772"
+                 MERGED_FROM=""
+                 MODIFIED="2019-02-28 13:40:24 +0000"
+                 MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                 REVIEW_NO="M019"
+                 REVMAN_SUB_VERSION="5.4.1"
+                 REVMAN_VERSION="5"
+                 SPLIT_FROM=""
+                 STAGE="R"
+                 STATUS="A"
+                 TYPE="INTERVENTION"
+                 VERSION_NO="7.0">
+   <COVER_SHEET MODIFIED="2019-02-28 13:40:18 +0000"
+                MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2">
+      <TITLE MODIFIED="2019-04-15 15:00:26 +0000"
+             MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2">Adjuvant gonadotropin-releasing hormone analogues for the prevention of chemotherapy-induced premature ovarian failure in premenopausal women</TITLE>
+      <CONTACT>
+         <PERSON ID="36361657512032128268111218222853"
+                 MODIFIED="2021-03-31 19:09:10 +0000"
+                 MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                 ROLE="AUTHOR">
+            <PREFIX/>
+            <FIRST_NAME>Wei</FIRST_NAME>
+            <MIDDLE_INITIALS/>
+            <LAST_NAME>Huang</LAST_NAME>
+            <SUFFIX/>
+            <POSITION/>
+            <EMAIL_1>weihuang64@163.com</EMAIL_1>
+            <EMAIL_2/>
+            <URL/>
+            <MOBILE_PHONE/>
+            <ADDRESS>
+               <DEPARTMENT>Department of Obstetrics and Gynecology</DEPARTMENT>
+               <ORGANISATION>West China Second University Hospital, Sichuan University</ORGANISATION>
+               <ADDRESS_1/>
+               <ADDRESS_2/>
+               <CITY>Chengdu</CITY>
+               <ZIP/>
+               <REGION/>
+               <COUNTRY CODE="CN">China</COUNTRY>
+               <PHONE_1/>
+               <PHONE_2/>
+               <FAX_1/>
+               <FAX_2/>
+            </ADDRESS>
+            <FOOTNOTE/>
+         </PERSON>
+      </CONTACT>
+      <CREATORS MODIFIED="2021-03-31 19:09:10 +0000"
+                MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8">
+         <PERSON ID="2D27828F82E26AA2010AB3F2B5A391F9"
+                 MODIFIED="2020-12-09 09:30:30 +0000"
+                 MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                 ROLE="AUTHOR">
+            <PREFIX/>
+            <FIRST_NAME>Hengxi</FIRST_NAME>
+            <MIDDLE_INITIALS/>
+            <LAST_NAME>Chen</LAST_NAME>
+            <SUFFIX/>
+            <POSITION/>
+            <EMAIL_1>wowochx@126.com</EMAIL_1>
+            <EMAIL_2/>
+            <URL/>
+            <MOBILE_PHONE/>
+            <ADDRESS>
+               <DEPARTMENT>Department of Obstetrics and Gynecology</DEPARTMENT>
+               <ORGANISATION>West China Second University Hospital, Sichuan University</ORGANISATION>
+               <ADDRESS_1/>
+               <ADDRESS_2/>
+               <CITY>Chengdu</CITY>
+               <ZIP/>
+               <REGION>Sichuan</REGION>
+               <COUNTRY CODE="CN">China</COUNTRY>
+               <PHONE_1/>
+               <PHONE_2/>
+               <FAX_1/>
+               <FAX_2/>
+            </ADDRESS>
+            <FOOTNOTE/>
+         </PERSON>
+         <PERSON ID="z1901101020111631024267437153397"
+                 MODIFIED="2020-12-09 09:30:31 +0000"
+                 MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                 ROLE="AUTHOR">
+            <PREFIX/>
+            <FIRST_NAME>Li</FIRST_NAME>
+            <MIDDLE_INITIALS/>
+            <LAST_NAME>Xiao</LAST_NAME>
+            <SUFFIX/>
+            <POSITION/>
+            <EMAIL_1>Xiaoli2006929@126.com</EMAIL_1>
+            <EMAIL_2/>
+            <URL/>
+            <MOBILE_PHONE/>
+            <ADDRESS>
+               <DEPARTMENT>Department of Obstetrics and Gynecology</DEPARTMENT>
+               <ORGANISATION>West China Second University Hospital, Sichuan University</ORGANISATION>
+               <ADDRESS_1/>
+               <ADDRESS_2/>
+               <CITY>Chengdu</CITY>
+               <ZIP/>
+               <REGION>Sichuan</REGION>
+               <COUNTRY CODE="CN">China</COUNTRY>
+               <PHONE_1/>
+               <PHONE_2/>
+               <FAX_1/>
+               <FAX_2/>
+            </ADDRESS>
+            <FOOTNOTE/>
+         </PERSON>
+         <PERSON ID="D9157EE082E26AA2003F1F3938785292"
+                 MODIFIED="2020-12-09 09:30:31 +0000"
+                 MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                 ROLE="AUTHOR">
+            <PREFIX/>
+            <FIRST_NAME>Jinke</FIRST_NAME>
+            <MIDDLE_INITIALS/>
+            <LAST_NAME>Li</LAST_NAME>
+            <SUFFIX/>
+            <POSITION/>
+            <EMAIL_1>leonljk@126.com</EMAIL_1>
+            <EMAIL_2/>
+            <URL/>
+            <MOBILE_PHONE/>
+            <ADDRESS>
+               <DEPARTMENT>Department of Obstetrics and Gynecology</DEPARTMENT>
+               <ORGANISATION>West China Second University Hospital, Sichuan University</ORGANISATION>
+               <ADDRESS_1/>
+               <ADDRESS_2/>
+               <CITY>Chengdu</CITY>
+               <ZIP/>
+               <REGION>Sichuan</REGION>
+               <COUNTRY CODE="CN">China</COUNTRY>
+               <PHONE_1/>
+               <PHONE_2/>
+               <FAX_1/>
+               <FAX_2/>
+            </ADDRESS>
+            <FOOTNOTE/>
+         </PERSON>
+         <PERSON ID="48345867480508416210100706150718"
+                 MODIFIED="2020-12-09 09:30:31 +0000"
+                 MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                 ROLE="AUTHOR">
+            <PREFIX/>
+            <FIRST_NAME>Ling</FIRST_NAME>
+            <MIDDLE_INITIALS/>
+            <LAST_NAME>Cui</LAST_NAME>
+            <SUFFIX/>
+            <POSITION/>
+            <EMAIL_1>306127582@qq.com</EMAIL_1>
+            <EMAIL_2/>
+            <URL/>
+            <MOBILE_PHONE/>
+            <ADDRESS>
+               <DEPARTMENT>Department of Gynaecological Oncology</DEPARTMENT>
+               <ORGANISATION>Sichuan Cancer Hospital &amp; Institute</ORGANISATION>
+               <ADDRESS_1/>
+               <ADDRESS_2/>
+               <CITY>Chengdu</CITY>
+               <ZIP/>
+               <REGION>Sichuan</REGION>
+               <COUNTRY CODE="CN">China</COUNTRY>
+               <PHONE_1/>
+               <PHONE_2/>
+               <FAX_1/>
+               <FAX_2/>
+            </ADDRESS>
+            <FOOTNOTE/>
+         </PERSON>
+         <PERSON ID="36361657512032128268111218222853"
+                 MODIFIED="2021-03-31 19:09:10 +0000"
+                 MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                 ROLE="AUTHOR">
+            <PREFIX/>
+            <FIRST_NAME>Wei</FIRST_NAME>
+            <MIDDLE_INITIALS/>
+            <LAST_NAME>Huang</LAST_NAME>
+            <SUFFIX/>
+            <POSITION/>
+            <EMAIL_1>weihuang64@163.com</EMAIL_1>
+            <EMAIL_2/>
+            <URL/>
+            <MOBILE_PHONE/>
+            <ADDRESS>
+               <DEPARTMENT>Department of Obstetrics and Gynecology</DEPARTMENT>
+               <ORGANISATION>West China Second University Hospital, Sichuan University</ORGANISATION>
+               <ADDRESS_1/>
+               <ADDRESS_2/>
+               <CITY>Chengdu</CITY>
+               <ZIP/>
+               <REGION/>
+               <COUNTRY CODE="CN">China</COUNTRY>
+               <PHONE_1/>
+               <PHONE_2/>
+               <FAX_1/>
+               <FAX_2/>
+            </ADDRESS>
+            <FOOTNOTE/>
+         </PERSON>
+      </CREATORS>
+      <DATES MODIFIED="2019-04-15 15:00:26 +0000"
+             MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2">
+         <UP_TO_DATE>
+            <DATE DAY="19" MONTH="11" YEAR="2018"/>
+         </UP_TO_DATE>
+         <LAST_SEARCH>
+            <DATE DAY="19" MONTH="11" YEAR="2018"/>
+         </LAST_SEARCH>
+         <NEXT_STAGE>
+            <DATE DAY="28" MONTH="2" YEAR="2023"/>
+         </NEXT_STAGE>
+         <PROTOCOL_PUBLISHED ISSUE="4" YEAR="2009"/>
+         <REVIEW_PUBLISHED ISSUE="11" YEAR="2011"/>
+         <LAST_CITATION_ISSUE ISSUE="3" YEAR="2019"/>
+      </DATES>
+      <WHATS_NEW/>
+      <HISTORY/>
+      <SOURCES_OF_SUPPORT MODIFIED="2019-02-28 13:40:18 +0000"
+                          MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2">
+         <INTERNAL_SOURCES/>
+         <EXTERNAL_SOURCES/>
+      </SOURCES_OF_SUPPORT>
+      <MESH_TERMS VERIFIED="NO"/>
+      <KEYWORDS/>
+   </COVER_SHEET>
+   <MAIN_TEXT>
+      <SUMMARY>
+         <TITLE/>
+         <SUMMARY_BODY/>
+      </SUMMARY>
+      <ABSTRACT>
+         <ABS_BACKGROUND/>
+         <ABS_OBJECTIVES/>
+         <ABS_SEARCH_STRATEGY/>
+         <ABS_SELECTION_CRITERIA/>
+         <ABS_DATA_COLLECTION/>
+         <ABS_RESULTS/>
+         <ABS_CONCLUSIONS/>
+      </ABSTRACT>
+      <BODY>
+         <BACKGROUND>
+            <CONDITION/>
+            <INTERVENTION/>
+            <THEORY/>
+            <IMPORTANCE/>
+         </BACKGROUND>
+         <OBJECTIVES/>
+         <METHODS>
+            <SELECTION_CRITERIA>
+               <CRIT_STUDIES/>
+               <CRIT_PARTICIPANTS/>
+               <CRIT_INTERVENTIONS/>
+               <CRIT_OUTCOMES>
+                  <CRIT_OUTCOMES_PRIMARY/>
+                  <CRIT_OUTCOMES_SECONDARY/>
+               </CRIT_OUTCOMES>
+            </SELECTION_CRITERIA>
+            <SEARCH_METHODS>
+               <ELECTRONIC_SEARCHES/>
+               <OTHER_SEARCHES/>
+            </SEARCH_METHODS>
+            <DATA_COLLECTION>
+               <STUDY_SELECTION/>
+               <DATA_EXTRACTION/>
+               <QUALITY_ASSESSMENT/>
+               <EFFECT_MEASURES/>
+               <UNIT_OF_ANALYSIS/>
+               <MISSING_DATA/>
+               <HETEROGENEITY_ASSESSMENT/>
+               <BIAS_ASSESSMENT/>
+               <DATA_SYNTHESIS/>
+               <SUBGROUP_ANALYSIS/>
+               <SENSITIVITY_ANALYSIS/>
+            </DATA_COLLECTION>
+         </METHODS>
+         <RESULTS>
+            <STUDY_DESCRIPTION>
+               <SEARCH_RESULTS/>
+               <INCLUDED_STUDIES_DESCR/>
+               <EXCLUDED_STUDIES_DESCR/>
+            </STUDY_DESCRIPTION>
+            <STUDY_QUALITY>
+               <ALLOCATION/>
+               <BLINDING/>
+               <EXCLUSIONS/>
+               <SELECTIVE_REPORTING/>
+               <OTHER_BIAS_SOURCES/>
+            </STUDY_QUALITY>
+            <INTERVENTION_EFFECTS/>
+         </RESULTS>
+         <DISCUSSION>
+            <SUMMARY_OF_RESULTS/>
+            <APPLICABILITY_OF_FINDINGS/>
+            <QUALITY_OF_EVIDENCE/>
+            <POTENTIAL_BIASES/>
+            <AGREEMENT/>
+         </DISCUSSION>
+         <CONCLUSIONS>
+            <IMPLICATIONS_PRACTICE/>
+            <IMPLICATIONS_RESEARCH/>
+         </CONCLUSIONS>
+      </BODY>
+      <ACKNOWLEDGEMENTS/>
+      <CONFLICT_OF_INTEREST/>
+      <CONTRIBUTIONS/>
+      <PRO_REV_DIFF/>
+      <PUBLIC_NOTES/>
+   </MAIN_TEXT>
+   <STUDIES_AND_REFERENCES>
+      <STUDIES>
+         <INCLUDED_STUDIES>
+            <STUDY DATA_SOURCE="PUB"
+                   ID="STD-Badawy-2009"
+                   NAME="Badawy 2009"
+                   YEAR="2007">
+               <IDENTIFIERS/>
+            </STUDY>
+            <STUDY DATA_SOURCE="PUB"
+                   ID="STD-Elgindy-2013"
+                   NAME="Elgindy 2013"
+                   YEAR="2013">
+               <IDENTIFIERS/>
+            </STUDY>
+            <STUDY DATA_SOURCE="PUB"
+                   ID="STD-Gerber-2011"
+                   NAME="Gerber 2011"
+                   YEAR="2011">
+               <IDENTIFIERS/>
+            </STUDY>
+            <STUDY DATA_SOURCE="PUB"
+                   ID="STD-Gilani-2007"
+                   NAME="Gilani 2007"
+                   YEAR="2007">
+               <IDENTIFIERS/>
+            </STUDY>
+            <STUDY DATA_SOURCE="PUB"
+                   ID="STD-Giuseppe-2007"
+                   NAME="Giuseppe 2007"
+                   YEAR="2007">
+               <IDENTIFIERS/>
+            </STUDY>
+            <STUDY DATA_SOURCE="PUB"
+                   ID="STD-Karimi_x002d_Zarchi-2014"
+                   NAME="Karimi-Zarchi 2014"
+                   YEAR="2014">
+               <IDENTIFIERS/>
+            </STUDY>
+            <STUDY DATA_SOURCE="PUB"
+                   ID="STD-Lambertini-2015a"
+                   NAME="Lambertini 2015a"
+                   YEAR="2015">
+               <IDENTIFIERS/>
+            </STUDY>
+            <STUDY DATA_SOURCE="PUB"
+                   ID="STD-Leonard-2017"
+                   NAME="Leonard 2017"
+                   YEAR="2017">
+               <IDENTIFIERS/>
+            </STUDY>
+            <STUDY DATA_SOURCE="PUB"
+                   ID="STD-Moore-2015"
+                   NAME="Moore 2015"
+                   YEAR="2015">
+               <IDENTIFIERS/>
+            </STUDY>
+            <STUDY DATA_SOURCE="PUB"
+                   ID="STD-Munster-2012"
+                   NAME="Munster 2012"
+                   YEAR="2012">
+               <IDENTIFIERS/>
+            </STUDY>
+            <STUDY DATA_SOURCE="PUB"
+                   ID="STD-Song-2013"
+                   NAME="Song 2013"
+                   YEAR="2013">
+               <IDENTIFIERS/>
+            </STUDY>
+            <STUDY DATA_SOURCE="PUB"
+                   ID="STD-Waxman-1987"
+                   NAME="Waxman 1987"
+                   YEAR="1987">
+               <IDENTIFIERS/>
+            </STUDY>
+         </INCLUDED_STUDIES>
+         <EXCLUDED_STUDIES/>
+         <AWAITING_STUDIES/>
+         <ONGOING_STUDIES/>
+      </STUDIES>
+      <OTHER_REFERENCES>
+         <ADDITIONAL_REFERENCES/>
+         <OTHER_VERSIONS_REFERENCES/>
+         <PENDING_REFERENCES/>
+      </OTHER_REFERENCES>
+   </STUDIES_AND_REFERENCES>
+   <CHARACTERISTICS_OF_STUDIES>
+      <CHARACTERISTICS_OF_INCLUDED_STUDIES SORT_BY="STUDY"
+                                           USER_DEF_1_ENABLED="NO"
+                                           USER_DEF_2_ENABLED="NO"
+                                           USER_DEF_3_ENABLED="NO">
+         <INCLUDED_CHAR STUDY_ID="STD-Badawy-2009">
+            <CHAR_METHODS/>
+            <CHAR_PARTICIPANTS/>
+            <CHAR_INTERVENTIONS/>
+            <CHAR_OUTCOMES/>
+            <CHAR_NOTES/>
+         </INCLUDED_CHAR>
+         <INCLUDED_CHAR STUDY_ID="STD-Elgindy-2013">
+            <CHAR_METHODS/>
+            <CHAR_PARTICIPANTS/>
+            <CHAR_INTERVENTIONS/>
+            <CHAR_OUTCOMES/>
+            <CHAR_NOTES/>
+         </INCLUDED_CHAR>
+         <INCLUDED_CHAR STUDY_ID="STD-Gerber-2011">
+            <CHAR_METHODS/>
+            <CHAR_PARTICIPANTS/>
+            <CHAR_INTERVENTIONS/>
+            <CHAR_OUTCOMES/>
+            <CHAR_NOTES/>
+         </INCLUDED_CHAR>
+         <INCLUDED_CHAR STUDY_ID="STD-Gilani-2007">
+            <CHAR_METHODS/>
+            <CHAR_PARTICIPANTS/>
+            <CHAR_INTERVENTIONS/>
+            <CHAR_OUTCOMES/>
+            <CHAR_NOTES/>
+         </INCLUDED_CHAR>
+         <INCLUDED_CHAR STUDY_ID="STD-Giuseppe-2007">
+            <CHAR_METHODS/>
+            <CHAR_PARTICIPANTS/>
+            <CHAR_INTERVENTIONS/>
+            <CHAR_OUTCOMES/>
+            <CHAR_NOTES/>
+         </INCLUDED_CHAR>
+         <INCLUDED_CHAR STUDY_ID="STD-Karimi_x002d_Zarchi-2014">
+            <CHAR_METHODS/>
+            <CHAR_PARTICIPANTS/>
+            <CHAR_INTERVENTIONS/>
+            <CHAR_OUTCOMES/>
+            <CHAR_NOTES/>
+         </INCLUDED_CHAR>
+         <INCLUDED_CHAR STUDY_ID="STD-Lambertini-2015a">
+            <CHAR_METHODS/>
+            <CHAR_PARTICIPANTS/>
+            <CHAR_INTERVENTIONS/>
+            <CHAR_OUTCOMES/>
+            <CHAR_NOTES/>
+         </INCLUDED_CHAR>
+         <INCLUDED_CHAR STUDY_ID="STD-Leonard-2017">
+            <CHAR_METHODS/>
+            <CHAR_PARTICIPANTS/>
+            <CHAR_INTERVENTIONS/>
+            <CHAR_OUTCOMES/>
+            <CHAR_NOTES/>
+         </INCLUDED_CHAR>
+         <INCLUDED_CHAR STUDY_ID="STD-Moore-2015">
+            <CHAR_METHODS/>
+            <CHAR_PARTICIPANTS/>
+            <CHAR_INTERVENTIONS/>
+            <CHAR_OUTCOMES/>
+            <CHAR_NOTES/>
+         </INCLUDED_CHAR>
+         <INCLUDED_CHAR STUDY_ID="STD-Munster-2012">
+            <CHAR_METHODS/>
+            <CHAR_PARTICIPANTS/>
+            <CHAR_INTERVENTIONS/>
+            <CHAR_OUTCOMES/>
+            <CHAR_NOTES/>
+         </INCLUDED_CHAR>
+         <INCLUDED_CHAR STUDY_ID="STD-Song-2013">
+            <CHAR_METHODS/>
+            <CHAR_PARTICIPANTS/>
+            <CHAR_INTERVENTIONS/>
+            <CHAR_OUTCOMES/>
+            <CHAR_NOTES/>
+         </INCLUDED_CHAR>
+         <INCLUDED_CHAR STUDY_ID="STD-Waxman-1987">
+            <CHAR_METHODS/>
+            <CHAR_PARTICIPANTS/>
+            <CHAR_INTERVENTIONS/>
+            <CHAR_OUTCOMES/>
+            <CHAR_NOTES/>
+         </INCLUDED_CHAR>
+         <FOOTNOTES/>
+      </CHARACTERISTICS_OF_INCLUDED_STUDIES>
+      <CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY"/>
+      <CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY"
+                                           USER_DEF_1_ENABLED="NO"
+                                           USER_DEF_2_ENABLED="NO"
+                                           USER_DEF_3_ENABLED="NO"/>
+      <CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY"
+                                          USER_DEF_1_ENABLED="NO"
+                                          USER_DEF_2_ENABLED="NO"
+                                          USER_DEF_3_ENABLED="NO"/>
+   </CHARACTERISTICS_OF_STUDIES>
+   <QUALITY_ITEMS MODIFIED="2011-10-04 10:25:55 +0000"
+                  MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8">
+      <QUALITY_ITEM CORE_ITEM="YES"
+                    ID="QIT-01"
+                    LEVEL="STUDY"
+                    MODIFIED="2019-02-28 13:40:24 +0000"
+                    MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                    NO="1">
+         <NAME>Random sequence generation (selection bias)</NAME>
+         <DESCRIPTION>
+            <P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+         </DESCRIPTION>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2011-10-04 10:25:55 +0000"
+                                     MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Badawy-2009">
+               <DESCRIPTION>
+                  <P>Not mentioned</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Elgindy-2013">
+               <DESCRIPTION>
+                  <P>Quote: "computer-generated block randomisation scheme with variable block sizes" was used</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Gerber-2011">
+               <DESCRIPTION>
+                  <P>Not mentioned</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2011-10-04 10:25:55 +0000"
+                                     MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Gilani-2007">
+               <DESCRIPTION>
+                  <P>Not mentioned</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2011-10-04 10:25:55 +0000"
+                                     MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Giuseppe-2007">
+               <DESCRIPTION>
+                  <P>Not mentioned</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Karimi_x002d_Zarchi-2014">
+               <DESCRIPTION>
+                  <P>Not mentioned</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Lambertini-2015a">
+               <DESCRIPTION>
+                  <P>Quote: "Randomisation lists were prepared with the use of permuted blocks of different sizes and a 1:1 ratio"</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Leonard-2017">
+               <DESCRIPTION>
+                  <P>Quote: "Randomisation was centrally performed by telephone to the trial centre, eligibility was confirmed verbally, and treatment was allocated by computer-generated lists"</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Moore-2015">
+               <DESCRIPTION>
+                  <P>Not mentioned</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Munster-2012">
+               <DESCRIPTION>
+                  <P>Quote: "computerized randomisation" was used</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Song-2013">
+               <DESCRIPTION>
+                  <P>Not mentioned</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2011-10-04 10:25:55 +0000"
+                                     MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Waxman-1987">
+               <DESCRIPTION>
+                  <P>Not mentioned</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CORE_ITEM="YES"
+                    ID="QIT-02"
+                    LEVEL="STUDY"
+                    MODIFIED="2019-02-28 13:40:24 +0000"
+                    MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                    NO="2">
+         <NAME>Allocation concealment (selection bias)</NAME>
+         <DESCRIPTION>
+            <P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+         </DESCRIPTION>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2011-10-04 10:25:55 +0000"
+                                     MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Badawy-2009">
+               <DESCRIPTION>
+                  <P>Quote: "sealed, dark envelopes" were used</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Elgindy-2013">
+               <DESCRIPTION>
+                  <P>Quote: "The randomisation list was produced by a statistician not involved with patient recruitment. Allocation concealment was achieved with sequentially numbered, dark, opaque, sealed envelopes"</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Gerber-2011">
+               <DESCRIPTION>
+                  <P>Not mentioned</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2011-10-04 10:25:55 +0000"
+                                     MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Gilani-2007">
+               <DESCRIPTION>
+                  <P>Not mentioned</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2011-10-04 10:25:55 +0000"
+                                     MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Giuseppe-2007">
+               <DESCRIPTION>
+                  <P>Not mentioned</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Karimi_x002d_Zarchi-2014">
+               <DESCRIPTION>
+                  <P>Not mentioned</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Lambertini-2015a">
+               <DESCRIPTION>
+                  <P>Quote: "Randomisation was performed centrally by faxing the Clinical Trials Unit of the National Cancer Research Institute in Genoa (Italy)"</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Leonard-2017">
+               <DESCRIPTION>
+                  <P>Quote: "Randomisation was centrally performed by telephone to the trial centre, eligibility was confirmed verbally, and treatment was allocated by computer-generated lists"</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Moore-2015">
+               <DESCRIPTION>
+                  <P>Not mentioned</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Munster-2012">
+               <DESCRIPTION>
+                  <P>Not mentioned</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Song-2013">
+               <DESCRIPTION>
+                  <P>Not mentioned</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2011-10-04 10:25:55 +0000"
+                                     MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Waxman-1987">
+               <DESCRIPTION>
+                  <P>Not mentioned</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CORE_ITEM="YES"
+                    ID="QIT-03"
+                    LEVEL="GROUP"
+                    MODIFIED="2019-02-28 13:40:24 +0000"
+                    MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                    NO="3">
+         <NAME>Blinding (performance bias and detection bias)</NAME>
+         <DESCRIPTION>
+            <P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+         </DESCRIPTION>
+         <QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-03.01" NO="1">
+            <NAME>All outcomes</NAME>
+         </QUALITY_ITEM_DATA_ENTRY_GROUP>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01"
+                                     MODIFIED="2011-10-04 10:25:55 +0000"
+                                     MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Badawy-2009">
+               <DESCRIPTION>
+                  <P>Not mentioned whether participant/personnel/outcome assessment was blinded or not</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01"
+                                     MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="NO"
+                                     STUDY_ID="STD-Elgindy-2013">
+               <DESCRIPTION>
+                  <P>Quote: It's an "open-label trial"</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01"
+                                     MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="NO"
+                                     STUDY_ID="STD-Gerber-2011">
+               <DESCRIPTION>
+                  <P>Quote: it's an "open-label trial"</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01"
+                                     MODIFIED="2011-10-04 10:25:55 +0000"
+                                     MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Gilani-2007">
+               <DESCRIPTION>
+                  <P>Not mentioned whether participant/personnel/outcome assessment was blinded or not</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01"
+                                     MODIFIED="2011-10-04 10:25:55 +0000"
+                                     MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Giuseppe-2007">
+               <DESCRIPTION>
+                  <P>Not mentioned whether participant/personnel/outcome assessment was blinded or not</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01"
+                                     MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Karimi_x002d_Zarchi-2014">
+               <DESCRIPTION>
+                  <P>Not mentioned</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01"
+                                     MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Lambertini-2015a">
+               <DESCRIPTION>
+                  <P>Not mentioned whether participant/personnel/outcome assessment was blinded or not</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01"
+                                     MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Leonard-2017">
+               <DESCRIPTION>
+                  <P>Not mentioned whether participant/personnel/outcome assessment was blinded or not</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01"
+                                     MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="NO"
+                                     STUDY_ID="STD-Moore-2015">
+               <DESCRIPTION>
+                  <P>Quote: it's an "open-label trial"</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01"
+                                     MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Munster-2012">
+               <DESCRIPTION>
+                  <P>Not mentioned whether participant/personnel/outcome assessment was blinded or not</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01"
+                                     MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Song-2013">
+               <DESCRIPTION>
+                  <P>Not mentioned whether participant/personnel/outcome assessment was blinded or not</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01"
+                                     MODIFIED="2011-10-04 10:25:55 +0000"
+                                     MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Waxman-1987">
+               <DESCRIPTION>
+                  <P>Not mentioned whether participant/personnel/outcome assessment was blinded or not</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CORE_ITEM="YES"
+                    ID="QIT-04"
+                    LEVEL="GROUP"
+                    MODIFIED="2019-02-28 13:40:24 +0000"
+                    MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                    NO="4">
+         <NAME>Incomplete outcome data (attrition bias)</NAME>
+         <DESCRIPTION>
+            <P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+         </DESCRIPTION>
+         <QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-04.01" NO="1">
+            <NAME>All outcomes</NAME>
+         </QUALITY_ITEM_DATA_ENTRY_GROUP>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01"
+                                     MODIFIED="2011-10-04 10:25:55 +0000"
+                                     MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Badawy-2009">
+               <DESCRIPTION>
+                  <P>Only 1 woman in each group dropped out. Reasons not mentioned</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01"
+                                     MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Elgindy-2013">
+               <DESCRIPTION>
+                  <P>Five women died during the follow-up period: one woman in each group except the GnRH agonist plus delayed chemotherapy group, in which two women died</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01"
+                                     MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Gerber-2011">
+               <DESCRIPTION>
+                  <P>The risk of bias in the primary outcomes is low as only two women in each group withdrew due to adverse event, progression of disease and unwillingness to participate. Antral follicle count was only measured in 10 women, thus the risk of bias for this secondary outcome was high</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01"
+                                     MODIFIED="2011-10-04 10:25:55 +0000"
+                                     MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Gilani-2007">
+               <DESCRIPTION>
+                  <P>All women were followed up to the end of the trial</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01"
+                                     MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Giuseppe-2007">
+               <DESCRIPTION>
+                  <P>All women were followed up and included in the analyses</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01"
+                                     MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Karimi_x002d_Zarchi-2014">
+               <DESCRIPTION>
+                  <P>All women were followed up</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01"
+                                     MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Lambertini-2015a">
+               <DESCRIPTION>
+                  <P>In 12-month follow-up, 6 women in chemotherapy-alone group did not receive chemotherapy and 6 were lost to follow-up, while 2 women in chemotherapy plus triptorelin group did not receive chemotherapy and 7 were lost to follow-up. At the study cut-off date of long follow-up period (median follow-up was 7.3 years), 18 and 17 women were lost to follow-up in chemotherapy-alone group and chemotherapy plus triptorelin group respectively</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01"
+                                     MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Leonard-2017">
+               <DESCRIPTION>
+                  <P>Three in each arm had died within 24 months of randomisation. For a further 19 women (11 in the control arm and 8 in the intervention arm), menstrual status during the interval between the 12-month follow-up visit and the 24-month follow-up visit could not be determined from the data available</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01"
+                                     MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Moore-2015">
+               <DESCRIPTION>
+                  <P>Data on pregnancy and survival were collected in 218 women, and data on adverse events were collected in 214 women. Attrition mainly due to withdrawal, loss to follow-up and non-response. The attrition bias for these outcomes were at low risk. Data on POF were available for only 88 and 69 women in treatment group and control group respectively. Attrition was due to incomplete data on menstruation or FSH levels. The attrition bias for POF was at high risk</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01"
+                                     MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Munster-2012">
+               <DESCRIPTION>
+                  <P>1 participant in the triptorelin arm withdrew consent before first treatment. Another, in the control arm, was found to have residual disease after neoadjuvant chemotherapy and was treated with additional chemotherapy not permitted by protocol</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01"
+                                     MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Song-2013">
+               <DESCRIPTION>
+                  <P>Sixteen in chemotherapy-alone group (2 women failed to complete at least one cycle of chemotherapy and 14 women were lost to follow-up) and 21 in chemotherapy plus GnRH agonist group (4 women failed to complete at least one cycle of chemotherapy and 17 women were lost to follow-up) were not included in the evaluation</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01"
+                                     MODIFIED="2011-10-04 10:25:55 +0000"
+                                     MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Waxman-1987">
+               <DESCRIPTION>
+                  <P>One woman died during treatment</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CORE_ITEM="YES"
+                    ID="QIT-05"
+                    LEVEL="STUDY"
+                    MODIFIED="2019-02-28 13:40:24 +0000"
+                    MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                    NO="5">
+         <NAME>Selective reporting (reporting bias)</NAME>
+         <DESCRIPTION>
+            <P>Reporting bias due to selective outcome reporting</P>
+         </DESCRIPTION>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2011-10-04 10:25:55 +0000"
+                                     MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Badawy-2009">
+               <DESCRIPTION>
+                  <P>Results of all outcomes mentioned in Methods section were reported in Results section</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="NO"
+                                     STUDY_ID="STD-Elgindy-2013">
+               <DESCRIPTION>
+                  <P>Adverse events as outcomes were not reported</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Gerber-2011">
+               <DESCRIPTION>
+                  <P>Results of all outcomes mentioned in protocol were reported</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2011-10-04 10:25:55 +0000"
+                                     MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Gilani-2007">
+               <DESCRIPTION>
+                  <P>Results of all outcomes mentioned in Methods section were reported in Results section</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2011-10-04 10:25:55 +0000"
+                                     MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Giuseppe-2007">
+               <DESCRIPTION>
+                  <P>Results of all outcomes mentioned in Methods section were reported in Results section</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Karimi_x002d_Zarchi-2014">
+               <DESCRIPTION>
+                  <P>Results of all outcomes mentioned in Methods section were reported in Results section</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Lambertini-2015a">
+               <DESCRIPTION>
+                  <P>All outcomes mentioned in the Protocol were reported</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Leonard-2017">
+               <DESCRIPTION>
+                  <P>All outcomes mentioned in Protocol were reported</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Moore-2015">
+               <DESCRIPTION>
+                  <P>All outcomes mentioned in Protocol were reported</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="NO"
+                                     STUDY_ID="STD-Munster-2012">
+               <DESCRIPTION>
+                  <P>Protocol was mentioned in the published article. Levels of serum inhibin A were not reported</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Song-2013">
+               <DESCRIPTION>
+                  <P>Results of all outcomes mentioned in Methods section were reported in Results section</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2011-10-04 10:25:55 +0000"
+                                     MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Waxman-1987">
+               <DESCRIPTION>
+                  <P>Results of all outcomes mentioned in Methods section were reported in Results section</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CORE_ITEM="YES"
+                    ID="QIT-06"
+                    LEVEL="STUDY"
+                    MODIFIED="2019-02-28 13:40:24 +0000"
+                    MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                    NO="6">
+         <NAME>Other bias</NAME>
+         <DESCRIPTION>
+            <P>Bias due to problems not covered elsewhere in the table</P>
+         </DESCRIPTION>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Badawy-2009">
+               <DESCRIPTION>
+                  <P>Protocol was not mentioned. There was no difference between groups regarding age, body weight, height, number of dissected lymph nodes, serum LH, and chemotherapy dose</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Elgindy-2013">
+               <DESCRIPTION>
+                  <P>Protocol was not mentioned. There was no significant difference in baseline characteristics between groups</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Gerber-2011">
+               <DESCRIPTION>
+                  <P>There was no significant difference in baseline characteristics between groups</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Gilani-2007">
+               <DESCRIPTION>
+                  <P>Protocol was not mentioned. There was no significant difference in baseline characteristics between groups</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Giuseppe-2007">
+               <DESCRIPTION>
+                  <P>Protocol was not mentioned. There was no significant difference in baseline characteristics between groups</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Karimi_x002d_Zarchi-2014">
+               <DESCRIPTION>
+                  <P>Protocol was not mentioned. There was no mention of baseline characteristics between groups</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Lambertini-2015a">
+               <DESCRIPTION>
+                  <P>No information specified. There was no significant difference in baseline characteristics between groups</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Leonard-2017">
+               <DESCRIPTION>
+                  <P>The original protocol restricted the entry of women to those with estradiol receptor-negative tumours only, but women with estradiol receptor-positive tumours for whom the investigator did not deem ovarian suppression necessary as part of the treatment were subsequently allowed entry to the trial after a protocol amendment. There was no significant difference in baseline characteristics between groups</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="NO"
+                                     STUDY_ID="STD-Moore-2015">
+               <DESCRIPTION>
+                  <P>The study closed early owing to loss of funding for study-drug distribution. ClinicalTrials.gov Identifier: NCT00196846</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="NO"
+                                     STUDY_ID="STD-Munster-2012">
+               <DESCRIPTION>
+                  <P>The study initially planned to enrol 124 women, but the trial was stopped for futility after 49 women were enrolled. The planned follow-up time was 5 years but was stopped early because no difference between the 2 groups was seen</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Song-2013">
+               <DESCRIPTION>
+                  <P>There was no significant difference in baseline characteristics between groups</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-02-28 13:40:24 +0000"
+                                     MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                                     RESULT="NO"
+                                     STUDY_ID="STD-Waxman-1987">
+               <DESCRIPTION>
+                  <P>Control groups included women who were &gt; 45 years old while GnRH-agonist group included women less than 34 years old. Besides, low dose of buserelin used in the study could have led to incomplete pituitary downregulation, which might have affected the results</P>
+               </DESCRIPTION>
+            </QUALITY_ITEM_DATA_ENTRY>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CORE_ITEM="NO"
+                    ID="QIT-07"
+                    LEVEL="GROUP"
+                    MODIFIED="2011-10-04 10:25:55 +0000"
+                    MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                    NO="7">
+         <NAME>Blinding of participants and personnel (performance bias)</NAME>
+         <DESCRIPTION>
+            <P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+         </DESCRIPTION>
+         <QUALITY_ITEM_DATA/>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CORE_ITEM="NO"
+                    ID="QIT-08"
+                    LEVEL="GROUP"
+                    MODIFIED="2011-10-04 10:25:55 +0000"
+                    MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                    NO="8">
+         <NAME>Blinding of outcome assessment (detection bias)</NAME>
+         <DESCRIPTION>
+            <P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+         </DESCRIPTION>
+         <QUALITY_ITEM_DATA/>
+      </QUALITY_ITEM>
+   </QUALITY_ITEMS>
+   <SOF_TABLES/>
+   <ADDITIONAL_TABLES/>
+   <ANALYSES_AND_DATA CALCULATED_DATA="YES"
+                      MODIFIED="2019-02-28 13:40:22 +0000"
+                      MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2">
+      <COMPARISON ID="CMP-001"
+                  MODIFIED="2019-02-28 13:40:22 +0000"
+                  MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                  NO="1">
+         <NAME>GnRH agonist plus chemotherapy versus chemotherapy alone</NAME>
+         <DICH_OUTCOME CHI2="53.59360469797337"
+                       CI_END="1.2734658988606877"
+                       CI_START="1.005920661050264"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="12"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="1.1318152052375474"
+                       ESTIMABLE="YES"
+                       EVENTS_1="504"
+                       EVENTS_2="386"
+                       I2="77.60926874087689"
+                       I2_Q="78.18198134062818"
+                       ID="CMP-001.01"
+                       LOG_CI_END="0.1049873198258059"
+                       LOG_CI_START="0.0025637284069270115"
+                       LOG_EFFECT_SIZE="0.05377552411636645"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:21 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="1"
+                       P_CHI2="3.2273947725425245E-7"
+                       P_Q="0.032283767146214615"
+                       P_Z="0.03958223338746046"
+                       Q="4.583367608270217"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="11"
+                       SUBGROUPS="YES"
+                       SUBGROUP_TEST="YES"
+                       SWAP_EVENTS="NO"
+                       TAU2="0.05081873273591821"
+                       TOTALS="SUB"
+                       TOTAL_1="686"
+                       TOTAL_2="643"
+                       WEIGHT="200.0"
+                       Z="2.0580823042378933">
+            <NAME>Menstruation recovery or maintenance</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_SUBGROUP CHI2="19.197931335578307"
+                           CI_END="2.242607091339807"
+                           CI_START="1.1408925524014115"
+                           DF="4"
+                           EFFECT_SIZE="1.5995542280498583"
+                           ESTIMABLE="YES"
+                           EVENTS_1="178"
+                           EVENTS_2="110"
+                           I2="79.16442178024123"
+                           ID="CMP-001.01.01"
+                           LOG_CI_END="0.35075319109960457"
+                           LOG_CI_START="0.05724474512245585"
+                           LOG_EFFECT_SIZE="0.20399896811103024"
+                           MODIFIED="2019-02-28 13:40:21 +0000"
+                           MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                           NO="1"
+                           P_CHI2="7.186001236292316E-4"
+                           P_Z="0.006440059168690872"
+                           STUDIES="5"
+                           TAU2="0.11045323295216232"
+                           TOTAL_1="239"
+                           TOTAL_2="221"
+                           WEIGHT="99.99999999999999"
+                           Z="2.7244914813257766">
+               <NAME>Follow-up time ≤ 12 months</NAME>
+               <DICH_DATA CI_END="4.2492744577473385"
+                          CI_START="1.705825496125242"
+                          EFFECT_SIZE="2.6923076923076925"
+                          ESTIMABLE="YES"
+                          EVENTS_1="35"
+                          EVENTS_2="13"
+                          LOG_CI_END="0.628314782780671"
+                          LOG_CI_START="0.2319346013062068"
+                          LOG_EFFECT_SIZE="0.4301246920434389"
+                          MODIFIED="2019-02-28 13:40:21 +0000"
+                          MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                          ORDER="1"
+                          O_E="0.0"
+                          SE="0.2328356807116431"
+                          STUDY_ID="STD-Badawy-2009"
+                          TOTAL_1="39"
+                          TOTAL_2="39"
+                          VAR="0.05421245421245421"
+                          WEIGHT="18.051500144250515"/>
+               <DICH_DATA CI_END="1.361993498747681"
+                          CI_START="0.8094752295174107"
+                          EFFECT_SIZE="1.05"
+                          ESTIMABLE="YES"
+                          EVENTS_1="21"
+                          EVENTS_2="20"
+                          LOG_CI_END="0.13417503454831828"
+                          LOG_CI_START="-0.09179643640844204"
+                          LOG_EFFECT_SIZE="0.021189299069938092"
+                          MODIFIED="2019-02-28 13:40:21 +0000"
+                          MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                          ORDER="24"
+                          O_E="0.0"
+                          SE="0.1327367606168224"
+                          STUDY_ID="STD-Elgindy-2013"
+                          TOTAL_1="25"
+                          TOTAL_2="25"
+                          VAR="0.017619047619047618"
+                          WEIGHT="23.20925857139285"/>
+               <DICH_DATA CI_END="2.127294014517109"
+                          CI_START="1.0243710117757863"
+                          EFFECT_SIZE="1.4761904761904763"
+                          ESTIMABLE="YES"
+                          EVENTS_1="15"
+                          EVENTS_2="10"
+                          LOG_CI_END="0.3278275181387406"
+                          LOG_CI_START="0.010457280061966251"
+                          LOG_EFFECT_SIZE="0.16914239910035345"
+                          MODIFIED="2019-02-28 13:40:21 +0000"
+                          MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                          ORDER="4"
+                          O_E="0.0"
+                          SE="0.1864248488543126"
+                          STUDY_ID="STD-Gilani-2007"
+                          TOTAL_1="15"
+                          TOTAL_2="15"
+                          VAR="0.034754224270353296"
+                          WEIGHT="20.470454702957777"/>
+               <DICH_DATA CI_END="5.048544893589124"
+                          CI_START="1.4593010647743094"
+                          EFFECT_SIZE="2.7142857142857144"
+                          ESTIMABLE="YES"
+                          EVENTS_1="19"
+                          EVENTS_2="7"
+                          LOG_CI_END="0.7031662225252847"
+                          LOG_CI_START="0.1641448993518596"
+                          LOG_EFFECT_SIZE="0.43365556093857216"
+                          MODIFIED="2019-02-28 13:40:21 +0000"
+                          MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                          ORDER="58"
+                          O_E="0.0"
+                          SE="0.3166237934306518"
+                          STUDY_ID="STD-Karimi_x002d_Zarchi-2014"
+                          TOTAL_1="21"
+                          TOTAL_2="21"
+                          VAR="0.10025062656641603"
+                          WEIGHT="14.107300561065871"/>
+               <DICH_DATA CI_END="1.5905281892178957"
+                          CI_START="1.0248554455363663"
+                          EFFECT_SIZE="1.2767386091127098"
+                          ESTIMABLE="YES"
+                          EVENTS_1="88"
+                          EVENTS_2="60"
+                          LOG_CI_END="0.2015413705910045"
+                          LOG_CI_START="0.010662613066755392"
+                          LOG_EFFECT_SIZE="0.10610199182887997"
+                          MODIFIED="2019-02-28 13:40:21 +0000"
+                          MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                          ORDER="66"
+                          O_E="0.0"
+                          SE="0.11212312703483224"
+                          STUDY_ID="STD-Lambertini-2015a"
+                          TOTAL_1="139"
+                          TOTAL_2="121"
+                          VAR="0.012571595616069128"
+                          WEIGHT="24.161486020332976"/>
+            </DICH_SUBGROUP>
+            <DICH_SUBGROUP CHI2="16.064634526548943"
+                           CI_END="1.2234678304156477"
+                           CI_START="0.9512580533347481"
+                           DF="7"
+                           EFFECT_SIZE="1.0788112099338218"
+                           ESTIMABLE="YES"
+                           EVENTS_1="326"
+                           EVENTS_2="276"
+                           I2="56.4260239569623"
+                           ID="CMP-001.01.02"
+                           LOG_CI_END="0.08759255459778442"
+                           LOG_CI_START="-0.021701653475996764"
+                           LOG_EFFECT_SIZE="0.03294545056089381"
+                           MODIFIED="2019-02-28 13:40:21 +0000"
+                           MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                           NO="2"
+                           P_CHI2="0.02453238261253543"
+                           P_Z="0.23735809339168246"
+                           STUDIES="8"
+                           TAU2="0.015143735907484218"
+                           TOTAL_1="447"
+                           TOTAL_2="422"
+                           WEIGHT="100.0"
+                           Z="1.1816160744804751">
+               <NAME>Follow-up time &gt; 12 months</NAME>
+               <DICH_DATA CI_END="1.797728386398547"
+                          CI_START="0.6451271072894735"
+                          EFFECT_SIZE="1.0769230769230769"
+                          ESTIMABLE="YES"
+                          EVENTS_1="14"
+                          EVENTS_2="13"
+                          LOG_CI_END="0.2547240760518194"
+                          LOG_CI_START="-0.19035470930901688"
+                          LOG_EFFECT_SIZE="0.032184683371401235"
+                          MODIFIED="2019-02-28 13:40:21 +0000"
+                          MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                          ORDER="65"
+                          O_E="0.0"
+                          SE="0.26144148169647513"
+                          STUDY_ID="STD-Elgindy-2013"
+                          TOTAL_1="25"
+                          TOTAL_2="25"
+                          VAR="0.06835164835164834"
+                          WEIGHT="4.936362352626697"/>
+               <DICH_DATA CI_END="1.084765488100891"
+                          CI_START="0.859377951849082"
+                          EFFECT_SIZE="0.9655172413793104"
+                          ESTIMABLE="YES"
+                          EVENTS_1="28"
+                          EVENTS_2="29"
+                          LOG_CI_END="0.03533585962976551"
+                          LOG_CI_START="-0.06581579274323926"
+                          LOG_EFFECT_SIZE="-0.015239966556736846"
+                          MODIFIED="2019-02-28 13:40:21 +0000"
+                          MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                          ORDER="26"
+                          O_E="0.0"
+                          SE="0.05941698131265759"
+                          STUDY_ID="STD-Gerber-2011"
+                          TOTAL_1="30"
+                          TOTAL_2="30"
+                          VAR="0.0035303776683087013"
+                          WEIGHT="22.071380780781226"/>
+               <DICH_DATA CI_END="2.910668413778492"
+                          CI_START="1.1375300213288342"
+                          EFFECT_SIZE="1.8196078431372549"
+                          ESTIMABLE="YES"
+                          EVENTS_1="14"
+                          EVENTS_2="8"
+                          LOG_CI_END="0.46399273300026006"
+                          LOG_CI_START="0.05596286724159127"
+                          LOG_EFFECT_SIZE="0.2599778001209257"
+                          MODIFIED="2019-02-28 13:40:21 +0000"
+                          MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                          ORDER="5"
+                          O_E="0.0"
+                          SE="0.23967876292705212"
+                          STUDY_ID="STD-Giuseppe-2007"
+                          TOTAL_1="14"
+                          TOTAL_2="15"
+                          VAR="0.057445909398242054"
+                          WEIGHT="5.6779926357122985"/>
+               <DICH_DATA CI_END="1.24312424986227"
+                          CI_START="0.9485032539320796"
+                          EFFECT_SIZE="1.085867117117117"
+                          ESTIMABLE="YES"
+                          EVENTS_1="116"
+                          EVENTS_2="96"
+                          LOG_CI_END="0.09451453840252784"
+                          LOG_CI_START="-0.022961174883570988"
+                          LOG_EFFECT_SIZE="0.035776681759478436"
+                          MODIFIED="2019-02-28 13:40:21 +0000"
+                          MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                          ORDER="28"
+                          O_E="0.0"
+                          SE="0.06900581549841377"
+                          STUDY_ID="STD-Lambertini-2015a"
+                          TOTAL_1="148"
+                          TOTAL_2="133"
+                          VAR="0.004761802572601122"
+                          WEIGHT="20.70596944097915"/>
+               <DICH_DATA CI_END="1.1963142054142364"
+                          CI_START="0.8283425371369036"
+                          EFFECT_SIZE="0.9954687057490795"
+                          ESTIMABLE="YES"
+                          EVENTS_1="74"
+                          EVENTS_2="66"
+                          LOG_CI_END="0.07784525971600809"
+                          LOG_CI_START="-0.08179003613051686"
+                          LOG_EFFECT_SIZE="-0.001972388207254378"
+                          MODIFIED="2019-02-28 13:40:21 +0000"
+                          MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                          ORDER="57"
+                          O_E="0.0"
+                          SE="0.09377056298770749"
+                          STUDY_ID="STD-Leonard-2017"
+                          TOTAL_1="107"
+                          TOTAL_2="95"
+                          VAR="0.008792918483031617"
+                          WEIGHT="17.218925617198565"/>
+               <DICH_DATA CI_END="1.1897747540668568"
+                          CI_START="0.8034810053425777"
+                          EFFECT_SIZE="0.9777327935222672"
+                          ESTIMABLE="YES"
+                          EVENTS_1="23"
+                          EVENTS_2="19"
+                          LOG_CI_END="0.07546474935463922"
+                          LOG_CI_START="-0.09502438569890882"
+                          LOG_EFFECT_SIZE="-0.009779818172134799"
+                          MODIFIED="2019-02-28 13:40:21 +0000"
+                          MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                          ORDER="29"
+                          O_E="0.0"
+                          SE="0.10014616186528345"
+                          STUDY_ID="STD-Munster-2012"
+                          TOTAL_1="26"
+                          TOTAL_2="21"
+                          VAR="0.010029253736347554"
+                          WEIGHT="16.373242801372044"/>
+               <DICH_DATA CI_END="1.927573523707583"
+                          CI_START="1.068777412002738"
+                          EFFECT_SIZE="1.4353212330740421"
+                          ESTIMABLE="YES"
+                          EVENTS_1="53"
+                          EVENTS_2="39"
+                          LOG_CI_END="0.2850109523943365"
+                          LOG_CI_START="0.02888726666381505"
+                          LOG_EFFECT_SIZE="0.15694910952907573"
+                          MODIFIED="2019-02-28 13:40:21 +0000"
+                          MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                          ORDER="27"
+                          O_E="0.0"
+                          SE="0.1504483208308"
+                          STUDY_ID="STD-Song-2013"
+                          TOTAL_1="89"
+                          TOTAL_2="94"
+                          VAR="0.022634697240807328"
+                          WEIGHT="10.910020271540057"/>
+               <DICH_DATA CI_END="1.7248541183027257"
+                          CI_START="0.32611453573448046"
+                          EFFECT_SIZE="0.75"
+                          ESTIMABLE="YES"
+                          EVENTS_1="4"
+                          EVENTS_2="6"
+                          LOG_CI_END="0.23675236996277021"
+                          LOG_CI_START="-0.4866298431793701"
+                          LOG_EFFECT_SIZE="-0.12493873660829995"
+                          MODIFIED="2019-02-28 13:40:21 +0000"
+                          MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                          ORDER="147"
+                          O_E="0.0"
+                          SE="0.4249182927993987"
+                          STUDY_ID="STD-Waxman-1987"
+                          TOTAL_1="8"
+                          TOTAL_2="9"
+                          VAR="0.18055555555555552"
+                          WEIGHT="2.1061060997899617"/>
+            </DICH_SUBGROUP>
+         </DICH_OUTCOME>
+         <DICH_OUTCOME CHI2="2.4437713064185287"
+                       CI_END="0.6079076658910183"
+                       CI_START="0.3136076250535284"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="3"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="0.43662853703338733"
+                       ESTIMABLE="YES"
+                       EVENTS_1="43"
+                       EVENTS_2="96"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.02"
+                       LOG_CI_END="-0.21616238000233864"
+                       LOG_CI_START="-0.5036133864263327"
+                       LOG_EFFECT_SIZE="-0.3598878832143357"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:21 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="2"
+                       P_CHI2="0.4855388470623706"
+                       P_Q="1.0"
+                       P_Z="9.213224368051416E-7"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="4"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="YES"
+                       SWAP_EVENTS="NO"
+                       TAU2="0.0"
+                       TOTALS="YES"
+                       TOTAL_1="401"
+                       TOTAL_2="379"
+                       WEIGHT="100.00000000000001"
+                       Z="4.907739223789872">
+            <NAME>Premature ovarian failure (POF)</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="0.5877019071778828"
+                       CI_START="0.16234765604092444"
+                       EFFECT_SIZE="0.3088883731724298"
+                       ESTIMABLE="YES"
+                       EVENTS_1="11"
+                       EVENTS_2="31"
+                       LOG_CI_END="-0.23084289993476476"
+                       LOG_CI_START="-0.7895539772926207"
+                       LOG_EFFECT_SIZE="-0.5101984386136926"
+                       MODIFIED="2019-02-28 13:40:21 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="48"
+                       O_E="0.0"
+                       SE="0.3281896525044415"
+                       STUDY_ID="STD-Lambertini-2015a"
+                       TOTAL_1="139"
+                       TOTAL_2="121"
+                       VAR="0.10770844801098604"
+                       WEIGHT="26.46994890554171"/>
+            <DICH_DATA CI_END="0.8793257420542583"
+                       CI_START="0.24402632977392913"
+                       EFFECT_SIZE="0.4632263307598537"
+                       ESTIMABLE="YES"
+                       EVENTS_1="12"
+                       EVENTS_2="23"
+                       LOG_CI_END="-0.055850212787000336"
+                       LOG_CI_START="-0.6125633119456596"
+                       LOG_EFFECT_SIZE="-0.33420676236632996"
+                       MODIFIED="2019-02-28 13:40:21 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="59"
+                       O_E="0.0"
+                       SE="0.32701603022008185"
+                       STUDY_ID="STD-Leonard-2017"
+                       TOTAL_1="107"
+                       TOTAL_2="95"
+                       VAR="0.1069394840209015"
+                       WEIGHT="26.660284941984163"/>
+            <DICH_DATA CI_END="0.9048798412380994"
+                       CI_START="0.1342075313086272"
+                       EFFECT_SIZE="0.3484848484848485"
+                       ESTIMABLE="YES"
+                       EVENTS_1="5"
+                       EVENTS_2="15"
+                       LOG_CI_END="-0.043409086818953"
+                       LOG_CI_START="-0.8722231122295985"
+                       LOG_EFFECT_SIZE="-0.45781609952427577"
+                       MODIFIED="2019-02-28 13:40:21 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="60"
+                       O_E="0.0"
+                       SE="0.48684946122180633"
+                       STUDY_ID="STD-Moore-2015"
+                       TOTAL_1="66"
+                       TOTAL_2="69"
+                       VAR="0.2370223978919631"
+                       WEIGHT="12.028555701497561"/>
+            <DICH_DATA CI_END="1.0279186759742527"
+                       CI_START="0.334943787528985"
+                       EFFECT_SIZE="0.5867665418227216"
+                       ESTIMABLE="YES"
+                       EVENTS_1="15"
+                       EVENTS_2="27"
+                       LOG_CI_END="0.011958756709149877"
+                       LOG_CI_START="-0.47502807300619027"
+                       LOG_EFFECT_SIZE="-0.2315346581485202"
+                       MODIFIED="2019-02-28 13:40:21 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="28"
+                       O_E="0.0"
+                       SE="0.2860584743984759"
+                       STUDY_ID="STD-Song-2013"
+                       TOTAL_1="89"
+                       TOTAL_2="94"
+                       VAR="0.0818294507751835"
+                       WEIGHT="34.84121045097657"/>
+         </DICH_OUTCOME>
+         <DICH_OUTCOME CHI2="5.890238892749527"
+                       CI_END="2.699465340321354"
+                       CI_START="0.9333891415675767"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="6"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="1.587341058718628"
+                       ESTIMABLE="YES"
+                       EVENTS_1="32"
+                       EVENTS_2="22"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.03"
+                       LOG_CI_END="0.4312777557362063"
+                       LOG_CI_START="-0.02993725571646548"
+                       LOG_EFFECT_SIZE="0.2006702500098704"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:21 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="3"
+                       P_CHI2="0.43559746666514054"
+                       P_Q="1.0"
+                       P_Z="0.08809687972946652"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="1000.0"
+                       SORT_BY="STUDY"
+                       STUDIES="7"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="YES"
+                       SWAP_EVENTS="NO"
+                       TAU2="0.0"
+                       TOTALS="YES"
+                       TOTAL_1="356"
+                       TOTAL_2="347"
+                       WEIGHT="100.0"
+                       Z="1.705523250638403">
+            <NAME>Pregnancy</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="15.116785694102392"
+                       CI_START="0.06615162907218672"
+                       EFFECT_SIZE="1.0"
+                       ESTIMABLE="YES"
+                       EVENTS_1="1"
+                       EVENTS_2="1"
+                       LOG_CI_END="1.1794594562633327"
+                       LOG_CI_START="-1.1794594562633327"
+                       LOG_EFFECT_SIZE="0.0"
+                       MODIFIED="2019-02-28 13:40:21 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="50"
+                       O_E="0.0"
+                       SE="1.3856406460551018"
+                       STUDY_ID="STD-Elgindy-2013"
+                       TOTAL_1="25"
+                       TOTAL_2="25"
+                       VAR="1.92"
+                       WEIGHT="3.822793540884533"/>
+            <DICH_DATA CI_END="15.259760455310136"
+                       CI_START="0.0655318281652329"
+                       EFFECT_SIZE="1.0"
+                       ESTIMABLE="YES"
+                       EVENTS_1="1"
+                       EVENTS_2="1"
+                       LOG_CI_END="1.1835477162038213"
+                       LOG_CI_START="-1.1835477162038213"
+                       LOG_EFFECT_SIZE="0.0"
+                       MODIFIED="2019-02-28 13:40:21 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="49"
+                       O_E="0.0"
+                       SE="1.390443574307614"
+                       STUDY_ID="STD-Gerber-2011"
+                       TOTAL_1="30"
+                       TOTAL_2="30"
+                       VAR="1.9333333333333331"
+                       WEIGHT="3.7964294474991225"/>
+            <DICH_DATA CI_END="4.090331773254378"
+                       CI_START="0.011126508467771861"
+                       EFFECT_SIZE="0.21333333333333335"
+                       ESTIMABLE="YES"
+                       EVENTS_1="0"
+                       EVENTS_2="2"
+                       LOG_CI_END="0.6117585357457006"
+                       LOG_CI_START="-1.953641097217251"
+                       LOG_EFFECT_SIZE="-0.6709412807357752"
+                       MODIFIED="2019-02-28 13:40:21 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="19"
+                       O_E="0.0"
+                       SE="1.5069284433354269"
+                       STUDY_ID="STD-Giuseppe-2007"
+                       TOTAL_1="14"
+                       TOTAL_2="15"
+                       VAR="2.270833333333333"
+                       WEIGHT="3.2321894745680604"/>
+            <DICH_DATA CI_END="8.846662358480758"
+                       CI_START="0.6491392409880368"
+                       EFFECT_SIZE="2.3963963963963963"
+                       ESTIMABLE="YES"
+                       EVENTS_1="8"
+                       EVENTS_2="3"
+                       LOG_CI_END="0.9467794523142001"
+                       LOG_CI_START="-0.18766213662538098"
+                       LOG_EFFECT_SIZE="0.37955865784440956"
+                       MODIFIED="2019-02-28 13:40:21 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="29"
+                       O_E="0.0"
+                       SE="0.666376604919542"
+                       STUDY_ID="STD-Lambertini-2015a"
+                       TOTAL_1="148"
+                       TOTAL_2="133"
+                       VAR="0.44405777958409537"
+                       WEIGHT="16.52884812731516"/>
+            <DICH_DATA CI_END="3.7841958824177913"
+                       CI_START="1.0286971806241207"
+                       EFFECT_SIZE="1.9730158730158731"
+                       ESTIMABLE="YES"
+                       EVENTS_1="22"
+                       EVENTS_2="12"
+                       LOG_CI_END="0.5779736088215475"
+                       LOG_CI_START="0.012287549554578718"
+                       LOG_EFFECT_SIZE="0.29513057918806307"
+                       MODIFIED="2019-02-28 13:40:21 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="41"
+                       O_E="0.0"
+                       SE="0.33228679140457174"
+                       STUDY_ID="STD-Moore-2015"
+                       TOTAL_1="105"
+                       TOTAL_2="113"
+                       VAR="0.11041451174194537"
+                       WEIGHT="66.47462804212175"/>
+            <DICH_DATA CI_END="3.220357525513987"
+                       CI_START="0.008246577309278547"
+                       EFFECT_SIZE="0.16296296296296298"
+                       ESTIMABLE="YES"
+                       EVENTS_1="0"
+                       EVENTS_2="2"
+                       LOG_CI_END="0.5079040899375693"
+                       LOG_CI_START="-2.0837262652831687"
+                       LOG_EFFECT_SIZE="-0.7879110876727998"
+                       MODIFIED="2019-02-28 13:40:21 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="28"
+                       O_E="0.0"
+                       SE="1.52233649943382"
+                       STUDY_ID="STD-Munster-2012"
+                       TOTAL_1="26"
+                       TOTAL_2="21"
+                       VAR="2.3175084175084173"
+                       WEIGHT="3.1670925305157582"/>
+            <DICH_DATA CI_END="8.837849728013516"
+                       CI_START="0.018780676377005198"
+                       EFFECT_SIZE="0.4074074074074074"
+                       ESTIMABLE="YES"
+                       EVENTS_1="0"
+                       EVENTS_2="1"
+                       LOG_CI_END="0.9463466128803426"
+                       LOG_CI_START="-1.726288770881867"
+                       LOG_EFFECT_SIZE="-0.3899710790007623"
+                       MODIFIED="2019-02-28 13:40:21 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="18"
+                       O_E="0.0"
+                       SE="1.5699192541804385"
+                       STUDY_ID="STD-Waxman-1987"
+                       TOTAL_1="8"
+                       TOTAL_2="10"
+                       VAR="2.4646464646464645"
+                       WEIGHT="2.978018837095623"/>
+         </DICH_OUTCOME>
+         <DICH_OUTCOME CHI2="0.9030378682382514"
+                       CI_END="4.259322724151478"
+                       CI_START="1.434290610524324"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="1"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="2.471660694845341"
+                       ESTIMABLE="YES"
+                       EVENTS_1="29"
+                       EVENTS_2="12"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.04"
+                       LOG_CI_END="0.6293405473309096"
+                       LOG_CI_START="0.15663715534857495"
+                       LOG_EFFECT_SIZE="0.3929888513397424"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:21 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="4"
+                       P_CHI2="0.34196857404342984"
+                       P_Q="1.0"
+                       P_Z="0.001118493324302714"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="1000.0"
+                       SORT_BY="STUDY"
+                       STUDIES="2"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="YES"
+                       SWAP_EVENTS="NO"
+                       TAU2="0.0"
+                       TOTALS="YES"
+                       TOTAL_1="47"
+                       TOTAL_2="48"
+                       WEIGHT="100.0"
+                       Z="3.2588892232042417">
+            <NAME>Ovulation</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="4.79324046878178"
+                       CI_START="1.5208917740471264"
+                       EFFECT_SIZE="2.7"
+                       ESTIMABLE="YES"
+                       EVENTS_1="27"
+                       EVENTS_2="10"
+                       LOG_CI_END="0.6806292173592629"
+                       LOG_CI_START="0.18209831095871176"
+                       LOG_EFFECT_SIZE="0.43136376415898736"
+                       MODIFIED="2019-02-28 13:40:21 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="2"
+                       O_E="0.0"
+                       SE="0.29283952218747006"
+                       STUDY_ID="STD-Badawy-2009"
+                       TOTAL_1="39"
+                       TOTAL_2="39"
+                       VAR="0.08575498575498577"
+                       WEIGHT="89.90694945091793"/>
+            <DICH_DATA CI_END="6.238913258297558"
+                       CI_START="0.20285984875919832"
+                       EFFECT_SIZE="1.125"
+                       ESTIMABLE="YES"
+                       EVENTS_1="2"
+                       EVENTS_2="2"
+                       LOG_CI_END="0.7951089475305717"
+                       LOG_CI_START="-0.6928039026358092"
+                       LOG_EFFECT_SIZE="0.05115252244738129"
+                       MODIFIED="2019-02-28 13:40:21 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="148"
+                       O_E="0.0"
+                       SE="0.8740073734751262"
+                       STUDY_ID="STD-Waxman-1987"
+                       TOTAL_1="8"
+                       TOTAL_2="9"
+                       VAR="0.7638888888888888"
+                       WEIGHT="10.09305054908207"/>
+         </DICH_OUTCOME>
+         <CONT_OUTCOME CHI2="0.0"
+                       CI_END="0.0"
+                       CI_START="0.0"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="0"
+                       EFFECT_MEASURE="SMD"
+                       EFFECT_SIZE="0.0"
+                       ESTIMABLE="NO"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.05"
+                       MODIFIED="2019-02-28 13:40:21 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="5"
+                       P_CHI2="0.0"
+                       P_Q="0.0"
+                       P_Z="0.0"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="10.0"
+                       SORT_BY="STUDY"
+                       STUDIES="1"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="NO"
+                       TAU2="NaN"
+                       TOTALS="NO"
+                       TOTAL_1="14"
+                       TOTAL_2="15"
+                       UNITS=""
+                       WEIGHT="0.0"
+                       Z="0.0">
+            <NAME>Antral follicle count</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <CONT_DATA CI_END="1.8985470433171612"
+                       CI_START="0.31789033817615453"
+                       EFFECT_SIZE="1.1082186907466578"
+                       ESTIMABLE="YES"
+                       MEAN_1="3.35"
+                       MEAN_2="0.33"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="12"
+                       SD_1="2.8"
+                       SD_2="2.5"
+                       SE="0.40323616087056313"
+                       STUDY_ID="STD-Giuseppe-2007"
+                       TOTAL_1="14"
+                       TOTAL_2="15"
+                       WEIGHT="0.0"/>
+         </CONT_OUTCOME>
+         <CONT_OUTCOME CHI2="4.76424289272939"
+                       CI_END="1.3122124195215092"
+                       CI_START="-0.7958912974560737"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="1"
+                       EFFECT_MEASURE="SMD"
+                       EFFECT_SIZE="0.2581605610327178"
+                       ESTIMABLE="YES"
+                       I2="79.01030609656617"
+                       I2_Q="0.0"
+                       ID="CMP-001.06"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="6"
+                       P_CHI2="0.029056931354237925"
+                       P_Q="1.0"
+                       P_Z="0.631200066980006"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="10.0"
+                       SORT_BY="STUDY"
+                       STUDIES="2"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="YES"
+                       TAU2="0.45748461400993945"
+                       TOTALS="YES"
+                       TOTAL_1="35"
+                       TOTAL_2="36"
+                       UNITS=""
+                       WEIGHT="100.0"
+                       Z="0.4800384324336941">
+            <NAME>FSH (mUI/L)</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <CONT_DATA CI_END="0.4360452965914966"
+                       CI_START="-1.0298940287766487"
+                       EFFECT_SIZE="-0.2969243660925761"
+                       ESTIMABLE="YES"
+                       MEAN_1="6.54"
+                       MEAN_2="11.15"
+                       MODIFIED="2011-10-04 10:25:55 +0000"
+                       MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                       ORDER="8"
+                       SD_1="5.6"
+                       SD_2="20.25"
+                       SE="0.37397098541893825"
+                       STUDY_ID="STD-Giuseppe-2007"
+                       TOTAL_1="14"
+                       TOTAL_2="15"
+                       WEIGHT="48.418013599960325"/>
+            <CONT_DATA CI_END="1.408874565032723"
+                       CI_START="0.14952001819219984"
+                       EFFECT_SIZE="0.7791972916124614"
+                       ESTIMABLE="YES"
+                       MEAN_1="48.09"
+                       MEAN_2="29.64"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="59"
+                       SD_1="29.67"
+                       SD_2="14.11"
+                       SE="0.32126981841864216"
+                       STUDY_ID="STD-Karimi_x002d_Zarchi-2014"
+                       TOTAL_1="21"
+                       TOTAL_2="21"
+                       WEIGHT="51.58198640003967"/>
+         </CONT_OUTCOME>
+         <DICH_OUTCOME CHI2="0.0"
+                       CI_END="0.0"
+                       CI_START="0.0"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="0"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="0.0"
+                       ESTIMABLE="NO"
+                       EVENTS_1="15"
+                       EVENTS_2="10"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.07"
+                       LOG_CI_END="-Infinity"
+                       LOG_CI_START="-Infinity"
+                       LOG_EFFECT_SIZE="-Infinity"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="7"
+                       P_CHI2="0.0"
+                       P_Q="0.0"
+                       P_Z="0.0"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="1"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="NO"
+                       SWAP_EVENTS="NO"
+                       TAU2="NaN"
+                       TOTALS="NO"
+                       TOTAL_1="15"
+                       TOTAL_2="15"
+                       WEIGHT="0.0"
+                       Z="0.0">
+            <NAME>FSH &lt; 20 mIU/mL</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="2.127294014517109"
+                       CI_START="1.0243710117757863"
+                       EFFECT_SIZE="1.4761904761904763"
+                       ESTIMABLE="YES"
+                       EVENTS_1="15"
+                       EVENTS_2="10"
+                       LOG_CI_END="0.3278275181387406"
+                       LOG_CI_START="0.010457280061966251"
+                       LOG_EFFECT_SIZE="0.16914239910035345"
+                       MODIFIED="2011-10-04 10:25:55 +0000"
+                       MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                       ORDER="15"
+                       O_E="0.0"
+                       SE="0.1864248488543126"
+                       STUDY_ID="STD-Gilani-2007"
+                       TOTAL_1="15"
+                       TOTAL_2="15"
+                       VAR="0.034754224270353296"
+                       WEIGHT="0.0"/>
+         </DICH_OUTCOME>
+         <CONT_OUTCOME CHI2="1.8099446746648593"
+                       CI_END="0.028563425865380077"
+                       CI_START="-1.2761644912049852"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="1"
+                       EFFECT_MEASURE="SMD"
+                       EFFECT_SIZE="-0.6238005326698026"
+                       ESTIMABLE="YES"
+                       I2="44.749692407854056"
+                       I2_Q="0.0"
+                       ID="CMP-001.08"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="8"
+                       P_CHI2="0.17851501794518299"
+                       P_Q="1.0"
+                       P_Z="0.06091003546652076"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="10.0"
+                       SORT_BY="EFFECT_SIZE"
+                       STUDIES="2"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="YES"
+                       TAU2="0.09969371647737908"
+                       TOTALS="YES"
+                       TOTAL_1="35"
+                       TOTAL_2="36"
+                       UNITS=""
+                       WEIGHT="100.0"
+                       Z="1.8741479531073404">
+            <NAME>LH (mUI/L)</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <CONT_DATA CI_END="-0.292821875063216"
+                       CI_START="-1.5731024810236947"
+                       EFFECT_SIZE="-0.9329621780434554"
+                       ESTIMABLE="YES"
+                       MEAN_1="11.7"
+                       MEAN_2="22.64"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="60"
+                       SD_1="6.35"
+                       SD_2="14.98"
+                       SE="0.32660819690034326"
+                       STUDY_ID="STD-Karimi_x002d_Zarchi-2014"
+                       TOTAL_1="21"
+                       TOTAL_2="21"
+                       WEIGHT="53.68392524595613"/>
+            <CONT_DATA CI_END="0.4665856666634074"
+                       CI_START="-0.9975020497499301"
+                       EFFECT_SIZE="-0.26545819154326133"
+                       ESTIMABLE="YES"
+                       MEAN_1="5.16"
+                       MEAN_2="7.6"
+                       MODIFIED="2011-10-04 10:25:55 +0000"
+                       MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                       ORDER="9"
+                       SD_1="3.19"
+                       SD_2="12.02"
+                       SE="0.37349862751608565"
+                       STUDY_ID="STD-Giuseppe-2007"
+                       TOTAL_1="14"
+                       TOTAL_2="15"
+                       WEIGHT="46.31607475404386"/>
+         </CONT_OUTCOME>
+         <DICH_OUTCOME CHI2="0.0"
+                       CI_END="0.0"
+                       CI_START="0.0"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="0"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="0.0"
+                       ESTIMABLE="NO"
+                       EVENTS_1="15"
+                       EVENTS_2="10"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.09"
+                       LOG_CI_END="-Infinity"
+                       LOG_CI_START="-Infinity"
+                       LOG_EFFECT_SIZE="-Infinity"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="9"
+                       P_CHI2="0.0"
+                       P_Q="0.0"
+                       P_Z="0.0"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="1"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="NO"
+                       SWAP_EVENTS="NO"
+                       TAU2="NaN"
+                       TOTALS="NO"
+                       TOTAL_1="15"
+                       TOTAL_2="15"
+                       WEIGHT="0.0"
+                       Z="0.0">
+            <NAME>LH &lt; 20 mIU/L</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="2.127294014517109"
+                       CI_START="1.0243710117757863"
+                       EFFECT_SIZE="1.4761904761904763"
+                       ESTIMABLE="YES"
+                       EVENTS_1="15"
+                       EVENTS_2="10"
+                       LOG_CI_END="0.3278275181387406"
+                       LOG_CI_START="0.010457280061966251"
+                       LOG_EFFECT_SIZE="0.16914239910035345"
+                       MODIFIED="2011-10-04 10:25:55 +0000"
+                       MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                       ORDER="16"
+                       O_E="0.0"
+                       SE="0.1864248488543126"
+                       STUDY_ID="STD-Gilani-2007"
+                       TOTAL_1="15"
+                       TOTAL_2="15"
+                       VAR="0.034754224270353296"
+                       WEIGHT="0.0"/>
+         </DICH_OUTCOME>
+         <CONT_OUTCOME CHI2="0.0"
+                       CI_END="0.0"
+                       CI_START="0.0"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="0"
+                       EFFECT_MEASURE="SMD"
+                       EFFECT_SIZE="0.0"
+                       ESTIMABLE="NO"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.10"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="10"
+                       P_CHI2="0.0"
+                       P_Q="0.0"
+                       P_Z="0.0"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="10.0"
+                       SORT_BY="STUDY"
+                       STUDIES="1"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="NO"
+                       TAU2="NaN"
+                       TOTALS="NO"
+                       TOTAL_1="14"
+                       TOTAL_2="15"
+                       UNITS=""
+                       WEIGHT="0.0"
+                       Z="0.0">
+            <NAME>AMH (pmol/L)</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <CONT_DATA CI_END="0.676063078177884"
+                       CI_START="-0.7809171372626778"
+                       EFFECT_SIZE="-0.05242702954239692"
+                       ESTIMABLE="YES"
+                       MEAN_1="8.01"
+                       MEAN_2="8.58"
+                       MODIFIED="2011-10-04 10:25:55 +0000"
+                       MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                       ORDER="11"
+                       SD_1="9.5"
+                       SD_2="11.47"
+                       SE="0.371685456195378"
+                       STUDY_ID="STD-Giuseppe-2007"
+                       TOTAL_1="14"
+                       TOTAL_2="15"
+                       WEIGHT="0.0"/>
+         </CONT_OUTCOME>
+         <CONT_OUTCOME CHI2="0.0"
+                       CI_END="0.0"
+                       CI_START="0.0"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="0"
+                       EFFECT_MEASURE="SMD"
+                       EFFECT_SIZE="0.0"
+                       ESTIMABLE="NO"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.11"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="11"
+                       P_CHI2="0.0"
+                       P_Q="0.0"
+                       P_Z="0.0"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="10.0"
+                       SORT_BY="STUDY"
+                       STUDIES="1"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="NO"
+                       TAU2="NaN"
+                       TOTALS="NO"
+                       TOTAL_1="14"
+                       TOTAL_2="15"
+                       UNITS=""
+                       WEIGHT="0.0"
+                       Z="0.0">
+            <NAME>Inhibin B</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <CONT_DATA CI_END="0.7835957900184207"
+                       CI_START="-0.6734145557393836"
+                       EFFECT_SIZE="0.055090617139518565"
+                       ESTIMABLE="YES"
+                       MEAN_1="62.25"
+                       MEAN_2="58.23"
+                       MODIFIED="2011-10-04 10:25:55 +0000"
+                       MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                       ORDER="10"
+                       SD_1="61.53"
+                       SD_2="78.65"
+                       SE="0.3716931426420373"
+                       STUDY_ID="STD-Giuseppe-2007"
+                       TOTAL_1="14"
+                       TOTAL_2="15"
+                       WEIGHT="0.0"/>
+         </CONT_OUTCOME>
+         <CONT_OUTCOME CHI2="0.0"
+                       CI_END="0.0"
+                       CI_START="0.0"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="0"
+                       EFFECT_MEASURE="SMD"
+                       EFFECT_SIZE="0.0"
+                       ESTIMABLE="NO"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.12"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="12"
+                       P_CHI2="0.0"
+                       P_Q="0.0"
+                       P_Z="0.0"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="10.0"
+                       SORT_BY="STUDY"
+                       STUDIES="1"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="NO"
+                       TAU2="NaN"
+                       TOTALS="NO"
+                       TOTAL_1="21"
+                       TOTAL_2="21"
+                       UNITS=""
+                       WEIGHT="0.0"
+                       Z="0.0">
+            <NAME>Estradiol</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <CONT_DATA CI_END="2.0241971515491173"
+                       CI_START="0.6713832855576047"
+                       EFFECT_SIZE="1.347790218553361"
+                       ESTIMABLE="YES"
+                       MEAN_1="81.0"
+                       MEAN_2="40.14"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="61"
+                       SD_1="19.35"
+                       SD_2="37.35"
+                       SE="0.34511191957156756"
+                       STUDY_ID="STD-Karimi_x002d_Zarchi-2014"
+                       TOTAL_1="21"
+                       TOTAL_2="21"
+                       WEIGHT="0.0"/>
+         </CONT_OUTCOME>
+         <DICH_OUTCOME CHI2="0.0"
+                       CI_END="0.0"
+                       CI_START="0.0"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="0"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="0.0"
+                       ESTIMABLE="NO"
+                       EVENTS_1="15"
+                       EVENTS_2="4"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.13"
+                       LOG_CI_END="-Infinity"
+                       LOG_CI_START="-Infinity"
+                       LOG_EFFECT_SIZE="-Infinity"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="13"
+                       P_CHI2="0.0"
+                       P_Q="0.0"
+                       P_Z="0.0"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="1"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="NO"
+                       SWAP_EVENTS="NO"
+                       TAU2="NaN"
+                       TOTALS="NO"
+                       TOTAL_1="15"
+                       TOTAL_2="15"
+                       WEIGHT="0.0"
+                       Z="0.0">
+            <NAME>Estradiol &gt; 20 pg/mL</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="7.576077593393177"
+                       CI_START="1.5660079222539294"
+                       EFFECT_SIZE="3.4444444444444446"
+                       ESTIMABLE="YES"
+                       EVENTS_1="15"
+                       EVENTS_2="4"
+                       LOG_CI_END="0.8794444140165899"
+                       LOG_CI_START="0.1947939547733058"
+                       LOG_EFFECT_SIZE="0.5371191843949479"
+                       MODIFIED="2011-10-04 10:25:55 +0000"
+                       MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                       ORDER="17"
+                       O_E="0.0"
+                       SE="0.40216706883393655"
+                       STUDY_ID="STD-Gilani-2007"
+                       TOTAL_1="15"
+                       TOTAL_2="15"
+                       VAR="0.16173835125448027"
+                       WEIGHT="0.0"/>
+         </DICH_OUTCOME>
+         <DICH_OUTCOME CHI2="405.96364661500394"
+                       CI_END="13.595040568098177"
+                       CI_START="0.16260731432633435"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="3"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="1.4868264979263746"
+                       ESTIMABLE="YES"
+                       EVENTS_1="172"
+                       EVENTS_2="141"
+                       I2="99.26101757509213"
+                       I2_Q="0.0"
+                       ID="CMP-001.14"
+                       LOG_CI_END="1.133380507876067"
+                       LOG_CI_START="-0.7888599230708483"
+                       LOG_EFFECT_SIZE="0.17226029240260943"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="14"
+                       P_CHI2="-1.0413714335300028E-10"
+                       P_Q="1.0"
+                       P_Z="0.725377002986644"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="4"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="YES"
+                       SWAP_EVENTS="NO"
+                       TAU2="5.042241970024854"
+                       TOTALS="YES"
+                       TOTAL_1="369"
+                       TOTAL_2="362"
+                       WEIGHT="100.0"
+                       Z="0.35128172692646586">
+            <NAME>Adverse effects: hot flush</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="2.935121600431628"
+                       CI_START="0.8721955504751613"
+                       EFFECT_SIZE="1.6"
+                       ESTIMABLE="YES"
+                       EVENTS_1="16"
+                       EVENTS_2="10"
+                       LOG_CI_END="0.46762609853166925"
+                       LOG_CI_START="-0.05938613321981964"
+                       LOG_EFFECT_SIZE="0.2041199826559248"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="54"
+                       O_E="0.0"
+                       SE="0.3095695936834452"
+                       STUDY_ID="STD-Gerber-2011"
+                       TOTAL_1="30"
+                       TOTAL_2="30"
+                       VAR="0.09583333333333335"
+                       WEIGHT="24.813621556206925"/>
+            <DICH_DATA CI_END="2.4182833753530506"
+                       CI_START="0.8919970639442918"
+                       EFFECT_SIZE="1.4687074829931972"
+                       ESTIMABLE="YES"
+                       EVENTS_1="34"
+                       EVENTS_2="20"
+                       LOG_CI_END="0.38350719029698543"
+                       LOG_CI_START="-0.04963657512487602"
+                       LOG_EFFECT_SIZE="0.16693530758605468"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="43"
+                       O_E="0.0"
+                       SE="0.25443079190501977"
+                       STUDY_ID="STD-Lambertini-2015a"
+                       TOTAL_1="147"
+                       TOTAL_2="127"
+                       VAR="0.06473502786941548"
+                       WEIGHT="24.96472103896143"/>
+            <DICH_DATA CI_END="3.5189589406781345"
+                       CI_START="1.2436189916666398"
+                       EFFECT_SIZE="2.0919474585950883"
+                       ESTIMABLE="YES"
+                       EVENTS_1="33"
+                       EVENTS_2="17"
+                       LOG_CI_END="0.5464141995032941"
+                       LOG_CI_START="0.09468734565890338"
+                       LOG_EFFECT_SIZE="0.32055077258109876"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="29"
+                       O_E="0.0"
+                       SE="0.26534659003218475"
+                       STUDY_ID="STD-Moore-2015"
+                       TOTAL_1="103"
+                       TOTAL_2="111"
+                       VAR="0.07040881284170833"
+                       WEIGHT="24.937016338389466"/>
+            <DICH_DATA CI_END="1.0214975347971302"
+                       CI_START="0.9789548833307761"
+                       EFFECT_SIZE="1.0"
+                       ESTIMABLE="YES"
+                       EVENTS_1="89"
+                       EVENTS_2="94"
+                       LOG_CI_END="0.009237322877135034"
+                       LOG_CI_START="-0.009237322877135034"
+                       LOG_EFFECT_SIZE="0.0"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="38"
+                       O_E="0.0"
+                       SE="0.010852098367029644"
+                       STUDY_ID="STD-Song-2013"
+                       TOTAL_1="89"
+                       TOTAL_2="94"
+                       VAR="1.1776803896768745E-4"
+                       WEIGHT="25.28464106644218"/>
+         </DICH_OUTCOME>
+         <DICH_OUTCOME CHI2="0.39810972579753434"
+                       CI_END="2.0388570724901034"
+                       CI_START="0.6824831148766641"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="1"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="1.179612447213644"
+                       ESTIMABLE="YES"
+                       EVENTS_1="26"
+                       EVENTS_2="21"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.15"
+                       LOG_CI_END="0.3093867820289932"
+                       LOG_CI_START="-0.16590808891226652"
+                       LOG_EFFECT_SIZE="0.0717393465583633"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="15"
+                       P_CHI2="0.5280675006144924"
+                       P_Q="1.0"
+                       P_Z="0.5540781382565033"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="2"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="YES"
+                       SWAP_EVENTS="NO"
+                       TAU2="0.0"
+                       TOTALS="YES"
+                       TOTAL_1="250"
+                       TOTAL_2="238"
+                       WEIGHT="100.0"
+                       Z="0.5916602266310033">
+            <NAME>Adverse effect: vaginal dryness</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="2.0990389182341764"
+                       CI_START="0.4840005562573854"
+                       EFFECT_SIZE="1.007936507936508"
+                       ESTIMABLE="YES"
+                       EVENTS_1="14"
+                       EVENTS_2="12"
+                       LOG_CI_END="0.322020490901437"
+                       LOG_CI_START="-0.31515413922464913"
+                       LOG_EFFECT_SIZE="0.0034331758383939516"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="89"
+                       O_E="0.0"
+                       SE="0.3742795318013502"
+                       STUDY_ID="STD-Lambertini-2015a"
+                       TOTAL_1="147"
+                       TOTAL_2="127"
+                       VAR="0.1400851679254379"
+                       WEIGHT="55.64284207464039"/>
+            <DICH_DATA CI_END="3.267730302905605"
+                       CI_START="0.6318336851516531"
+                       EFFECT_SIZE="1.4368932038834952"
+                       ESTIMABLE="YES"
+                       EVENTS_1="12"
+                       EVENTS_2="9"
+                       LOG_CI_END="0.5142462055123864"
+                       LOG_CI_START="-0.19939722413281596"
+                       LOG_EFFECT_SIZE="0.1574244906897852"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="90"
+                       O_E="0.0"
+                       SE="0.41919768316554157"
+                       STUDY_ID="STD-Moore-2015"
+                       TOTAL_1="103"
+                       TOTAL_2="111"
+                       VAR="0.17572669757135775"
+                       WEIGHT="44.3571579253596"/>
+         </DICH_OUTCOME>
+         <DICH_OUTCOME CHI2="26.063244293443013"
+                       CI_END="448.15771517978015"
+                       CI_START="0.012498862649612015"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="1"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="2.366740739370498"
+                       ESTIMABLE="YES"
+                       EVENTS_1="95"
+                       EVENTS_2="95"
+                       I2="96.16317911637893"
+                       I2_Q="0.0"
+                       ID="CMP-001.16"
+                       LOG_CI_END="2.651430877343151"
+                       LOG_CI_START="-1.9031295043895753"
+                       LOG_EFFECT_SIZE="0.3741506864767877"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="16"
+                       P_CHI2="3.303567521761863E-7"
+                       P_Q="1.0"
+                       P_Z="0.747440170559289"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="2"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="YES"
+                       SWAP_EVENTS="NO"
+                       TAU2="13.786260185972571"
+                       TOTALS="YES"
+                       TOTAL_1="119"
+                       TOTAL_2="124"
+                       WEIGHT="100.0"
+                       Z="0.3220165323646266">
+            <NAME>Adverse effect: urogenital symptoms</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="46.870432442138444"
+                       CI_START="0.7680748421607161"
+                       EFFECT_SIZE="6.0"
+                       ESTIMABLE="YES"
+                       EVENTS_1="6"
+                       EVENTS_2="1"
+                       LOG_CI_END="1.6708989604834719"
+                       LOG_CI_START="-0.11459645971618479"
+                       LOG_EFFECT_SIZE="0.7781512503836436"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="91"
+                       O_E="0.0"
+                       SE="1.0488088481701514"
+                       STUDY_ID="STD-Gerber-2011"
+                       TOTAL_1="30"
+                       TOTAL_2="30"
+                       VAR="1.0999999999999999"
+                       WEIGHT="48.082000291373184"/>
+            <DICH_DATA CI_END="1.0214975347971302"
+                       CI_START="0.9789548833307761"
+                       EFFECT_SIZE="1.0"
+                       ESTIMABLE="YES"
+                       EVENTS_1="89"
+                       EVENTS_2="94"
+                       LOG_CI_END="0.009237322877135034"
+                       LOG_CI_START="-0.009237322877135034"
+                       LOG_EFFECT_SIZE="0.0"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="92"
+                       O_E="0.0"
+                       SE="0.010852098367029644"
+                       STUDY_ID="STD-Song-2013"
+                       TOTAL_1="89"
+                       TOTAL_2="94"
+                       VAR="1.1776803896768745E-4"
+                       WEIGHT="51.917999708626816"/>
+         </DICH_OUTCOME>
+         <DICH_OUTCOME CHI2="0.013643959338587815"
+                       CI_END="2.799468186740104"
+                       CI_START="0.9252293171489213"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="1"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="1.6093943080543298"
+                       ESTIMABLE="YES"
+                       EVENTS_1="31"
+                       EVENTS_2="18"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.17"
+                       LOG_CI_END="0.4470755365205084"
+                       LOG_CI_START="-0.03375061447223554"
+                       LOG_EFFECT_SIZE="0.2066624610241364"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="17"
+                       P_CHI2="0.9070127135206592"
+                       P_Q="1.0"
+                       P_Z="0.09202473174272481"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="2"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="YES"
+                       SWAP_EVENTS="NO"
+                       TAU2="0.0"
+                       TOTALS="YES"
+                       TOTAL_1="250"
+                       TOTAL_2="238"
+                       WEIGHT="100.0"
+                       Z="1.6848126073318865">
+            <NAME>Adverse effect: sweating</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="3.2875497676490806"
+                       CI_START="0.8274726640742933"
+                       EFFECT_SIZE="1.6493506493506493"
+                       ESTIMABLE="YES"
+                       EVENTS_1="21"
+                       EVENTS_2="11"
+                       LOG_CI_END="0.5168723359926507"
+                       LOG_CI_START="-0.08224634442570074"
+                       LOG_EFFECT_SIZE="0.217312995783475"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="93"
+                       O_E="0.0"
+                       SE="0.3519252785630377"
+                       STUDY_ID="STD-Lambertini-2015a"
+                       TOTAL_1="147"
+                       TOTAL_2="127"
+                       VAR="0.12385140169167165"
+                       WEIGHT="64.40957562128366"/>
+            <DICH_DATA CI_END="3.8938134875435653"
+                       CI_START="0.6086957690124092"
+                       EFFECT_SIZE="1.5395284327323162"
+                       ESTIMABLE="YES"
+                       EVENTS_1="10"
+                       EVENTS_2="7"
+                       LOG_CI_END="0.5903751451114463"
+                       LOG_CI_START="-0.21559971697698962"
+                       LOG_EFFECT_SIZE="0.1873877140672284"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="94"
+                       O_E="0.0"
+                       SE="0.4734336236306587"
+                       STUDY_ID="STD-Moore-2015"
+                       TOTAL_1="103"
+                       TOTAL_2="111"
+                       VAR="0.2241393959840562"
+                       WEIGHT="35.59042437871633"/>
+         </DICH_OUTCOME>
+         <DICH_OUTCOME CHI2="4.025388643777405"
+                       CI_END="11.924371690790172"
+                       CI_START="0.5414702303667993"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="1"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="2.541002220855286"
+                       ESTIMABLE="YES"
+                       EVENTS_1="40"
+                       EVENTS_2="20"
+                       I2="75.15767821460328"
+                       I2_Q="0.0"
+                       ID="CMP-001.18"
+                       LOG_CI_END="1.0764355048264842"
+                       LOG_CI_START="-0.26642541557204663"
+                       LOG_EFFECT_SIZE="0.4050050446272187"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="18"
+                       P_CHI2="0.044820376623728175"
+                       P_Q="1.0"
+                       P_Z="0.23710852488627332"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="2"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="YES"
+                       SWAP_EVENTS="NO"
+                       TAU2="0.9699527458604694"
+                       TOTALS="YES"
+                       TOTAL_1="250"
+                       TOTAL_2="238"
+                       WEIGHT="100.00000000000001"
+                       Z="1.1822449949482565">
+            <NAME>Adverse effect: headache</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="2.3117765210340906"
+                       CI_START="0.781264294008488"
+                       EFFECT_SIZE="1.343915343915344"
+                       ESTIMABLE="YES"
+                       EVENTS_1="28"
+                       EVENTS_2="18"
+                       LOG_CI_END="0.36394584861841306"
+                       LOG_CI_START="-0.1072020237250252"
+                       LOG_EFFECT_SIZE="0.12837191244669394"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="98"
+                       O_E="0.0"
+                       SE="0.2767545924341173"
+                       STUDY_ID="STD-Lambertini-2015a"
+                       TOTAL_1="147"
+                       TOTAL_2="127"
+                       VAR="0.0765931044333744"
+                       WEIGHT="59.453717416184325"/>
+            <DICH_DATA CI_END="28.199250284290947"
+                       CI_START="1.4826425059415167"
+                       EFFECT_SIZE="6.466019417475728"
+                       ESTIMABLE="YES"
+                       EVENTS_1="12"
+                       EVENTS_2="2"
+                       LOG_CI_END="1.4502375621589487"
+                       LOG_CI_START="0.17103644677130891"
+                       LOG_EFFECT_SIZE="0.8106370044651289"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="99"
+                       O_E="0.0"
+                       SE="0.7514090673263444"
+                       STUDY_ID="STD-Moore-2015"
+                       TOTAL_1="103"
+                       TOTAL_2="111"
+                       VAR="0.5646155864602467"
+                       WEIGHT="40.54628258381569"/>
+         </DICH_OUTCOME>
+         <DICH_OUTCOME CHI2="1.1743022783614467"
+                       CI_END="1.0213992508966665"
+                       CI_START="0.9788847154858786"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="2"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="0.9999160540322737"
+                       ESTIMABLE="YES"
+                       EVENTS_1="107"
+                       EVENTS_2="111"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.19"
+                       LOG_CI_END="0.009195535004186019"
+                       LOG_CI_START="-0.009268452605921261"
+                       LOG_EFFECT_SIZE="-3.6458800867639826E-5"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="19"
+                       P_CHI2="0.5559089458243807"
+                       P_Q="1.0"
+                       P_Z="0.9938242359905654"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="3"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="YES"
+                       SWAP_EVENTS="NO"
+                       TAU2="0.0"
+                       TOTALS="YES"
+                       TOTAL_1="266"
+                       TOTAL_2="251"
+                       WEIGHT="100.0"
+                       Z="0.0077402496285197755">
+            <NAME>Adverse effect: mood swings</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="6.642610943587319"
+                       CI_START="0.1505432138796847"
+                       EFFECT_SIZE="1.0"
+                       ESTIMABLE="YES"
+                       EVENTS_1="2"
+                       EVENTS_2="2"
+                       LOG_CI_END="0.8223388166442885"
+                       LOG_CI_START="-0.8223388166442885"
+                       LOG_EFFECT_SIZE="0.0"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="102"
+                       O_E="0.0"
+                       SE="0.9660917830792959"
+                       STUDY_ID="STD-Gerber-2011"
+                       TOTAL_1="30"
+                       TOTAL_2="30"
+                       VAR="0.9333333333333333"
+                       WEIGHT="0.012603449556110253"/>
+            <DICH_DATA CI_END="1.7886721021100325"
+                       CI_START="0.4747877292975897"
+                       EFFECT_SIZE="0.9215419501133787"
+                       ESTIMABLE="YES"
+                       EVENTS_1="16"
+                       EVENTS_2="15"
+                       LOG_CI_END="0.2525307333587888"
+                       LOG_CI_START="-0.3235005137427402"
+                       LOG_EFFECT_SIZE="-0.03548489019197569"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="103"
+                       O_E="0.0"
+                       SE="0.33836360594809806"
+                       STUDY_ID="STD-Lambertini-2015a"
+                       TOTAL_1="147"
+                       TOTAL_2="127"
+                       VAR="0.11448992983019979"
+                       WEIGHT="0.10274457852449516"/>
+            <DICH_DATA CI_END="1.0214975347971302"
+                       CI_START="0.9789548833307761"
+                       EFFECT_SIZE="1.0"
+                       ESTIMABLE="YES"
+                       EVENTS_1="89"
+                       EVENTS_2="94"
+                       LOG_CI_END="0.009237322877135034"
+                       LOG_CI_START="-0.009237322877135034"
+                       LOG_EFFECT_SIZE="0.0"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="104"
+                       O_E="0.0"
+                       SE="0.010852098367029644"
+                       STUDY_ID="STD-Song-2013"
+                       TOTAL_1="89"
+                       TOTAL_2="94"
+                       VAR="1.1776803896768745E-4"
+                       WEIGHT="99.8846519719194"/>
+         </DICH_OUTCOME>
+         <DICH_OUTCOME CHI2="0.0"
+                       CI_END="0.0"
+                       CI_START="0.0"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="0"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="0.0"
+                       ESTIMABLE="NO"
+                       EVENTS_1="2"
+                       EVENTS_2="1"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.20"
+                       LOG_CI_END="-Infinity"
+                       LOG_CI_START="-Infinity"
+                       LOG_EFFECT_SIZE="-Infinity"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="20"
+                       P_CHI2="0.0"
+                       P_Q="0.0"
+                       P_Z="0.0"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="1"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="NO"
+                       SWAP_EVENTS="NO"
+                       TAU2="NaN"
+                       TOTALS="NO"
+                       TOTAL_1="103"
+                       TOTAL_2="111"
+                       WEIGHT="0.0"
+                       Z="0.0">
+            <NAME>Adverse effect: fatigue</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="23.415077996536056"
+                       CI_START="0.19839736084851098"
+                       EFFECT_SIZE="2.1553398058252426"
+                       ESTIMABLE="YES"
+                       EVENTS_1="2"
+                       EVENTS_2="1"
+                       LOG_CI_END="1.369495608772329"
+                       LOG_CI_START="-0.7024641092813962"
+                       LOG_EFFECT_SIZE="0.3335157497454664"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="95"
+                       O_E="0.0"
+                       SE="1.2170793947507752"
+                       STUDY_ID="STD-Moore-2015"
+                       TOTAL_1="103"
+                       TOTAL_2="111"
+                       VAR="1.4812822531269134"
+                       WEIGHT="0.0"/>
+         </DICH_OUTCOME>
+         <DICH_OUTCOME CHI2="0.0"
+                       CI_END="0.0"
+                       CI_START="0.0"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="0"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="0.0"
+                       ESTIMABLE="NO"
+                       EVENTS_1="0"
+                       EVENTS_2="2"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.21"
+                       LOG_CI_END="-Infinity"
+                       LOG_CI_START="-Infinity"
+                       LOG_EFFECT_SIZE="-Infinity"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="21"
+                       P_CHI2="0.0"
+                       P_Q="0.0"
+                       P_Z="0.0"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="1"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="NO"
+                       SWAP_EVENTS="NO"
+                       TAU2="NaN"
+                       TOTALS="NO"
+                       TOTAL_1="103"
+                       TOTAL_2="111"
+                       WEIGHT="0.0"
+                       Z="0.0">
+            <NAME>Adverse effect: joint pain</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="4.433901985928469"
+                       CI_START="0.010462687874383501"
+                       EFFECT_SIZE="0.2153846153846154"
+                       ESTIMABLE="YES"
+                       EVENTS_1="0"
+                       EVENTS_2="2"
+                       LOG_CI_END="0.6467860885437162"
+                       LOG_CI_START="-1.980356730472951"
+                       LOG_EFFECT_SIZE="-0.6667853209646175"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="96"
+                       O_E="0.0"
+                       SE="1.5431966964570796"
+                       STUDY_ID="STD-Moore-2015"
+                       TOTAL_1="103"
+                       TOTAL_2="111"
+                       VAR="2.3814560439560437"
+                       WEIGHT="0.0"/>
+         </DICH_OUTCOME>
+         <DICH_OUTCOME CHI2="0.0"
+                       CI_END="0.0"
+                       CI_START="0.0"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="0"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="0.0"
+                       ESTIMABLE="NO"
+                       EVENTS_1="1"
+                       EVENTS_2="2"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.22"
+                       LOG_CI_END="-Infinity"
+                       LOG_CI_START="-Infinity"
+                       LOG_EFFECT_SIZE="-Infinity"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="22"
+                       P_CHI2="0.0"
+                       P_Q="0.0"
+                       P_Z="0.0"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="1"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="NO"
+                       SWAP_EVENTS="NO"
+                       TAU2="NaN"
+                       TOTALS="NO"
+                       TOTAL_1="103"
+                       TOTAL_2="111"
+                       WEIGHT="0.0"
+                       Z="0.0">
+            <NAME>Adverse effect: muscle pain</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="5.853769499134016"
+                       CI_START="0.04959934021212775"
+                       EFFECT_SIZE="0.5388349514563107"
+                       ESTIMABLE="YES"
+                       EVENTS_1="1"
+                       EVENTS_2="2"
+                       LOG_CI_END="0.7674356174443666"
+                       LOG_CI_START="-1.3045241006093586"
+                       LOG_EFFECT_SIZE="-0.26854424158249596"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="97"
+                       O_E="0.0"
+                       SE="1.2170793947507752"
+                       STUDY_ID="STD-Moore-2015"
+                       TOTAL_1="103"
+                       TOTAL_2="111"
+                       VAR="1.4812822531269134"
+                       WEIGHT="0.0"/>
+         </DICH_OUTCOME>
+         <DICH_OUTCOME CHI2="0.0"
+                       CI_END="0.0"
+                       CI_START="0.0"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="0"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="0.0"
+                       ESTIMABLE="NO"
+                       EVENTS_1="9"
+                       EVENTS_2="6"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.23"
+                       LOG_CI_END="-Infinity"
+                       LOG_CI_START="-Infinity"
+                       LOG_EFFECT_SIZE="-Infinity"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="23"
+                       P_CHI2="0.0"
+                       P_Q="0.0"
+                       P_Z="0.0"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="1"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="NO"
+                       SWAP_EVENTS="NO"
+                       TAU2="NaN"
+                       TOTALS="NO"
+                       TOTAL_1="103"
+                       TOTAL_2="111"
+                       WEIGHT="0.0"
+                       Z="0.0">
+            <NAME>Adverse effect: decrease in lipid</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="4.383500545668185"
+                       CI_START="0.5961189959883999"
+                       EFFECT_SIZE="1.616504854368932"
+                       ESTIMABLE="YES"
+                       EVENTS_1="9"
+                       EVENTS_2="6"
+                       LOG_CI_END="0.641821064952331"
+                       LOG_CI_START="-0.22466703867799825"
+                       LOG_EFFECT_SIZE="0.20857701313716645"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="100"
+                       O_E="0.0"
+                       SE="0.5089794012577435"
+                       STUDY_ID="STD-Moore-2015"
+                       TOTAL_1="103"
+                       TOTAL_2="111"
+                       VAR="0.2590600309046911"
+                       WEIGHT="0.0"/>
+         </DICH_OUTCOME>
+         <DICH_OUTCOME CHI2="0.0"
+                       CI_END="0.0"
+                       CI_START="0.0"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="0"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="0.0"
+                       ESTIMABLE="NO"
+                       EVENTS_1="1"
+                       EVENTS_2="0"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.24"
+                       LOG_CI_END="-Infinity"
+                       LOG_CI_START="-Infinity"
+                       LOG_EFFECT_SIZE="-Infinity"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="24"
+                       P_CHI2="0.0"
+                       P_Q="0.0"
+                       P_Z="0.0"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="1"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="NO"
+                       SWAP_EVENTS="NO"
+                       TAU2="NaN"
+                       TOTALS="NO"
+                       TOTAL_1="103"
+                       TOTAL_2="111"
+                       WEIGHT="0.0"
+                       Z="0.0">
+            <NAME>Adverse effect: thromboembolism</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="78.4279323423283"
+                       CI_START="0.13308867785682763"
+                       EFFECT_SIZE="3.230769230769231"
+                       ESTIMABLE="YES"
+                       EVENTS_1="1"
+                       EVENTS_2="0"
+                       LOG_CI_END="1.894470765511759"
+                       LOG_CI_START="-0.8758588893296316"
+                       LOG_EFFECT_SIZE="0.5093059380910637"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="101"
+                       O_E="0.0"
+                       SE="1.6273053526067904"
+                       STUDY_ID="STD-Moore-2015"
+                       TOTAL_1="103"
+                       TOTAL_2="111"
+                       VAR="2.6481227106227103"
+                       WEIGHT="0.0"/>
+         </DICH_OUTCOME>
+         <DICH_OUTCOME CHI2="0.0"
+                       CI_END="0.0"
+                       CI_START="0.0"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="0"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="0.0"
+                       ESTIMABLE="NO"
+                       EVENTS_1="6"
+                       EVENTS_2="5"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.25"
+                       LOG_CI_END="-Infinity"
+                       LOG_CI_START="-Infinity"
+                       LOG_EFFECT_SIZE="-Infinity"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="25"
+                       P_CHI2="0.0"
+                       P_Q="0.0"
+                       P_Z="0.0"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="1"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="NO"
+                       SWAP_EVENTS="NO"
+                       TAU2="NaN"
+                       TOTALS="NO"
+                       TOTAL_1="103"
+                       TOTAL_2="111"
+                       WEIGHT="0.0"
+                       Z="0.0">
+            <NAME>Adverse effect: agitation</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="4.1092911800050755"
+                       CI_START="0.40697439315674394"
+                       EFFECT_SIZE="1.2932038834951456"
+                       ESTIMABLE="YES"
+                       EVENTS_1="6"
+                       EVENTS_2="5"
+                       LOG_CI_END="0.6137669159975744"
+                       LOG_CI_START="-0.39043291573935435"
+                       LOG_EFFECT_SIZE="0.11166700012911004"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="105"
+                       O_E="0.0"
+                       SE="0.5898719520316082"
+                       STUDY_ID="STD-Moore-2015"
+                       TOTAL_1="103"
+                       TOTAL_2="111"
+                       VAR="0.34794891979358"
+                       WEIGHT="0.0"/>
+         </DICH_OUTCOME>
+         <DICH_OUTCOME CHI2="0.0"
+                       CI_END="0.0"
+                       CI_START="0.0"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="0"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="0.0"
+                       ESTIMABLE="NO"
+                       EVENTS_1="9"
+                       EVENTS_2="4"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.26"
+                       LOG_CI_END="-Infinity"
+                       LOG_CI_START="-Infinity"
+                       LOG_EFFECT_SIZE="-Infinity"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="26"
+                       P_CHI2="0.0"
+                       P_Q="0.0"
+                       P_Z="0.0"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="1"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="NO"
+                       SWAP_EVENTS="NO"
+                       TAU2="NaN"
+                       TOTALS="NO"
+                       TOTAL_1="103"
+                       TOTAL_2="111"
+                       WEIGHT="0.0"
+                       Z="0.0">
+            <NAME>Adverse effect: anxiety</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="7.633850467763179"
+                       CI_START="0.7701811686349395"
+                       EFFECT_SIZE="2.424757281553398"
+                       ESTIMABLE="YES"
+                       EVENTS_1="9"
+                       EVENTS_2="4"
+                       LOG_CI_END="0.8827436487148159"
+                       LOG_CI_START="-0.1134071043291205"
+                       LOG_EFFECT_SIZE="0.3846682721928477"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="106"
+                       O_E="0.0"
+                       SE="0.5851438833637624"
+                       STUDY_ID="STD-Moore-2015"
+                       TOTAL_1="103"
+                       TOTAL_2="111"
+                       VAR="0.3423933642380244"
+                       WEIGHT="0.0"/>
+         </DICH_OUTCOME>
+         <DICH_OUTCOME CHI2="0.0"
+                       CI_END="0.0"
+                       CI_START="0.0"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="0"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="0.0"
+                       ESTIMABLE="NO"
+                       EVENTS_1="9"
+                       EVENTS_2="3"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.27"
+                       LOG_CI_END="-Infinity"
+                       LOG_CI_START="-Infinity"
+                       LOG_EFFECT_SIZE="-Infinity"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="27"
+                       P_CHI2="0.0"
+                       P_Q="0.0"
+                       P_Z="0.0"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="1"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="NO"
+                       SWAP_EVENTS="NO"
+                       TAU2="NaN"
+                       TOTALS="NO"
+                       TOTAL_1="103"
+                       TOTAL_2="111"
+                       WEIGHT="0.0"
+                       Z="0.0">
+            <NAME>Adverse effect: depression</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="11.614398941966616"
+                       CI_START="0.8999477139557803"
+                       EFFECT_SIZE="3.233009708737864"
+                       ESTIMABLE="YES"
+                       EVENTS_1="9"
+                       EVENTS_2="3"
+                       LOG_CI_END="1.0649967394964315"
+                       LOG_CI_START="-0.04578272189413607"
+                       LOG_EFFECT_SIZE="0.5096070088011476"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="107"
+                       O_E="0.0"
+                       SE="0.652477354067831"
+                       STUDY_ID="STD-Moore-2015"
+                       TOTAL_1="103"
+                       TOTAL_2="111"
+                       VAR="0.4257266975713577"
+                       WEIGHT="0.0"/>
+         </DICH_OUTCOME>
+         <DICH_OUTCOME CHI2="0.0"
+                       CI_END="0.0"
+                       CI_START="0.0"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="0"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="0.0"
+                       ESTIMABLE="NO"
+                       EVENTS_1="5"
+                       EVENTS_2="1"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-001.28"
+                       LOG_CI_END="-Infinity"
+                       LOG_CI_START="-Infinity"
+                       LOG_EFFECT_SIZE="-Infinity"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="28"
+                       P_CHI2="0.0"
+                       P_Q="0.0"
+                       P_Z="0.0"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="1"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="NO"
+                       SWAP_EVENTS="NO"
+                       TAU2="NaN"
+                       TOTALS="NO"
+                       TOTAL_1="30"
+                       TOTAL_2="30"
+                       WEIGHT="0.0"
+                       Z="0.0">
+            <NAME>Adverse effect: insomnia</NAME>
+            <GROUP_LABEL_1>GnRH-a plus chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>GnRH-a plus chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="40.28498862817757"
+                       CI_START="0.6205785542288472"
+                       EFFECT_SIZE="5.0"
+                       ESTIMABLE="YES"
+                       EVENTS_1="5"
+                       EVENTS_2="1"
+                       LOG_CI_END="1.6051432453855428"
+                       LOG_CI_START="-0.20720323671350535"
+                       LOG_EFFECT_SIZE="0.6989700043360189"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="108"
+                       O_E="0.0"
+                       SE="1.064581294844754"
+                       STUDY_ID="STD-Gerber-2011"
+                       TOTAL_1="30"
+                       TOTAL_2="30"
+                       VAR="1.133333333333333"
+                       WEIGHT="0.0"/>
+         </DICH_OUTCOME>
+      </COMPARISON>
+      <COMPARISON ID="CMP-002"
+                  MODIFIED="2019-02-28 13:40:22 +0000"
+                  MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                  NO="2">
+         <NAME>Agonist-antagonist cotreatment plus chemotherapy versus chemotherapy alone</NAME>
+         <DICH_OUTCOME CHI2="0.07321335143715235"
+                       CI_END="1.2548579527926547"
+                       CI_START="0.7706093205870163"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="1"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="0.9833642430121007"
+                       ESTIMABLE="YES"
+                       EVENTS_1="33"
+                       EVENTS_2="34"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-002.01"
+                       LOG_CI_END="0.0985945674028789"
+                       LOG_CI_START="-0.11316574246157299"
+                       LOG_EFFECT_SIZE="-0.007285587529347027"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="1"
+                       P_CHI2="0.7867143491410006"
+                       P_Q="0.8031130504190691"
+                       P_Z="0.8927188959119673"
+                       Q="0.06216060072674752"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="1"
+                       SUBGROUPS="YES"
+                       SUBGROUP_TEST="YES"
+                       SWAP_EVENTS="NO"
+                       TAU2="0.0"
+                       TOTALS="SUB"
+                       TOTAL_1="50"
+                       TOTAL_2="50"
+                       WEIGHT="200.0"
+                       Z="0.13486464175344945">
+            <NAME>Menstruation recovery or maintenance</NAME>
+            <GROUP_LABEL_1>cotreatment+chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>cotreatment+chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_SUBGROUP CHI2="0.0"
+                           CI_END="1.3194048515262407"
+                           CI_START="0.7579174798722588"
+                           DF="0"
+                           EFFECT_SIZE="1.0"
+                           ESTIMABLE="YES"
+                           EVENTS_1="20"
+                           EVENTS_2="20"
+                           I2="0.0"
+                           ID="CMP-002.01.01"
+                           LOG_CI_END="0.12037807667273578"
+                           LOG_CI_START="-0.12037807667273576"
+                           LOG_EFFECT_SIZE="0.0"
+                           MODIFIED="2019-02-28 13:40:22 +0000"
+                           MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                           NO="1"
+                           P_CHI2="1.0"
+                           P_Z="1.0"
+                           STUDIES="1"
+                           TAU2="0.0"
+                           TOTAL_1="25"
+                           TOTAL_2="25"
+                           WEIGHT="100.00000000000001"
+                           Z="0.0">
+               <NAME>Follow-up time ≤ 12 months</NAME>
+               <DICH_DATA CI_END="1.3194048515262407"
+                          CI_START="0.7579174798722588"
+                          EFFECT_SIZE="1.0"
+                          ESTIMABLE="YES"
+                          EVENTS_1="20"
+                          EVENTS_2="20"
+                          LOG_CI_END="0.12037807667273578"
+                          LOG_CI_START="-0.12037807667273576"
+                          LOG_EFFECT_SIZE="0.0"
+                          MODIFIED="2019-02-28 13:40:22 +0000"
+                          MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                          ORDER="64"
+                          O_E="0.0"
+                          SE="0.14142135623730953"
+                          STUDY_ID="STD-Elgindy-2013"
+                          TOTAL_1="25"
+                          TOTAL_2="25"
+                          VAR="0.020000000000000004"
+                          WEIGHT="100.00000000000001"/>
+            </DICH_SUBGROUP>
+            <DICH_SUBGROUP CHI2="0.0"
+                           CI_END="1.550082129088543"
+                           CI_START="0.5562575567955155"
+                           DF="0"
+                           EFFECT_SIZE="0.9285714285714286"
+                           ESTIMABLE="YES"
+                           EVENTS_1="13"
+                           EVENTS_2="14"
+                           I2="0.0"
+                           ID="CMP-002.01.02"
+                           LOG_CI_END="0.19035470930901688"
+                           LOG_CI_START="-0.25472407605181935"
+                           LOG_EFFECT_SIZE="-0.03218468337140124"
+                           MODIFIED="2019-02-28 13:40:22 +0000"
+                           MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                           NO="2"
+                           P_CHI2="1.0"
+                           P_Z="0.7768249154530719"
+                           STUDIES="1"
+                           TAU2="0.0"
+                           TOTAL_1="25"
+                           TOTAL_2="25"
+                           WEIGHT="100.0"
+                           Z="0.28345911931358597">
+               <NAME>Follow-up time &gt; 12 months</NAME>
+               <DICH_DATA CI_END="1.550082129088543"
+                          CI_START="0.5562575567955155"
+                          EFFECT_SIZE="0.9285714285714286"
+                          ESTIMABLE="YES"
+                          EVENTS_1="13"
+                          EVENTS_2="14"
+                          LOG_CI_END="0.19035470930901688"
+                          LOG_CI_START="-0.25472407605181935"
+                          LOG_EFFECT_SIZE="-0.03218468337140124"
+                          MODIFIED="2019-02-28 13:40:22 +0000"
+                          MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                          ORDER="25"
+                          O_E="0.0"
+                          SE="0.26144148169647513"
+                          STUDY_ID="STD-Elgindy-2013"
+                          TOTAL_1="25"
+                          TOTAL_2="25"
+                          VAR="0.06835164835164834"
+                          WEIGHT="100.0"/>
+            </DICH_SUBGROUP>
+         </DICH_OUTCOME>
+         <DICH_OUTCOME CHI2="0.0"
+                       CI_END="70.29633525231901"
+                       CI_START="0.12802943379190032"
+                       CI_STUDY="95"
+                       CI_TOTAL="95"
+                       DF="0"
+                       EFFECT_MEASURE="RR"
+                       EFFECT_SIZE="3.0000000000000004"
+                       ESTIMABLE="YES"
+                       EVENTS_1="1"
+                       EVENTS_2="0"
+                       I2="0.0"
+                       I2_Q="0.0"
+                       ID="CMP-002.02"
+                       LOG_CI_END="1.8469326846047245"
+                       LOG_CI_START="-0.8926901751653995"
+                       LOG_EFFECT_SIZE="0.4771212547196625"
+                       METHOD="MH"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       NO="2"
+                       P_CHI2="1.0"
+                       P_Q="1.0"
+                       P_Z="0.49481017826454565"
+                       Q="0.0"
+                       RANDOM="YES"
+                       SCALE="100.0"
+                       SORT_BY="STUDY"
+                       STUDIES="1"
+                       SUBGROUPS="NO"
+                       SUBGROUP_TEST="YES"
+                       SWAP_EVENTS="NO"
+                       TAU2="0.0"
+                       TOTALS="YES"
+                       TOTAL_1="25"
+                       TOTAL_2="25"
+                       WEIGHT="100.0"
+                       Z="0.68267825417953">
+            <NAME>Pregnancy</NAME>
+            <GROUP_LABEL_1>cotreatment+chemotherapy</GROUP_LABEL_1>
+            <GROUP_LABEL_2>chemotherapy alone</GROUP_LABEL_2>
+            <GRAPH_LABEL_1>cotreatment+chemotherapy</GRAPH_LABEL_1>
+            <GRAPH_LABEL_2>chemotherapy alone</GRAPH_LABEL_2>
+            <DICH_DATA CI_END="70.29633525231901"
+                       CI_START="0.12802943379190032"
+                       EFFECT_SIZE="3.0"
+                       ESTIMABLE="YES"
+                       EVENTS_1="1"
+                       EVENTS_2="0"
+                       LOG_CI_END="1.8469326846047245"
+                       LOG_CI_START="-0.8926901751653995"
+                       LOG_EFFECT_SIZE="0.47712125471966244"
+                       MODIFIED="2019-02-28 13:40:22 +0000"
+                       MODIFIED_BY="F1DBE46382E26AA20080535F25798CF2"
+                       ORDER="51"
+                       O_E="0.0"
+                       SE="1.6092680291808414"
+                       STUDY_ID="STD-Elgindy-2013"
+                       TOTAL_1="25"
+                       TOTAL_2="25"
+                       VAR="2.58974358974359"
+                       WEIGHT="100.0"/>
+         </DICH_OUTCOME>
+      </COMPARISON>
+   </ANALYSES_AND_DATA>
+   <FIGURES/>
+   <FEEDBACK/>
+   <APPENDICES/>
+   <EXTENSIONS/>
+</COCHRANE_REVIEW>

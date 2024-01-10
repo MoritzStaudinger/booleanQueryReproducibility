@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COCHRANE_REVIEW TYPE="DIAGNOSTIC" REVMAN_VERSION="5" ID="000000000000000000" VERSION_NO="2.0" STAGE="R" STATUS="A">
+<COVER_SHEET>
+<TITLE>Ankle brachial index for the diagnosis of lower limb peripheral arterial disease [Data only. When citing this record quote "Cochrane Database of Systematic Reviews 2016, Issue 9".]</TITLE>
+<CONTACT>
+<PERSON ID="7317" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Fay</FIRST_NAME>
+<LAST_NAME>Crawford</LAST_NAME>
+<SUFFIX>DPodM MSc PhD</SUFFIX>
+<POSITION>Senior Research Advisor</POSITION>
+<EMAIL_1>fay.crawford@nhs.net</EMAIL_1>
+<ADDRESS>
+<ORGANISATION>NHS Fife, Queen Margaret Hospital</ORGANISATION>
+<CITY>Dunfermline</CITY>
+<ZIP>KY12 0SU</ZIP>
+<COUNTRY CODE="GB">UK</COUNTRY>
+</ADDRESS>
+</PERSON>
+</CONTACT>
+<CREATORS>
+<PERSON ID="7317" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Fay</FIRST_NAME>
+<LAST_NAME>Crawford</LAST_NAME>
+<SUFFIX>DPodM MSc PhD</SUFFIX>
+<POSITION>Senior Research Advisor</POSITION>
+<EMAIL_1>fay.crawford@nhs.net</EMAIL_1>
+<ADDRESS>
+<ORGANISATION>NHS Fife, Queen Margaret Hospital</ORGANISATION>
+<CITY>Dunfermline</CITY>
+<ZIP>KY12 0SU</ZIP>
+<COUNTRY CODE="GB">UK</COUNTRY>
+</ADDRESS>
+</PERSON>
+<PERSON ID="12198" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Karen</FIRST_NAME>
+<LAST_NAME>Welch</LAST_NAME>
+<POSITION>Information Specialist Cochrane Vascular</POSITION>
+<EMAIL_1>Karen.Welch@ed.ac.uk</EMAIL_1>
+<ADDRESS>
+<DEPARTMENT>Usher Institute of Population Health Sciences and Informatics</DEPARTMENT>
+<ORGANISATION>University of Edinburgh</ORGANISATION>
+<ADDRESS_1>Teviot Place</ADDRESS_1>
+<CITY>Edinburgh</CITY>
+<ZIP>EH8 9AG</ZIP>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 131 6503206</PHONE_1>
+<FAX_1>+44 131 6506904</FAX_1>
+</ADDRESS>
+</PERSON>
+<PERSON ID="58101036010735430743110819104321" ROLE="AUTHOR">
+<FIRST_NAME>Alina</FIRST_NAME>
+<LAST_NAME>Andras</LAST_NAME>
+<POSITION>Study Co-ordinator for Renal Research</POSITION>
+<EMAIL_1>a.andras@keele.ac.uk</EMAIL_1>
+<EMAIL_2>alinaro@hotmail.com</EMAIL_2>
+<ADDRESS>
+<DEPARTMENT>Institute for Science and Technology in Medicine</DEPARTMENT>
+<ORGANISATION>Keele University, Guy Hilton Research Centre</ORGANISATION>
+<ADDRESS_1>Thornburrow Drive</ADDRESS_1>
+<ADDRESS_2>Hartshill</ADDRESS_2>
+<CITY>Stoke-on-Trent</CITY>
+<ZIP>ST4 7QB</ZIP>
+<COUNTRY CODE="GB">UK</COUNTRY>
+</ADDRESS>
+</PERSON>
+<PERSON ID="55C0265882E26AA2000F11BCA6AEC3B3" ROLE="AUTHOR">
+<FIRST_NAME>Francesca</FIRST_NAME>
+<MIDDLE_INITIALS>M</MIDDLE_INITIALS>
+<LAST_NAME>Chappell</LAST_NAME>
+<POSITION>Medical Statistician</POSITION>
+<EMAIL_1>francesca.chappell@ed.ac.uk</EMAIL_1>
+<ADDRESS>
+<DEPARTMENT>Division of Clinical Neurosciences</DEPARTMENT>
+<ORGANISATION>University of Edinburgh</ORGANISATION>
+<ADDRESS_1>Western General Hospital</ADDRESS_1>
+<CITY>Edinburgh</CITY>
+<ZIP>EH4 2XU</ZIP>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>00 44 131 537 3585</PHONE_1>
+</ADDRESS>
+</PERSON>
+</CREATORS>
+<DATES>
+<UP_TO_DATE>
+<DATE DAY="" MONTH="" YEAR="" />
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="" MONTH="" YEAR="" />
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="" MONTH="" YEAR="" />
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="" YEAR="" />
+<REVIEW_PUBLISHED ISSUE="" YEAR="" />
+<LAST_CITATION_ISSUE ISSUE="" YEAR="" />
+</DATES>
+<WHATS_NEW />
+<HISTORY />
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES />
+<EXTERNAL_SOURCES />
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO" />
+<KEYWORDS />
+</COVER_SHEET>
+<MAIN_TEXT>
+<SUMMARY>
+<TITLE>Ankle brachial index for the diagnosis of lower limb peripheral arterial disease</TITLE>
+<SUMMARY_BODY>
+<P>Peripheral arterial disease (PAD) of the legs affects 13% of people over 50 years of age. Sometimes PAD is "silent" and people are unaware they have it, but PAD can cause pain in the legs, especially with walking, and this type of symptomatic PAD affects about 5% of people in the Western world between the ages of 55 and 74 years. In PAD, fatty deposits (atherosclerosis) and blood clots cause the arteries to narrow and block. This leads to poor blood flow to the muscles during exercise, causing the classical symptom of muscle pain during walking that goes away after rest (intermittent claudication). In severe cases of PAD, symptoms of rest pain, ulceration and gangrene may develop and, if untreated, can lead to lower limb amputation. People with PAD are also at higher risk for cardiovascular disease and stroke.</P>
+<P>The ankle brachial index (ABI) is a test that is used to facilitate diagnosis of PAD. This test uses a device for measuring blood pressure with an inflatable cuff, and blood pressure measurements are taken at the upper arm and the ankle. The equipment can be manual or digital with automatic electronic calculation of blood pressure. The ABI is widely used for assessment of PAD by specialist nurses, physicians, surgeons and podiatrists working in hospitals. Dividing blood pressure recorded at the ankle by that recorded at the arm produces a ratio. Ratios of 0.90 to 1.30 are considered normal for adults, and ratios less than 0.8 indicate that PAD is present. Lower readings (&lt; 0.7) suggest that the disease is severe and people might develop ulcers and gangrene. People with mild to moderate PAD can arrive at a diagnosis by several routes when using the ABI: during routine diabetic foot checks in general practice, in community health clinic or hospital settings, as a screening test for PAD in people who have no symptoms and during assessment of people presenting with exertional leg pain suggestive of PAD. Once a diagnosis of PAD is established, treatment will include prescribed secondary prevention therapy and lifestyle advice (exercise, smoking cessation, diet, weight), and for those with impaired quality of life, treatment may include supervised exercise therapy, or revascularisation, which commonly involves endovascular treatment rather than surgery.</P>
+<P>In hospitals, other tests may be used to diagnose PAD. Duplex ultrasound (DUS) shows blood flow in the arteries and is non-invasive, but only an experienced radiologist can achieve useful images. Hospital staff can use other tests to image the blood vessels, namely, computerised tomography angiography (CTA), magnetic resonance angiography (MRA) and catheter angiography.</P>
+<P>The ABI test is non-invasive and inexpensive and is widely used clinically; therefore, we have reviewed all available reports obtained from a wide search of databases of medical literature to estimate its accuracy in identifying PAD in people who experience pain on walking that goes away after rest. Two review authors independently assessed studies that met inclusion criteria of the review, including use of a cross-sectional study design; enrolment of participants with pain on walking that got better with rest; and use of duplex ultrasonography or angiography to check that results of the ABI test were accurate. One study met our criteria and provided data from 85 participants (158 limbs). Investigators compared the manual doppler method of measuring ABI with the automated method. Researchers provided only data for legs as opposed to data for patients; we were therefore unable to recalculate the analysis at the whole-participant level.</P>
+<P>In conclusion, we found little evidence about the accuracy of the ankle brachial index for diagnosing PAD in people presenting with exertional leg pain. The study included in our review had some flaws, and well-designed cross-sectional studies are needed to measure the accuracy of the ABI for diagnosing PAD in patients with early symptoms.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P />
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P />
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P />
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P />
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P />
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P />
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P />
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY>
+<BACKGROUND>
+<P />
+<CONDITION>
+<P />
+</CONDITION>
+<INTERVENTION>
+<P />
+</INTERVENTION>
+<THEORY>
+<P />
+</THEORY>
+<IMPORTANCE>
+<P />
+</IMPORTANCE>
+</BACKGROUND>
+<OBJECTIVES>
+<P />
+</OBJECTIVES>
+<METHODS>
+<SELECTION_CRITERIA>
+<CRIT_STUDIES>
+<P />
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P />
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P />
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES>
+<P />
+<CRIT_OUTCOMES_PRIMARY>
+<P />
+</CRIT_OUTCOMES_PRIMARY>
+<CRIT_OUTCOMES_SECONDARY>
+<P />
+</CRIT_OUTCOMES_SECONDARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS>
+<P />
+<ELECTRONIC_SEARCHES>
+<P />
+</ELECTRONIC_SEARCHES>
+<OTHER_SEARCHES>
+<P />
+</OTHER_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION>
+<P />
+<STUDY_SELECTION>
+<P />
+</STUDY_SELECTION>
+<DATA_EXTRACTION>
+<P />
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT>
+<P />
+</QUALITY_ASSESSMENT>
+<EFFECT_MEASURES>
+<P />
+</EFFECT_MEASURES>
+<UNIT_OF_ANALYSIS>
+<P />
+</UNIT_OF_ANALYSIS>
+<MISSING_DATA>
+<P />
+</MISSING_DATA>
+<HETEROGENEITY_ASSESSMENT>
+<P />
+</HETEROGENEITY_ASSESSMENT>
+<BIAS_ASSESSMENT>
+<P />
+</BIAS_ASSESSMENT>
+<DATA_SYNTHESIS>
+<P />
+</DATA_SYNTHESIS>
+<SUBGROUP_ANALYSIS>
+<P />
+</SUBGROUP_ANALYSIS>
+<SENSITIVITY_ANALYSIS>
+<P />
+</SENSITIVITY_ANALYSIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS>
+<STUDY_DESCRIPTION>
+<P />
+<SEARCH_RESULTS>
+<P />
+</SEARCH_RESULTS>
+<INCLUDED_STUDIES_DESCR>
+<P />
+</INCLUDED_STUDIES_DESCR>
+<EXCLUDED_STUDIES_DESCR>
+<P />
+</EXCLUDED_STUDIES_DESCR>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P />
+<ALLOCATION>
+<P />
+</ALLOCATION>
+<BLINDING>
+<P />
+</BLINDING>
+<EXCLUSIONS>
+<P />
+</EXCLUSIONS>
+<SELECTIVE_REPORTING>
+<P />
+</SELECTIVE_REPORTING>
+<OTHER_BIAS_SOURCES>
+<P />
+</OTHER_BIAS_SOURCES>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS>
+<P />
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P />
+<SUMMARY_OF_RESULTS>
+<P />
+</SUMMARY_OF_RESULTS>
+<APPLICABILITY_OF_FINDINGS>
+<P />
+</APPLICABILITY_OF_FINDINGS>
+<QUALITY_OF_EVIDENCE>
+<P />
+</QUALITY_OF_EVIDENCE>
+<POTENTIAL_BIASES>
+<P />
+</POTENTIAL_BIASES>
+<AGREEMENT>
+<P />
+</AGREEMENT>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P />
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P />
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P />
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P />
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P />
+</CONTRIBUTIONS>
+<PRO_REV_DIFF>
+<P />
+</PRO_REV_DIFF>
+<PUBLIC_NOTES>
+<P />
+</PUBLIC_NOTES>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES>
+<STUDIES>
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Vega-2011" NAME="Vega 2011" YEAR="2011">
+<IDENTIFIERS />
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES />
+<AWAITING_STUDIES />
+<ONGOING_STUDIES />
+</STUDIES>
+<OTHER_REFERENCES>
+<ADDITIONAL_REFERENCES />
+<OTHER_VERSIONS_REFERENCES />
+<PENDING_REFERENCES />
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES>
+<CHARACTERISTICS_OF_INCLUDED_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR STUDY_ID="STD-Vega-2011">
+<CHAR_METHODS><P /></CHAR_METHODS>
+<CHAR_PARTICIPANTS><P /></CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS><P /></CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES><P /></CHAR_OUTCOMES>
+<CHAR_NOTES><P /></CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS />
+<SOF_TABLES />
+<ADDITIONAL_TABLES />
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<TESTS />
+<COVARIATES />
+<ANALYSES />
+</ANALYSES_AND_DATA>
+<FIGURES />
+<FEEDBACK />
+<APPENDICES />
+<EXTENSIONS />
+</COCHRANE_REVIEW>

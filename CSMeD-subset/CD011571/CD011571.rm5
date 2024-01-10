@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COCHRANE_REVIEW TYPE="INTERVENTION" REVMAN_VERSION="5" ID="000000000000000000" VERSION_NO="2.0" STAGE="R" STATUS="A">
+<COVER_SHEET>
+<TITLE>Antistreptococcal interventions for guttate and chronic plaque psoriasis [Data only. When citing this record quote "Cochrane Database of Systematic Reviews 2019, Issue 3".]</TITLE>
+<CONTACT>
+<PERSON ID="z1306041415444405507068308080789" ROLE="AUTHOR">
+<FIRST_NAME>Gwendy</FIRST_NAME>
+<LAST_NAME>Dupire</LAST_NAME>
+<POSITION>Doctor, assistant</POSITION>
+<EMAIL_1>gwendy.dupire@gmail.com</EMAIL_1>
+<ADDRESS>
+<DEPARTMENT>Department of Immuno-Allergology</DEPARTMENT>
+<ORGANISATION>CHU Brugmann</ORGANISATION>
+<ADDRESS_1>Place A.Van Gehuchten 4</ADDRESS_1>
+<CITY>Brussels</CITY>
+<ZIP>1020</ZIP>
+<COUNTRY CODE="BE">Belgium</COUNTRY>
+</ADDRESS>
+</PERSON>
+</CONTACT>
+<CREATORS>
+<PERSON ID="z1306041415444405507068308080789" ROLE="AUTHOR">
+<FIRST_NAME>Gwendy</FIRST_NAME>
+<LAST_NAME>Dupire</LAST_NAME>
+<POSITION>Doctor, assistant</POSITION>
+<EMAIL_1>gwendy.dupire@gmail.com</EMAIL_1>
+<ADDRESS>
+<DEPARTMENT>Department of Immuno-Allergology</DEPARTMENT>
+<ORGANISATION>CHU Brugmann</ORGANISATION>
+<ADDRESS_1>Place A.Van Gehuchten 4</ADDRESS_1>
+<CITY>Brussels</CITY>
+<ZIP>1020</ZIP>
+<COUNTRY CODE="BE">Belgium</COUNTRY>
+</ADDRESS>
+</PERSON>
+<PERSON ID="z1306041436226235659488851739423" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Catherine</FIRST_NAME>
+<LAST_NAME>Droitcourt</LAST_NAME>
+<POSITION>Dr. Praticien hospitalo-universitaire</POSITION>
+<EMAIL_1>catherine.droitcourt@chu-rennes.fr</EMAIL_1>
+<ADDRESS>
+<DEPARTMENT>Department of Dermatology</DEPARTMENT>
+<ORGANISATION>Université de Rennes 1</ORGANISATION>
+<ADDRESS_1>2 rue Henri le Guilloux</ADDRESS_1>
+<CITY>Rennes</CITY>
+<ZIP>35000</ZIP>
+<COUNTRY CODE="FR">France</COUNTRY>
+<PHONE_1>+33 299284349</PHONE_1>
+<FAX_1>+33 299284100</FAX_1>
+</ADDRESS>
+</PERSON>
+<PERSON ID="41222390141989961287091203110535" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Carolyn</FIRST_NAME>
+<LAST_NAME>Hughes</LAST_NAME>
+<EMAIL_1>carolynh16@hotmail.com</EMAIL_1>
+<ADDRESS>
+<DEPARTMENT>c/o Cochrane Skin Group</DEPARTMENT>
+<ORGANISATION>The University of Nottingham</ORGANISATION>
+<ADDRESS_1>A103, King's Meadow Campus</ADDRESS_1>
+<ADDRESS_2>Lenton Lane</ADDRESS_2>
+<CITY>Nottingham</CITY>
+<ZIP>NG7 2NR</ZIP>
+<COUNTRY CODE="GB">UK</COUNTRY>
+</ADDRESS>
+</PERSON>
+<PERSON ID="4AF199BB82E26AA2005347C3EC04934A" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Laurence</FIRST_NAME>
+<LAST_NAME>Le Cleach</LAST_NAME>
+<EMAIL_1>laurence.lecleach@free.fr</EMAIL_1>
+<ADDRESS>
+<DEPARTMENT>Department of Dermatology</DEPARTMENT>
+<ORGANISATION>Hôpital Henri Mondor</ORGANISATION>
+<ADDRESS_1>51 avenue du Général de Lattre de Tassigny</ADDRESS_1>
+<CITY>Créteil</CITY>
+<ZIP>94010</ZIP>
+<COUNTRY CODE="FR">France</COUNTRY>
+<PHONE_1>33 (0) 1 49814511</PHONE_1>
+</ADDRESS>
+</PERSON>
+</CREATORS>
+<DATES>
+<UP_TO_DATE>
+<DATE DAY="" MONTH="" YEAR="" />
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="" MONTH="" YEAR="" />
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="" MONTH="" YEAR="" />
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="" YEAR="" />
+<REVIEW_PUBLISHED ISSUE="" YEAR="" />
+<LAST_CITATION_ISSUE ISSUE="" YEAR="" />
+</DATES>
+<WHATS_NEW />
+<HISTORY />
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES />
+<EXTERNAL_SOURCES />
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO" />
+<KEYWORDS />
+</COVER_SHEET>
+<MAIN_TEXT>
+<SUMMARY>
+<TITLE>
+Does treating <I>Streptococcal</I> throat infection help improve psoriasis?</TITLE>
+<SUMMARY_BODY>
+<P><B>Review question</B></P>
+<P>We wanted to find out how well treatments for infections caused by the <I>Streptococcus</I> bacteria worked, and how safe they were, when compared with no treatment, placebo (an identical but inactive treatment), or each other, in people with acute guttate or chronic plaque psoriasis.</P>
+<P><B>Background</B></P>
+<P>Chronic plaque psoriasis is a long-term condition that causes patches of red, flaky skin, covered with scales (called plaques); it is the most frequent form of psoriasis, and is more common in adults.</P>
+<P>Guttate psoriasis is characterised by smaller lesions, and is more common in children and young people. Some studies have suggested that guttate psoriasis occurs in less than 30% of people with psoriasis.</P>
+<P>The cause of psoriasis is unknown, but <I>Streptococcal</I> infection may trigger guttate psoriasis or flare-ups of chronic plaque psoriasis.</P>
+<P>Tonsillectomy may prevent or reduce the severity of throat infections, and limit the <I>Streptococcus</I> reservoir. Antibiotics work by destroying the bacteria that appear to trigger psoriasis.</P>
+<P><B>Study characteristics</B></P>
+<P>The evidence is current to January 2019.</P>
+<P>We included five studies (162 participants); three were conducted in hospital dermatology departments. Participants were 12 to 77 years old (100 males; 62 females). One study was funded by a pharmaceutical company. The severity of the condition ranged from mild to severe. <I>Streptococcus</I> bacteria were found in the throats of 14% of people.</P>
+<P>We classed outcomes measured within eight weeks of the start of treatment as short-term, and those measured at least one year after the start of treatment as long-term. The antibiotic trials in guttate psoriasis patients were all short-term in duration; the antibiotic trial in chronic plaque psoriasis was 48 weeks long.</P>
+<P>Three studies included participants with guttate psoriasis, and assessed the short-term effects of antibiotics: penicillin (20 participants), or erythromycin compared to no treatment (43 participants), and rifampicin compared to placebo (20 participants).</P>
+<P>Two studies included participants with chronic plaque psoriasis. One study assessed azithromycin (antibiotic) versus vitamin C at 48 weeks (50 participants); one assessed tonsillectomy versus no intervention at eight weeks and 24 months (29 participants).</P>
+<P><B>Key results</B></P>
+<P>These results are backed by very low-quality evidence, so we are not certain of their accuracy. Each result is based on only one study.</P>
+<P>No studies measured our main outcome of interest, the time taken for the skin to be clear or almost clear of lesions, or the risk of relapsing at least once during long-term follow-up.</P>
+<P>No side effects were seen when penicillin was compared with no treatment in people with guttate psoriasis. Side effects were not measured for the comparisons of rifampicin versus placebo, or erythromycin versus no treatment.</P>
+<P>In participants with chronic plaque psoriasis, one trial assessed azithromycin versus vitamin C, and 10 participants in the azithromycin group complained of nausea or mild stomach upset. A trial of tonsillectomy versus no treatment reported one case of minor bleeding in the tonsillectomy group.</P>
+<P>Two studies in participants with chronic plaque psoriasis measured the number of participants achieving a 75% reduction on the Psoriasis Area and Severity Index (PASI 75). In one, 18/30 participants in the azithromycin group reached PASI 75 versus none in the vitamin C group. In the other, 3/15 in the tonsillectomy group reached PASI 75 versus none in the no treatment group. The guttate psoriasis trials did not assess this outcome.</P>
+<P>We are uncertain whether the number of participants with guttate psoriasis achieving clear or almost clear skin differs between those given penicillin and those receiving no treatment. Only one participant with chronic plaque psoriasis achieved almost clear skin in the tonsillectomy group compared to none in the no treatment group. The other three trials did not measure this outcome.</P>
+<P><B>Quality of the evidence</B></P>
+<P>Many of our main outcomes were not assessed. Those that were assessed were based on very low-quality evidence, meaning we are not sure of their accuracy. The studies were very small, and had a high risk of bias because participants and trial assessors were aware of treatment allocation. More studies are needed to see if antibiotic treatment of <I>Streptococcal</I> infection shortens the duration of acute guttate psoriasis, stopping it from turning into a long-term condition (chronic plaque psoriasis).</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P />
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P />
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P />
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P />
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P />
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P />
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P />
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY>
+<BACKGROUND>
+<P />
+<CONDITION>
+<P />
+</CONDITION>
+<INTERVENTION>
+<P />
+</INTERVENTION>
+<THEORY>
+<P />
+</THEORY>
+<IMPORTANCE>
+<P />
+</IMPORTANCE>
+</BACKGROUND>
+<OBJECTIVES>
+<P />
+</OBJECTIVES>
+<METHODS>
+<SELECTION_CRITERIA>
+<CRIT_STUDIES>
+<P />
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P />
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P />
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES>
+<P />
+<CRIT_OUTCOMES_PRIMARY>
+<P />
+</CRIT_OUTCOMES_PRIMARY>
+<CRIT_OUTCOMES_SECONDARY>
+<P />
+</CRIT_OUTCOMES_SECONDARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS>
+<P />
+<ELECTRONIC_SEARCHES>
+<P />
+</ELECTRONIC_SEARCHES>
+<OTHER_SEARCHES>
+<P />
+</OTHER_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION>
+<P />
+<STUDY_SELECTION>
+<P />
+</STUDY_SELECTION>
+<DATA_EXTRACTION>
+<P />
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT>
+<P />
+</QUALITY_ASSESSMENT>
+<EFFECT_MEASURES>
+<P />
+</EFFECT_MEASURES>
+<UNIT_OF_ANALYSIS>
+<P />
+</UNIT_OF_ANALYSIS>
+<MISSING_DATA>
+<P />
+</MISSING_DATA>
+<HETEROGENEITY_ASSESSMENT>
+<P />
+</HETEROGENEITY_ASSESSMENT>
+<BIAS_ASSESSMENT>
+<P />
+</BIAS_ASSESSMENT>
+<DATA_SYNTHESIS>
+<P />
+</DATA_SYNTHESIS>
+<SUBGROUP_ANALYSIS>
+<P />
+</SUBGROUP_ANALYSIS>
+<SENSITIVITY_ANALYSIS>
+<P />
+</SENSITIVITY_ANALYSIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS>
+<STUDY_DESCRIPTION>
+<P />
+<SEARCH_RESULTS>
+<P />
+</SEARCH_RESULTS>
+<INCLUDED_STUDIES_DESCR>
+<P />
+</INCLUDED_STUDIES_DESCR>
+<EXCLUDED_STUDIES_DESCR>
+<P />
+</EXCLUDED_STUDIES_DESCR>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P />
+<ALLOCATION>
+<P />
+</ALLOCATION>
+<BLINDING>
+<P />
+</BLINDING>
+<EXCLUSIONS>
+<P />
+</EXCLUSIONS>
+<SELECTIVE_REPORTING>
+<P />
+</SELECTIVE_REPORTING>
+<OTHER_BIAS_SOURCES>
+<P />
+</OTHER_BIAS_SOURCES>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS>
+<P />
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P />
+<SUMMARY_OF_RESULTS>
+<P />
+</SUMMARY_OF_RESULTS>
+<APPLICABILITY_OF_FINDINGS>
+<P />
+</APPLICABILITY_OF_FINDINGS>
+<QUALITY_OF_EVIDENCE>
+<P />
+</QUALITY_OF_EVIDENCE>
+<POTENTIAL_BIASES>
+<P />
+</POTENTIAL_BIASES>
+<AGREEMENT>
+<P />
+</AGREEMENT>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P />
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P />
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P />
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P />
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P />
+</CONTRIBUTIONS>
+<PRO_REV_DIFF>
+<P />
+</PRO_REV_DIFF>
+<PUBLIC_NOTES>
+<P />
+</PUBLIC_NOTES>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES>
+<STUDIES>
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Caca_x002d_Biljanovska-2002" NAME="Caca-Biljanovska 2002" YEAR="2002">
+<IDENTIFIERS />
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Dogan-2008" NAME="Dogan 2008" YEAR="2008">
+<IDENTIFIERS />
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Saxena-2010" NAME="Saxena 2010" YEAR="2010">
+<IDENTIFIERS />
+</STUDY>
+<STUDY DATA_SOURCE="MIX" ID="STD-Thorleifsdottir-2012" NAME="Thorleifsdottir 2012" YEAR="2012">
+<IDENTIFIERS />
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Vincent-1992" NAME="Vincent 1992" YEAR="1992">
+<IDENTIFIERS />
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES />
+<AWAITING_STUDIES />
+<ONGOING_STUDIES />
+</STUDIES>
+<OTHER_REFERENCES>
+<ADDITIONAL_REFERENCES />
+<OTHER_VERSIONS_REFERENCES />
+<PENDING_REFERENCES />
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES>
+<CHARACTERISTICS_OF_INCLUDED_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR STUDY_ID="STD-Caca_x002d_Biljanovska-2002">
+<CHAR_METHODS><P /></CHAR_METHODS>
+<CHAR_PARTICIPANTS><P /></CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS><P /></CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES><P /></CHAR_OUTCOMES>
+<CHAR_NOTES><P /></CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Dogan-2008">
+<CHAR_METHODS><P /></CHAR_METHODS>
+<CHAR_PARTICIPANTS><P /></CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS><P /></CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES><P /></CHAR_OUTCOMES>
+<CHAR_NOTES><P /></CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Saxena-2010">
+<CHAR_METHODS><P /></CHAR_METHODS>
+<CHAR_PARTICIPANTS><P /></CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS><P /></CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES><P /></CHAR_OUTCOMES>
+<CHAR_NOTES><P /></CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Thorleifsdottir-2012">
+<CHAR_METHODS><P /></CHAR_METHODS>
+<CHAR_PARTICIPANTS><P /></CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS><P /></CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES><P /></CHAR_OUTCOMES>
+<CHAR_NOTES><P /></CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Vincent-1992">
+<CHAR_METHODS><P /></CHAR_METHODS>
+<CHAR_PARTICIPANTS><P /></CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS><P /></CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES><P /></CHAR_OUTCOMES>
+<CHAR_NOTES><P /></CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS />
+<SOF_TABLES />
+<ADDITIONAL_TABLES />
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Penicillin versus no treatment in guttate psoriasis</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="5.851298876620449" CI_START="0.6836089019452534" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="2.0" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="3" I2="0.0" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="0.7672522818659663" LOG_CI_START="-0.16519229053800397" LOG_EFFECT_SIZE="0.3010299956639812" METHOD="MH" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="0.20568937143051014" Q="0.0" RANDOM="YES" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="10" TOTAL_2="10" WEIGHT="100.0" Z="1.2655078215459612">
+<NAME>Proportion of participants achieving clear or almost clear skin (PASI 90 or 100 or PGA 0 or 1)</NAME>
+<GROUP_LABEL_1>Penicillin IM</GROUP_LABEL_1>
+<GROUP_LABEL_2>No treatment</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours no treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours penicillin</GRAPH_LABEL_2>
+<DICH_DATA CI_END="5.851298876620449" CI_START="0.6836089019452534" EFFECT_SIZE="2.0" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="3" LOG_CI_END="0.7672522818659663" LOG_CI_START="-0.16519229053800397" LOG_EFFECT_SIZE="0.3010299956639812" ORDER="3" O_E="0.0" SE="0.5477225575051662" STUDY_ID="STD-Caca_x002d_Biljanovska-2002" TOTAL_1="10" TOTAL_2="10" VAR="0.30000000000000004" WEIGHT="100.0" />
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" NO="2">
+<NAME>Oral azithromycin versus vitamin C in chronic plaque psoriasis</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="393.58951299704745" CI_START="1.5961552532199477" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="25.064516129032256" ESTIMABLE="YES" EVENTS_1="18" EVENTS_2="0" I2="0.0" I2_Q="0.0" ID="CMP-002.01" LOG_CI_END="2.595043518346222" LOG_CI_START="0.203075131587061" LOG_EFFECT_SIZE="1.3990593249666416" METHOD="MH" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="0.021861769727624932" Q="0.0" RANDOM="YES" SCALE="100.0" SORT_BY="EFFECT_SIZE" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="30" TOTAL_2="20" WEIGHT="100.0" Z="2.2927609782374856">
+<NAME>Proportion of participants achieving PASI 75 or PGA 1 to 2</NAME>
+<GROUP_LABEL_1>Oral azithromycin</GROUP_LABEL_1>
+<GROUP_LABEL_2>Vitamin C</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours vitamin C</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours azithromycin</GRAPH_LABEL_2>
+<DICH_DATA CI_END="393.58951299704745" CI_START="1.5961552532199477" EFFECT_SIZE="25.06451612903226" ESTIMABLE="YES" EVENTS_1="18" EVENTS_2="0" LOG_CI_END="2.595043518346222" LOG_CI_START="0.203075131587061" LOG_EFFECT_SIZE="1.3990593249666416" ORDER="9" O_E="0.0" SE="1.4050540708168058" STUDY_ID="STD-Saxena-2010" TOTAL_1="30" TOTAL_2="20" VAR="1.9741769419188773" WEIGHT="100.0" />
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-003" NO="3">
+<NAME>Tonsillectomy versus no intervention in chronic plaque psoriasis</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="63.82881484401465" CI_START="0.12392766917779852" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="2.8125" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" I2="0.0" I2_Q="0.0" ID="CMP-003.01" LOG_CI_END="1.8050167806434498" LOG_CI_START="-0.9068317184046119" LOG_EFFECT_SIZE="0.4490925311194189" METHOD="IV" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="0.5162381126854432" Q="0.0" RANDOM="YES" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="15" TOTAL_2="14" WEIGHT="100.0" Z="0.649155133134445">
+<NAME>Number of participants with adverse events or severe adverse events</NAME>
+<GROUP_LABEL_1>Tonsillectomy</GROUP_LABEL_1>
+<GROUP_LABEL_2>No intervention</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours tonsillectomy</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours no intervention</GRAPH_LABEL_2>
+<DICH_DATA CI_END="63.82881484401465" CI_START="0.12392766917779852" EFFECT_SIZE="2.8125" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="1.8050167806434498" LOG_CI_START="-0.9068317184046119" LOG_EFFECT_SIZE="0.4490925311194189" ORDER="13" O_E="0.0" SE="1.592953232207399" STUDY_ID="STD-Thorleifsdottir-2012" TOTAL_1="15" TOTAL_2="14" VAR="2.5374999999999996" WEIGHT="100.0" />
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="63.82881484401465" CI_START="0.12392766917779852" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="2.8125" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" I2="0.0" I2_Q="0.0" ID="CMP-003.02" LOG_CI_END="1.8050167806434498" LOG_CI_START="-0.9068317184046119" LOG_EFFECT_SIZE="0.4490925311194189" METHOD="IV" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="0.5162381126854432" Q="0.0" RANDOM="YES" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="15" TOTAL_2="14" WEIGHT="100.0" Z="0.649155133134445">
+<NAME>Proportion of participants achieving clear or almost clear skin (PASI 90 or 100 or PGA 0 or 1)</NAME>
+<GROUP_LABEL_1>Tonsillectomy</GROUP_LABEL_1>
+<GROUP_LABEL_2>No intervention</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours no intervention</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours tonsillectomy</GRAPH_LABEL_2>
+<DICH_DATA CI_END="63.82881484401465" CI_START="0.12392766917779852" EFFECT_SIZE="2.8125" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="1.8050167806434498" LOG_CI_START="-0.9068317184046119" LOG_EFFECT_SIZE="0.4490925311194189" ORDER="14" O_E="0.0" SE="1.592953232207399" STUDY_ID="STD-Thorleifsdottir-2012" TOTAL_1="15" TOTAL_2="14" VAR="2.5374999999999996" WEIGHT="100.0" />
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="116.70106774092213" CI_START="0.3690318099368892" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="6.5625" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="0" I2="0.0" I2_Q="0.0" ID="CMP-003.03" LOG_CI_END="2.0670748295832384" LOG_CI_START="-0.43293619675521183" LOG_EFFECT_SIZE="0.8170693164140133" METHOD="IV" NO="3" P_CHI2="1.0" P_Q="1.0" P_Z="0.20014607797294443" Q="0.0" RANDOM="YES" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="15" TOTAL_2="14" WEIGHT="100.0" Z="1.2811354959419508">
+<NAME>Proportion of participants achieving PASI 75 or PGA 1 to 2</NAME>
+<GROUP_LABEL_1>Tonsillectomy</GROUP_LABEL_1>
+<GROUP_LABEL_2>No intervention</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours no intervention</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours tonsillectomy</GRAPH_LABEL_2>
+<DICH_DATA CI_END="116.70106774092213" CI_START="0.3690318099368892" EFFECT_SIZE="6.5625" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="0" LOG_CI_END="2.0670748295832384" LOG_CI_START="-0.43293619675521183" LOG_EFFECT_SIZE="0.8170693164140133" ORDER="15" O_E="0.0" SE="1.4685188521253716" STUDY_ID="STD-Thorleifsdottir-2012" TOTAL_1="15" TOTAL_2="14" VAR="2.1565476190476187" WEIGHT="100.0" />
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES />
+<FEEDBACK />
+<APPENDICES />
+<EXTENSIONS />
+</COCHRANE_REVIEW>

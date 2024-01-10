@@ -1,0 +1,5 @@
+Outcome or subgroup title,No. of studies,No. of participants,Statistical method,Effect size,comparison_name,comparison_id,effect_size,lower_ci,upper_ci,outcome_id,subgroup_id,outcome_name,subgroup_name
+1 Proportion of OIHD Show forest plot,4,999,"Risk Ratio (M‐H, Random, 95% CI)","0.87 [0.72, 1.06]",Barrier creams versus no treatment,1,0.87,0.72,1.06,1,,Proportion of OIHD,
+1 Proportion of OIHD Show forest plot,3,507,"Risk Ratio (M‐H, Random, 95% CI)","0.71 [0.46, 1.09]",Moisturisers versus no treatment,2,0.71,0.46,1.09,1,,Proportion of OIHD,
+1 Proportion of OIHD Show forest plot,2,474,"Risk Ratio (M‐H, Random, 95% CI)","0.68 [0.33, 1.42]",Barrier creams and moisturisers vs no treatment,3,0.68,0.33,1.42,1,,Proportion of OIHD,
+1 Proportion of OIHD Show forest plot,3,1355,"Risk Ratio (M‐H, Random, 95% CI)","0.76 [0.54, 1.08]",Skin protection education versus no or minimal intervention,4,0.76,0.54,1.08,1,,Proportion of OIHD,

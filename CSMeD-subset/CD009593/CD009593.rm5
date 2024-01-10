@@ -1,0 +1,3460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COCHRANE_REVIEW DESCRIPTION="DW amended 'What's new' section"
+                 DOI="10.1002/14651858.CD009593"
+                 GROUP_ID="INFECTN"
+                 ID="904311052718072959"
+                 MERGED_FROM=""
+                 MODIFIED="2021-05-05 16:26:09 +0100"
+                 MODIFIED_BY="[Empty name]"
+                 QUADAS2="YES"
+                 REVIEW_NO=""
+                 REVMAN_SUB_VERSION="6.0.0"
+                 REVMAN_VERSION="5"
+                 SPLIT_FROM=""
+                 STAGE="R"
+                 STATUS="A"
+                 TYPE="DIAGNOSTIC"
+                 VERSION_NO="9.0">
+   <COVER_SHEET MODIFIED="2021-05-05 16:26:09 +0100" MODIFIED_BY="[Empty name]">
+      <TITLE MODIFIED="2020-12-09 08:10:21 +0000"
+             MODIFIED_BY="z1805181030185931402862446671433">Xpert Ultra versus Xpert MTB/RIF for pulmonary tuberculosis and rifampicin resistance in adults with presumptive pulmonary tuberculosis</TITLE>
+      <CONTACT MODIFIED="2020-12-09 10:09:39 +0000"
+               MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8">
+         <PERSON ID="32947829594544334747110420112002"
+                 MODIFIED="2020-12-09 10:09:39 +0000"
+                 MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                 ROLE="AUTHOR">
+            <PREFIX>Dr</PREFIX>
+            <FIRST_NAME>Karen</FIRST_NAME>
+            <MIDDLE_INITIALS>R</MIDDLE_INITIALS>
+            <LAST_NAME>Steingart</LAST_NAME>
+            <EMAIL_1>karen.steingart@gmail.com</EMAIL_1>
+            <MOBILE_PHONE>646-243-9043</MOBILE_PHONE>
+            <ADDRESS>
+               <DEPARTMENT>Honorary Research Fellow</DEPARTMENT>
+               <ORGANISATION>Department of Clinical Sciences, Liverpool School of Tropical Medicine</ORGANISATION>
+               <ADDRESS_1>Pembroke Place</ADDRESS_1>
+               <CITY>Liverpool</CITY>
+               <COUNTRY CODE="GB">UK</COUNTRY>
+            </ADDRESS>
+         </PERSON>
+      </CONTACT>
+      <CREATORS MODIFIED="2020-12-09 10:09:39 +0000"
+                MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8">
+         <PERSON ID="z1805181030185931402862446671433"
+                 MODIFIED="2020-12-09 10:09:39 +0000"
+                 MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                 ROLE="AUTHOR">
+            <PREFIX>Dr</PREFIX>
+            <FIRST_NAME>Jerry</FIRST_NAME>
+            <MIDDLE_INITIALS>S</MIDDLE_INITIALS>
+            <LAST_NAME>Zifodya</LAST_NAME>
+            <EMAIL_1>jzifodya@tulane.edu</EMAIL_1>
+            <ADDRESS>
+               <DEPARTMENT>Department of Medicine, Section of Pulmonary, Critical Care, &amp; Environmental Medicine </DEPARTMENT>
+               <ORGANISATION>Tulane University</ORGANISATION>
+               <ADDRESS_1>1430 Tulane Avenue</ADDRESS_1>
+               <ADDRESS_2>#8509</ADDRESS_2>
+               <CITY>New Orleans</CITY>
+               <ZIP>70112</ZIP>
+               <REGION>LA</REGION>
+               <COUNTRY CODE="US">USA</COUNTRY>
+            </ADDRESS>
+         </PERSON>
+         <PERSON ID="z2001131640037231860072426587456"
+                 MODIFIED="2020-12-09 10:09:39 +0000"
+                 MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                 ROLE="AUTHOR">
+            <PREFIX>Dr</PREFIX>
+            <FIRST_NAME>Jonah</FIRST_NAME>
+            <MIDDLE_INITIALS>S</MIDDLE_INITIALS>
+            <LAST_NAME>Kreniske</LAST_NAME>
+            <EMAIL_1>jkreniske@tulane.edu</EMAIL_1>
+            <ADDRESS>
+               <DEPARTMENT>Department of Internal Medicine</DEPARTMENT>
+               <ORGANISATION>Tulane University School of Medicine</ORGANISATION>
+               <CITY>New Orleans</CITY>
+               <ZIP>70112</ZIP>
+               <REGION>Louisiana</REGION>
+               <COUNTRY CODE="US">USA</COUNTRY>
+            </ADDRESS>
+         </PERSON>
+         <PERSON ID="99985454754840579625120621123511"
+                 MODIFIED="2021-01-13 14:39:49 +0000"
+                 MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                 ROLE="AUTHOR">
+            <FIRST_NAME>Ian</FIRST_NAME>
+            <LAST_NAME>Schiller</LAST_NAME>
+            <EMAIL_1>ian.schiller@rimuhc.ca</EMAIL_1>
+            <ADDRESS>
+               <DEPARTMENT>Centre for Outcomes Research</DEPARTMENT>
+               <ORGANISATION>McGill University Health Centre - Research Institute</ORGANISATION>
+               <CITY>Montreal</CITY>
+               <COUNTRY CODE="CA">Canada</COUNTRY>
+            </ADDRESS>
+         </PERSON>
+         <PERSON ID="z1508271146508076452034755970120"
+                 MODIFIED="2020-12-09 10:09:40 +0000"
+                 MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                 ROLE="AUTHOR">
+            <FIRST_NAME>Mikashmi</FIRST_NAME>
+            <LAST_NAME>Kohli</LAST_NAME>
+            <EMAIL_1>mikashmikohli@gmail.com</EMAIL_1>
+            <ADDRESS>
+               <DEPARTMENT>Department of Epidemiology, Biostatistics and Occupational Health</DEPARTMENT>
+               <ORGANISATION>McGill University</ORGANISATION>
+               <CITY>Montreal</CITY>
+               <COUNTRY CODE="CA">Canada</COUNTRY>
+            </ADDRESS>
+         </PERSON>
+         <PERSON ID="68219127317260156519110715153732"
+                 MODIFIED="2020-12-09 10:09:40 +0000"
+                 MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                 ROLE="AUTHOR">
+            <FIRST_NAME>Nandini</FIRST_NAME>
+            <LAST_NAME>Dendukuri</LAST_NAME>
+            <EMAIL_1>nandini.dendukuri@mcgill.ca</EMAIL_1>
+            <ADDRESS>
+               <DEPARTMENT>Centre for Outcomes Research</DEPARTMENT>
+               <ORGANISATION>McGill University Health Centre - Research Institute</ORGANISATION>
+               <CITY>Montreal</CITY>
+               <REGION>QC</REGION>
+               <COUNTRY CODE="CA">Canada</COUNTRY>
+            </ADDRESS>
+         </PERSON>
+         <PERSON ID="z1609271228396347990861340572006"
+                 MODIFIED="2020-12-09 10:09:40 +0000"
+                 MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                 ROLE="AUTHOR">
+            <PREFIX>Dr</PREFIX>
+            <FIRST_NAME>Samuel</FIRST_NAME>
+            <MIDDLE_INITIALS>G</MIDDLE_INITIALS>
+            <LAST_NAME>Schumacher</LAST_NAME>
+            <EMAIL_1>Samuel.Schumacher@finddx.org</EMAIL_1>
+            <ADDRESS>
+               <ORGANISATION>FIND</ORGANISATION>
+               <CITY>Geneva </CITY>
+               <COUNTRY CODE="CH">Switzerland</COUNTRY>
+            </ADDRESS>
+         </PERSON>
+         <PERSON ID="54359016152565588149110214150831"
+                 MODIFIED="2021-01-28 09:37:24 +0000"
+                 MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                 ROLE="AUTHOR">
+            <PREFIX>Dr</PREFIX>
+            <FIRST_NAME>Eleanor</FIRST_NAME>
+            <MIDDLE_INITIALS>A</MIDDLE_INITIALS>
+            <LAST_NAME>Ochodo</LAST_NAME>
+            <EMAIL_1>eleanor.ochodo@gmail.com</EMAIL_1>
+            <EMAIL_2>eochodo@sun.ac.za</EMAIL_2>
+            <MOBILE_PHONE>+27 787850957</MOBILE_PHONE>
+            <ADDRESS>
+               <DEPARTMENT>Centre for Evidence-based Health Care, Department of Global Health, Faculty of Medicine and Health Sciences</DEPARTMENT>
+               <ORGANISATION>Stellenbosch University</ORGANISATION>
+               <ADDRESS_1>PO Box 241</ADDRESS_1>
+               <CITY>Cape Town</CITY>
+               <ZIP>8000</ZIP>
+               <COUNTRY CODE="ZA">South Africa</COUNTRY>
+               <PHONE_1>+27 21938 9886</PHONE_1>
+               <PHONE_2>+27 78785 0957</PHONE_2>
+               <FAX_1>+27 21938 9734</FAX_1>
+            </ADDRESS>
+         </PERSON>
+         <PERSON ID="z1610121315089752169809145041211"
+                 MODIFIED="2021-02-24 08:10:44 +0000"
+                 MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                 ROLE="AUTHOR">
+            <FIRST_NAME>Frederick</FIRST_NAME>
+            <LAST_NAME>Haraka</LAST_NAME>
+            <EMAIL_1>fharaka@pedaids.org</EMAIL_1>
+            <EMAIL_2>fharaka@ihi.or.tz</EMAIL_2>
+            <ADDRESS>
+               <ORGANISATION>Elizabeth Glaser Pediatric AIDS Foundation</ORGANISATION>
+               <ADDRESS_1>Ursino 395, Mwai Kibaki Road, </ADDRESS_1>
+               <ADDRESS_2>Morocco, P.O Box 1628</ADDRESS_2>
+               <CITY>Dar es Salaam</CITY>
+               <COUNTRY CODE="TZ">Tanzania</COUNTRY>
+            </ADDRESS>
+         </PERSON>
+         <PERSON ID="z1805150924201165744719592042612"
+                 MODIFIED="2020-12-09 10:09:40 +0000"
+                 MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                 ROLE="AUTHOR">
+            <PREFIX>Dr</PREFIX>
+            <FIRST_NAME>Alice</FIRST_NAME>
+            <MIDDLE_INITIALS>A</MIDDLE_INITIALS>
+            <LAST_NAME>Zwerling</LAST_NAME>
+            <EMAIL_1>azwerlin@uottawa.ca</EMAIL_1>
+            <ADDRESS>
+               <DEPARTMENT>School of Epidemiology &amp; Public Health</DEPARTMENT>
+               <ORGANISATION>University of Ottawa</ORGANISATION>
+               <ADDRESS_1>600 Peter Morand Crescent, Room 301E</ADDRESS_1>
+               <CITY>Ottawa</CITY>
+               <ZIP>K1G5Z3</ZIP>
+               <REGION>Ontario</REGION>
+               <COUNTRY CODE="CA">Canada</COUNTRY>
+            </ADDRESS>
+         </PERSON>
+         <PERSON ID="14119"
+                 MODIFIED="2021-02-16 18:46:19 +0000"
+                 MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                 ROLE="AUTHOR">
+            <PREFIX>Dr</PREFIX>
+            <FIRST_NAME>Madhukar</FIRST_NAME>
+            <LAST_NAME>Pai</LAST_NAME>
+            <EMAIL_1>madhukar.pai@mcgill.ca</EMAIL_1>
+            <ADDRESS>
+               <DEPARTMENT>Department of Epidemiology, Biostatistics and Occupational Health</DEPARTMENT>
+               <ORGANISATION>McGill University</ORGANISATION>
+               <ADDRESS_1>Purvis Hall, Room 50</ADDRESS_1>
+               <ADDRESS_2>1020 Pine Avenue West</ADDRESS_2>
+               <CITY>Montreal</CITY>
+               <ZIP>H3A 1A2</ZIP>
+               <REGION>QC</REGION>
+               <COUNTRY CODE="CA">Canada</COUNTRY>
+               <PHONE_1>514-398-5422; </PHONE_1>
+               <FAX_1>514-398-4503</FAX_1>
+            </ADDRESS>
+         </PERSON>
+         <PERSON ID="32947829594544334747110420112002"
+                 MODIFIED="2020-12-09 10:09:40 +0000"
+                 MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                 ROLE="AUTHOR">
+            <PREFIX>Dr</PREFIX>
+            <FIRST_NAME>Karen</FIRST_NAME>
+            <MIDDLE_INITIALS>R</MIDDLE_INITIALS>
+            <LAST_NAME>Steingart</LAST_NAME>
+            <EMAIL_1>karen.steingart@gmail.com</EMAIL_1>
+            <MOBILE_PHONE>646-243-9043</MOBILE_PHONE>
+            <ADDRESS>
+               <DEPARTMENT>Honorary Research Fellow</DEPARTMENT>
+               <ORGANISATION>Department of Clinical Sciences, Liverpool School of Tropical Medicine</ORGANISATION>
+               <ADDRESS_1>Pembroke Place</ADDRESS_1>
+               <CITY>Liverpool</CITY>
+               <COUNTRY CODE="GB">UK</COUNTRY>
+            </ADDRESS>
+         </PERSON>
+         <PERSON ID="19565467128227849176090815010131"
+                 MODIFIED="2020-12-09 10:09:41 +0000"
+                 MODIFIED_BY="6CC7734682E26AA2008F53C85074DEB8"
+                 ROLE="AUTHOR">
+            <PREFIX>Dr</PREFIX>
+            <FIRST_NAME>David</FIRST_NAME>
+            <MIDDLE_INITIALS>J</MIDDLE_INITIALS>
+            <LAST_NAME>Horne</LAST_NAME>
+            <EMAIL_1>dhorne@uw.edu</EMAIL_1>
+            <ADDRESS>
+               <DEPARTMENT>Department of Medicine, Division of Pulmonary and Critical Care Medicine, and Firland Northwest TB Center</DEPARTMENT>
+               <ORGANISATION>University of Washington</ORGANISATION>
+               <CITY>Seattle</CITY>
+               <REGION>WA</REGION>
+               <COUNTRY CODE="US">USA</COUNTRY>
+            </ADDRESS>
+         </PERSON>
+      </CREATORS>
+      <DATES MODIFIED="2020-12-14 14:51:20 +0000" MODIFIED_BY="[Empty name]">
+         <UP_TO_DATE>
+            <DATE DAY="11" MONTH="10" YEAR="2018"/>
+         </UP_TO_DATE>
+         <LAST_SEARCH>
+            <DATE DAY="28" MONTH="1" YEAR="2020"/>
+         </LAST_SEARCH>
+         <NEXT_STAGE>
+            <DATE DAY="11" MONTH="10" YEAR="2020"/>
+         </NEXT_STAGE>
+         <PROTOCOL_PUBLISHED ISSUE="1" YEAR="2012"/>
+         <REVIEW_PUBLISHED ISSUE="1" YEAR="2013"/>
+         <LAST_CITATION_ISSUE ISSUE="6" YEAR="2019"/>
+      </DATES>
+      <WHATS_NEW/>
+      <HISTORY/>
+      <SOURCES_OF_SUPPORT MODIFIED="2021-02-12 17:34:35 +0000" MODIFIED_BY="[Empty name]">
+         <INTERNAL_SOURCES/>
+         <EXTERNAL_SOURCES/>
+      </SOURCES_OF_SUPPORT>
+      <MESH_TERMS VERIFIED="NO"/>
+      <KEYWORDS/>
+   </COVER_SHEET>
+   <MAIN_TEXT>
+      <SUMMARY>
+         <TITLE/>
+         <SUMMARY_BODY/>
+      </SUMMARY>
+      <ABSTRACT>
+         <ABS_BACKGROUND/>
+         <ABS_OBJECTIVES/>
+         <ABS_SEARCH_STRATEGY/>
+         <ABS_SELECTION_CRITERIA/>
+         <ABS_DATA_COLLECTION/>
+         <ABS_RESULTS/>
+         <ABS_CONCLUSIONS/>
+      </ABSTRACT>
+      <BODY>
+         <BACKGROUND>
+            <TARGET_CONDITION/>
+            <INDEX_TESTS/>
+            <CLINICAL_PATHWAY>
+               <ROLE_OF_INDEX_TESTS/>
+               <ALTERNATIVE_TESTS2/>
+            </CLINICAL_PATHWAY>
+            <RATIONALE/>
+         </BACKGROUND>
+         <OBJECTIVES/>
+         <METHODS>
+            <SELECTION_CRITERIA>
+               <CRIT_STUDIES/>
+               <CRIT_PARTICIPANTS/>
+               <CRIT_INDEX_TESTS/>
+               <CRIT_TARGET_CONDITIONS/>
+               <CRIT_REFERENCE_STANDARDS/>
+            </SELECTION_CRITERIA>
+            <SEARCH_METHODS>
+               <ELECTRONIC_SEARCHES/>
+               <OTHER_SEARCHES/>
+            </SEARCH_METHODS>
+            <DATA_COLLECTION>
+               <STUDY_SELECTION/>
+               <DATA_EXTRACTION/>
+               <QUALITY_ASSESSMENT/>
+               <DATA_SYNTHESIS/>
+               <HETEROGENEITY_ASSESSMENT/>
+               <SENSITIVITY_ANALYSIS/>
+               <BIAS_ASSESSMENT/>
+            </DATA_COLLECTION>
+         </METHODS>
+         <RESULTS>
+            <SEARCH_RESULTS/>
+            <STUDY_QUALITY/>
+            <FINDINGS/>
+         </RESULTS>
+         <DISCUSSION>
+            <SUMMARY_OF_RESULTS/>
+            <STRENGTHS_AND_WEAKNESSES/>
+            <APPLICABILITY_OF_FINDINGS/>
+         </DISCUSSION>
+         <CONCLUSIONS>
+            <IMPLICATIONS_PRACTICE/>
+            <IMPLICATIONS_RESEARCH/>
+         </CONCLUSIONS>
+      </BODY>
+      <ACKNOWLEDGEMENTS/>
+      <CONFLICT_OF_INTEREST/>
+      <CONTRIBUTIONS/>
+      <PRO_REV_DIFF/>
+      <PUBLIC_NOTES/>
+   </MAIN_TEXT>
+   <STUDIES_AND_REFERENCES>
+      <STUDIES>
+         <INCLUDED_STUDIES>
+            <STUDY DATA_SOURCE="PUB"
+                   ID="STD-Berhanu-2018"
+                   NAME="Berhanu 2018"
+                   YEAR="2018">
+               <IDENTIFIERS/>
+            </STUDY>
+            <STUDY DATA_SOURCE="PUB"
+                   ID="STD-Chakravorty-2017"
+                   NAME="Chakravorty 2017"
+                   YEAR="2017">
+               <IDENTIFIERS/>
+            </STUDY>
+            <STUDY DATA_SOURCE="PUB"
+                   ID="STD-Dorman-2018"
+                   NAME="Dorman 2018"
+                   YEAR="2018">
+               <IDENTIFIERS/>
+            </STUDY>
+            <STUDY DATA_SOURCE="PUB"
+                   ID="STD-Mishra-2020a"
+                   NAME="Mishra 2020a"
+                   YEAR="2019">
+               <IDENTIFIERS/>
+            </STUDY>
+            <STUDY DATA_SOURCE="PUB"
+                   ID="STD-Mishra-2020b"
+                   NAME="Mishra 2020b"
+                   YEAR="">
+               <IDENTIFIERS/>
+            </STUDY>
+            <STUDY DATA_SOURCE="PUB"
+                   ID="STD-Opota-2019"
+                   NAME="Opota 2019"
+                   YEAR="2019">
+               <IDENTIFIERS/>
+            </STUDY>
+            <STUDY DATA_SOURCE="PUB"
+                   ID="STD-Pereira-2020"
+                   NAME="Pereira 2020"
+                   YEAR="2020">
+               <IDENTIFIERS/>
+            </STUDY>
+            <STUDY DATA_SOURCE="PUB"
+                   ID="STD-Piersimoni-2019"
+                   NAME="Piersimoni 2019"
+                   YEAR="2019">
+               <IDENTIFIERS/>
+            </STUDY>
+            <STUDY DATA_SOURCE="PUB"
+                   ID="STD-Wang-2019"
+                   NAME="Wang 2019"
+                   YEAR="2019">
+               <IDENTIFIERS/>
+            </STUDY>
+         </INCLUDED_STUDIES>
+         <EXCLUDED_STUDIES/>
+         <AWAITING_STUDIES/>
+         <ONGOING_STUDIES/>
+      </STUDIES>
+      <OTHER_REFERENCES>
+         <ADDITIONAL_REFERENCES/>
+         <OTHER_VERSIONS_REFERENCES/>
+         <PENDING_REFERENCES/>
+      </OTHER_REFERENCES>
+   </STUDIES_AND_REFERENCES>
+   <CHARACTERISTICS_OF_STUDIES>
+      <CHARACTERISTICS_OF_INCLUDED_STUDIES SORT_BY="STUDY"
+                                           USER_DEF_1_ENABLED="NO"
+                                           USER_DEF_2_ENABLED="NO"
+                                           USER_DEF_3_ENABLED="NO">
+         <INCLUDED_CHAR STUDY_ID="STD-Berhanu-2018">
+            <CHAR_PATIENT_SAMPLING/>
+            <CHAR_PATIENT_CHAR_SETTING/>
+            <CHAR_INDEX_TESTS/>
+            <CHAR_TARGET_CONDITION/>
+            <CHAR_FLOW_TIMING/>
+            <CHAR_COMPARATIVE/>
+            <CHAR_NOTES/>
+         </INCLUDED_CHAR>
+         <INCLUDED_CHAR STUDY_ID="STD-Chakravorty-2017">
+            <CHAR_PATIENT_SAMPLING/>
+            <CHAR_PATIENT_CHAR_SETTING/>
+            <CHAR_INDEX_TESTS/>
+            <CHAR_TARGET_CONDITION/>
+            <CHAR_FLOW_TIMING/>
+            <CHAR_COMPARATIVE/>
+            <CHAR_NOTES/>
+         </INCLUDED_CHAR>
+         <INCLUDED_CHAR STUDY_ID="STD-Dorman-2018">
+            <CHAR_PATIENT_SAMPLING/>
+            <CHAR_PATIENT_CHAR_SETTING/>
+            <CHAR_INDEX_TESTS/>
+            <CHAR_TARGET_CONDITION/>
+            <CHAR_FLOW_TIMING/>
+            <CHAR_COMPARATIVE/>
+            <CHAR_NOTES/>
+         </INCLUDED_CHAR>
+         <INCLUDED_CHAR STUDY_ID="STD-Mishra-2020a">
+            <CHAR_PATIENT_SAMPLING/>
+            <CHAR_PATIENT_CHAR_SETTING/>
+            <CHAR_INDEX_TESTS/>
+            <CHAR_TARGET_CONDITION/>
+            <CHAR_FLOW_TIMING/>
+            <CHAR_COMPARATIVE/>
+            <CHAR_NOTES/>
+         </INCLUDED_CHAR>
+         <INCLUDED_CHAR STUDY_ID="STD-Mishra-2020b">
+            <CHAR_PATIENT_SAMPLING/>
+            <CHAR_PATIENT_CHAR_SETTING/>
+            <CHAR_INDEX_TESTS/>
+            <CHAR_TARGET_CONDITION/>
+            <CHAR_FLOW_TIMING/>
+            <CHAR_COMPARATIVE/>
+            <CHAR_NOTES/>
+         </INCLUDED_CHAR>
+         <INCLUDED_CHAR STUDY_ID="STD-Opota-2019">
+            <CHAR_PATIENT_SAMPLING/>
+            <CHAR_PATIENT_CHAR_SETTING/>
+            <CHAR_INDEX_TESTS/>
+            <CHAR_TARGET_CONDITION/>
+            <CHAR_FLOW_TIMING/>
+            <CHAR_COMPARATIVE/>
+            <CHAR_NOTES/>
+         </INCLUDED_CHAR>
+         <INCLUDED_CHAR STUDY_ID="STD-Pereira-2020">
+            <CHAR_PATIENT_SAMPLING/>
+            <CHAR_PATIENT_CHAR_SETTING/>
+            <CHAR_INDEX_TESTS/>
+            <CHAR_TARGET_CONDITION/>
+            <CHAR_FLOW_TIMING/>
+            <CHAR_COMPARATIVE/>
+            <CHAR_NOTES/>
+         </INCLUDED_CHAR>
+         <INCLUDED_CHAR STUDY_ID="STD-Piersimoni-2019">
+            <CHAR_PATIENT_SAMPLING/>
+            <CHAR_PATIENT_CHAR_SETTING/>
+            <CHAR_INDEX_TESTS/>
+            <CHAR_TARGET_CONDITION/>
+            <CHAR_FLOW_TIMING/>
+            <CHAR_COMPARATIVE/>
+            <CHAR_NOTES/>
+         </INCLUDED_CHAR>
+         <INCLUDED_CHAR STUDY_ID="STD-Wang-2019">
+            <CHAR_PATIENT_SAMPLING/>
+            <CHAR_PATIENT_CHAR_SETTING/>
+            <CHAR_INDEX_TESTS/>
+            <CHAR_TARGET_CONDITION/>
+            <CHAR_FLOW_TIMING/>
+            <CHAR_COMPARATIVE/>
+            <CHAR_NOTES/>
+         </INCLUDED_CHAR>
+         <FOOTNOTES/>
+      </CHARACTERISTICS_OF_INCLUDED_STUDIES>
+      <CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY"/>
+      <CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY"
+                                           USER_DEF_1_ENABLED="NO"
+                                           USER_DEF_2_ENABLED="NO"
+                                           USER_DEF_3_ENABLED="NO"/>
+      <CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY"
+                                          USER_DEF_1_ENABLED="NO"
+                                          USER_DEF_2_ENABLED="NO"
+                                          USER_DEF_3_ENABLED="NO"/>
+   </CHARACTERISTICS_OF_STUDIES>
+   <QUALITY_ITEMS MODIFIED="2020-10-27 22:32:36 +0000" MODIFIED_BY="[Empty name]">
+      <QUALITY_ITEM CHARACTERISTIC="CHAR_PATIENT_SAMPLING"
+                    CORE_ITEM="YES"
+                    DOMAIN="1"
+                    DOMAIN_NAME="Patient Selection"
+                    ID="QIT-01"
+                    LEVEL="STUDY"
+                    MODIFIED="2020-10-27 19:09:55 +0000"
+                    MODIFIED_BY="[Empty name]"
+                    NO="1"
+                    SECTION="A"
+                    TYPE="SIG">
+         <NAME>Was a consecutive or random sample of patients enrolled?</NAME>
+         <DESCRIPTION/>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-10-02 13:23:03 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:15:16 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2018-07-27 01:08:42 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-08 21:58:38 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-14 18:30:27 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-10-27 19:09:55 +0000"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-04-03 20:40:12 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:41:52 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 01:16:30 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Wang-2019"/>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CHARACTERISTIC="CHAR_PATIENT_SAMPLING"
+                    CORE_ITEM="YES"
+                    DOMAIN="1"
+                    DOMAIN_NAME="Patient Selection"
+                    ID="QIT-02"
+                    LEVEL="STUDY"
+                    MODIFIED="2020-04-20 21:36:14 +0100"
+                    MODIFIED_BY="[Empty name]"
+                    NO="2"
+                    SECTION="A"
+                    TYPE="SIG">
+         <NAME>Was a case-control design avoided?</NAME>
+         <DESCRIPTION/>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:05:31 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:15:19 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2018-07-25 20:19:20 +0100"
+                                     MODIFIED_BY="Jerry S Zifodya"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-08 21:58:40 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-12 00:19:02 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:36:17 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-04-03 20:40:15 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:41:53 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 01:16:32 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Wang-2019"/>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CHARACTERISTIC="CHAR_PATIENT_SAMPLING"
+                    CORE_ITEM="YES"
+                    DOMAIN="1"
+                    DOMAIN_NAME="Patient Selection"
+                    ID="QIT-03"
+                    LEVEL="STUDY"
+                    MODIFIED="2020-10-27 19:18:14 +0000"
+                    MODIFIED_BY="[Empty name]"
+                    NO="3"
+                    SECTION="A"
+                    TYPE="SIG">
+         <NAME>Did the study avoid inappropriate exclusions?</NAME>
+         <DESCRIPTION/>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:05:33 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-10-27 19:18:14 +0000"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2018-07-25 20:19:29 +0100"
+                                     MODIFIED_BY="Jerry S Zifodya"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-12 00:20:26 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-12 00:20:01 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="NO"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-07 04:39:59 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-04-03 20:41:48 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:41:56 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 16:12:34 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="NO"
+                                     STUDY_ID="STD-Wang-2019"/>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CHARACTERISTIC="CHAR_PATIENT_SAMPLING"
+                    CORE_ITEM="YES"
+                    DOMAIN="1"
+                    DOMAIN_NAME="Patient Selection"
+                    ID="QIT-04"
+                    LEVEL="STUDY"
+                    MODIFIED="2020-10-27 19:18:21 +0000"
+                    MODIFIED_BY="[Empty name]"
+                    NO="4"
+                    SECTION="A"
+                    TYPE="JUDGE">
+         <NAME>Could the selection of patients have introduced bias?</NAME>
+         <DESCRIPTION/>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-07 04:32:32 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-10-27 19:18:21 +0000"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="UNCLEAR_RISK"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2018-07-27 01:08:46 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-12 00:20:36 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-12 00:20:07 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="HIGH_RISK"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-10-27 19:09:57 +0000"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-04-03 20:42:12 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-10-13 15:11:12 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 16:12:37 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="HIGH_RISK"
+                                     STUDY_ID="STD-Wang-2019"/>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CHARACTERISTIC="CHAR_PATIENT_CHAR_SETTING"
+                    CORE_ITEM="YES"
+                    DOMAIN="1"
+                    DOMAIN_NAME="Patient Selection"
+                    ID="QIT-05"
+                    LEVEL="STUDY"
+                    MODIFIED="2020-04-20 21:36:14 +0100"
+                    MODIFIED_BY="[Empty name]"
+                    NO="5"
+                    SECTION="B"
+                    TYPE="JUDGE">
+         <NAME>Are there concerns that the included patients and setting do not match the review question?</NAME>
+         <DESCRIPTION/>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:05:38 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:20:27 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="UNCLEAR"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2018-07-25 17:07:21 +0100"
+                                     MODIFIED_BY="Jerry S Zifodya"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-08 23:22:30 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-12 00:21:08 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="UNCLEAR"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 01:03:20 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="HIGH"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-04-03 21:10:02 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:49:02 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="HIGH"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 01:34:28 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="HIGH"
+                                     STUDY_ID="STD-Wang-2019"/>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CHARACTERISTIC="CHAR_INDEX_TESTS"
+                    CORE_ITEM="YES"
+                    DOMAIN="2"
+                    DOMAIN_NAME="Index Test"
+                    ID="QIT-06"
+                    LEVEL="GROUP"
+                    MODIFIED="2020-04-20 21:36:14 +0100"
+                    MODIFIED_BY="[Empty name]"
+                    NO="6"
+                    SECTION="A"
+                    TYPE="SIG">
+         <NAME>Were the index test results interpreted without knowledge of the results of the reference standard?</NAME>
+         <DESCRIPTION/>
+         <QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-06.02" NO="2">
+            <NAME>Xpert Ultra</NAME>
+         </QUALITY_ITEM_DATA_ENTRY_GROUP>
+         <QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-06.01" NO="1">
+            <NAME>Xpert MTB/RIF</NAME>
+         </QUALITY_ITEM_DATA_ENTRY_GROUP>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-06.01"
+                                     MODIFIED="2019-10-05 23:08:21 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-06.02"
+                                     MODIFIED="2019-10-05 23:10:03 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-06.01"
+                                     MODIFIED="2019-10-05 23:20:41 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-06.02"
+                                     MODIFIED="2019-10-05 23:20:53 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-06.01"
+                                     MODIFIED="2018-06-17 15:12:49 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-06.02"
+                                     MODIFIED="2019-10-07 04:37:36 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-06.01"
+                                     MODIFIED="2019-10-08 23:27:06 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-06.02"
+                                     MODIFIED="2019-10-08 23:27:15 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-06.01"
+                                     MODIFIED="2019-10-12 00:16:38 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-06.02"
+                                     MODIFIED="2019-10-12 00:22:54 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-06.01"
+                                     MODIFIED="2019-10-05 23:32:34 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-06.02"
+                                     MODIFIED="2019-10-05 23:32:22 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-06.01"
+                                     MODIFIED="2020-04-03 21:12:26 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-06.02"
+                                     MODIFIED="2020-04-03 21:13:35 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-06.01"
+                                     MODIFIED="2019-10-05 23:49:06 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-06.02"
+                                     MODIFIED="2019-10-05 23:49:14 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-06.01"
+                                     MODIFIED="2019-10-06 01:34:35 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Wang-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-06.02"
+                                     MODIFIED="2019-10-06 01:34:47 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Wang-2019"/>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CHARACTERISTIC="CHAR_INDEX_TESTS"
+                    CORE_ITEM="YES"
+                    DOMAIN="2"
+                    DOMAIN_NAME="Index Test"
+                    ID="QIT-07"
+                    LEVEL="GROUP"
+                    MODIFIED="2020-04-20 21:36:14 +0100"
+                    MODIFIED_BY="[Empty name]"
+                    NO="7"
+                    SECTION="A"
+                    TYPE="SIG">
+         <NAME>If a threshold was used, was it pre-specified?</NAME>
+         <DESCRIPTION/>
+         <QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-07.02" NO="2">
+            <NAME>Xpert Ultra</NAME>
+         </QUALITY_ITEM_DATA_ENTRY_GROUP>
+         <QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-07.01" NO="1">
+            <NAME>Xpert MTB/RIF</NAME>
+         </QUALITY_ITEM_DATA_ENTRY_GROUP>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.01"
+                                     MODIFIED="2019-10-05 23:08:23 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.02"
+                                     MODIFIED="2019-10-05 23:10:08 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.01"
+                                     MODIFIED="2019-10-05 23:20:43 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.02"
+                                     MODIFIED="2019-10-05 23:20:55 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.01"
+                                     MODIFIED="2018-06-17 15:12:51 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.02"
+                                     MODIFIED="2019-10-07 04:38:03 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.01"
+                                     MODIFIED="2019-10-08 23:27:07 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.02"
+                                     MODIFIED="2019-10-08 23:27:17 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.01"
+                                     MODIFIED="2019-10-12 00:17:20 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.02"
+                                     MODIFIED="2019-10-12 00:23:04 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.01"
+                                     MODIFIED="2019-10-05 23:32:35 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.02"
+                                     MODIFIED="2019-10-05 23:32:24 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.01"
+                                     MODIFIED="2020-04-03 21:12:28 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.02"
+                                     MODIFIED="2020-04-03 21:13:36 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.01"
+                                     MODIFIED="2019-10-05 23:49:07 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.02"
+                                     MODIFIED="2019-10-05 23:49:16 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.01"
+                                     MODIFIED="2019-10-06 01:34:37 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Wang-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.02"
+                                     MODIFIED="2019-10-06 01:34:49 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Wang-2019"/>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CHARACTERISTIC="CHAR_INDEX_TESTS"
+                    CORE_ITEM="YES"
+                    DOMAIN="2"
+                    DOMAIN_NAME="Index Test"
+                    ID="QIT-08"
+                    LEVEL="GROUP"
+                    MODIFIED="2020-04-20 21:36:14 +0100"
+                    MODIFIED_BY="[Empty name]"
+                    NO="8"
+                    SECTION="A"
+                    TYPE="JUDGE">
+         <NAME>Could the conduct or interpretation of the index test have introduced bias?</NAME>
+         <DESCRIPTION/>
+         <QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-08.02" NO="2">
+            <NAME>Xpert Ultra</NAME>
+         </QUALITY_ITEM_DATA_ENTRY_GROUP>
+         <QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-08.01" NO="1">
+            <NAME>Xpert MTB/RIF</NAME>
+         </QUALITY_ITEM_DATA_ENTRY_GROUP>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.01"
+                                     MODIFIED="2019-10-05 23:08:27 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.02"
+                                     MODIFIED="2019-10-05 23:10:12 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.01"
+                                     MODIFIED="2019-10-05 23:20:46 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.02"
+                                     MODIFIED="2019-10-05 23:20:57 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.01"
+                                     MODIFIED="2018-06-17 15:12:53 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.02"
+                                     MODIFIED="2019-10-07 04:38:05 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.01"
+                                     MODIFIED="2019-10-08 23:27:09 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.02"
+                                     MODIFIED="2019-10-08 23:27:19 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.01"
+                                     MODIFIED="2019-10-12 00:21:16 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.02"
+                                     MODIFIED="2019-10-12 00:23:08 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.01"
+                                     MODIFIED="2019-10-05 23:32:37 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.02"
+                                     MODIFIED="2019-10-05 23:32:27 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.01"
+                                     MODIFIED="2020-04-03 21:12:32 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.02"
+                                     MODIFIED="2020-04-03 21:13:38 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.01"
+                                     MODIFIED="2019-10-05 23:49:09 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.02"
+                                     MODIFIED="2019-10-05 23:49:18 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.01"
+                                     MODIFIED="2019-10-06 01:34:40 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Wang-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.02"
+                                     MODIFIED="2019-10-06 01:34:52 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Wang-2019"/>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CORE_ITEM="YES"
+                    DOMAIN="2"
+                    DOMAIN_NAME="Index Test"
+                    ID="QIT-09"
+                    LEVEL="GROUP"
+                    MODIFIED="2020-04-20 21:36:14 +0100"
+                    MODIFIED_BY="[Empty name]"
+                    NO="9"
+                    SECTION="B"
+                    TYPE="JUDGE">
+         <NAME>Are there concerns that the index test, its conduct, or interpretation differ from the review question?</NAME>
+         <DESCRIPTION/>
+         <QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-09.02" NO="2">
+            <NAME>Xpert Ultra</NAME>
+         </QUALITY_ITEM_DATA_ENTRY_GROUP>
+         <QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-09.01" NO="1">
+            <NAME>Xpert MTB/RIF</NAME>
+         </QUALITY_ITEM_DATA_ENTRY_GROUP>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-09.01"
+                                     MODIFIED="2019-10-05 23:09:48 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-09.02"
+                                     MODIFIED="2019-10-05 23:10:14 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-09.01"
+                                     MODIFIED="2019-10-05 23:20:50 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-09.02"
+                                     MODIFIED="2019-10-05 23:20:59 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-09.01"
+                                     MODIFIED="2018-07-25 17:07:59 +0100"
+                                     MODIFIED_BY="Jerry S Zifodya"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-09.02"
+                                     MODIFIED="2019-10-07 04:38:10 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-09.01"
+                                     MODIFIED="2019-10-08 23:27:11 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-09.02"
+                                     MODIFIED="2019-10-08 23:27:21 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-09.01"
+                                     MODIFIED="2019-10-12 00:21:28 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-09.02"
+                                     MODIFIED="2020-04-09 21:11:31 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-09.01"
+                                     MODIFIED="2019-10-05 23:32:40 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-09.02"
+                                     MODIFIED="2019-10-05 23:32:30 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-09.01"
+                                     MODIFIED="2020-04-03 21:13:27 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-09.02"
+                                     MODIFIED="2020-04-03 21:13:55 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-09.01"
+                                     MODIFIED="2019-10-05 23:49:11 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-09.02"
+                                     MODIFIED="2019-10-05 23:49:20 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-09.01"
+                                     MODIFIED="2019-10-06 01:34:43 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Wang-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-09.02"
+                                     MODIFIED="2019-10-06 01:34:54 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Wang-2019"/>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CHARACTERISTIC="CHAR_TARGET_CONDITION"
+                    CORE_ITEM="YES"
+                    DOMAIN="3"
+                    DOMAIN_NAME="Reference Standard"
+                    ID="QIT-10"
+                    LEVEL="STUDY"
+                    MODIFIED="2020-04-20 21:36:14 +0100"
+                    MODIFIED_BY="[Empty name]"
+                    NO="10"
+                    SECTION="A"
+                    TYPE="SIG">
+         <NAME>Is the reference standards likely to correctly classify the target condition?</NAME>
+         <DESCRIPTION/>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:12:06 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:23:31 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2018-06-17 14:54:26 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-08 23:28:19 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-12 00:23:53 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 00:59:13 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-04-03 21:16:54 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:49:27 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 01:27:43 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Wang-2019"/>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CHARACTERISTIC="CHAR_TARGET_CONDITION"
+                    CORE_ITEM="YES"
+                    DOMAIN="3"
+                    DOMAIN_NAME="Reference Standard"
+                    ID="QIT-11"
+                    LEVEL="STUDY"
+                    MODIFIED="2012-11-10 19:49:38 +0000"
+                    MODIFIED_BY="[Empty name]"
+                    NO="11"
+                    SECTION="A"
+                    TYPE="SIG">
+         <NAME>Were the reference standard results interpreted without knowledge of the results of the index tests?</NAME>
+         <DESCRIPTION/>
+         <QUALITY_ITEM_DATA/>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CHARACTERISTIC="CHAR_TARGET_CONDITION"
+                    CORE_ITEM="YES"
+                    DOMAIN="3"
+                    DOMAIN_NAME="Reference Standard"
+                    ID="QIT-12"
+                    LEVEL="STUDY"
+                    MODIFIED="2020-04-20 21:36:14 +0100"
+                    MODIFIED_BY="[Empty name]"
+                    NO="12"
+                    SECTION="A"
+                    TYPE="JUDGE">
+         <NAME>Could the reference standard, its conduct, or its interpretation have introduced bias?</NAME>
+         <DESCRIPTION/>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-07 04:35:38 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 00:52:20 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2018-07-25 17:09:42 +0100"
+                                     MODIFIED_BY="Jerry S Zifodya"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-08 23:28:29 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-12 00:23:59 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 00:59:24 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-04-03 21:17:49 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="UNCLEAR_RISK"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:50:07 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 01:28:23 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="UNCLEAR_RISK"
+                                     STUDY_ID="STD-Wang-2019"/>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CORE_ITEM="YES"
+                    DOMAIN="3"
+                    DOMAIN_NAME="Reference Standard"
+                    ID="QIT-13"
+                    LEVEL="STUDY"
+                    MODIFIED="2020-10-27 22:32:36 +0000"
+                    MODIFIED_BY="[Empty name]"
+                    NO="13"
+                    SECTION="B"
+                    TYPE="JUDGE">
+         <NAME>Are there concerns that the target condition as defined by the reference standard does not match the question?</NAME>
+         <DESCRIPTION/>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:12:24 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-06-09 15:41:05 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2018-07-25 17:09:52 +0100"
+                                     MODIFIED_BY="Jerry S Zifodya"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-08 23:32:38 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-12 00:24:07 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 01:02:55 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="UNCLEAR"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-04-03 21:20:10 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="UNCLEAR"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:50:11 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-10-27 22:32:36 +0000"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW"
+                                     STUDY_ID="STD-Wang-2019"/>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CHARACTERISTIC="CHAR_FLOW_TIMING"
+                    CORE_ITEM="YES"
+                    DOMAIN="4"
+                    DOMAIN_NAME="Flow and Timing"
+                    ID="QIT-14"
+                    LEVEL="STUDY"
+                    MODIFIED="2020-04-20 21:36:14 +0100"
+                    MODIFIED_BY="[Empty name]"
+                    NO="14"
+                    SECTION="A"
+                    TYPE="SIG">
+         <NAME>Was there an appropriate interval between index test and reference standard?</NAME>
+         <DESCRIPTION/>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:12:30 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:24:31 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2018-08-09 18:35:50 +0100"
+                                     MODIFIED_BY="Jerry S Zifodya"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-08 23:32:41 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-12 00:24:34 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 01:02:42 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-04-03 21:20:35 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:51:32 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 01:28:35 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Wang-2019"/>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CHARACTERISTIC="CHAR_FLOW_TIMING"
+                    CORE_ITEM="YES"
+                    DOMAIN="4"
+                    DOMAIN_NAME="Flow and Timing"
+                    ID="QIT-15"
+                    LEVEL="STUDY"
+                    MODIFIED="2020-04-20 21:36:14 +0100"
+                    MODIFIED_BY="[Empty name]"
+                    NO="15"
+                    SECTION="A"
+                    TYPE="SIG">
+         <NAME>Did all patients receive the same reference standard?</NAME>
+         <DESCRIPTION/>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:12:33 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:24:33 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2018-08-09 18:35:52 +0100"
+                                     MODIFIED_BY="Jerry S Zifodya"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-08 23:32:43 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-12 00:24:31 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 01:02:44 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-04-03 21:20:38 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:51:34 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 01:28:36 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Wang-2019"/>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CHARACTERISTIC="CHAR_FLOW_TIMING"
+                    CORE_ITEM="YES"
+                    DOMAIN="4"
+                    DOMAIN_NAME="Flow and Timing"
+                    ID="QIT-16"
+                    LEVEL="STUDY"
+                    MODIFIED="2020-04-20 21:36:14 +0100"
+                    MODIFIED_BY="[Empty name]"
+                    NO="16"
+                    SECTION="A"
+                    TYPE="SIG">
+         <NAME>Were all patients included in the analysis?</NAME>
+         <DESCRIPTION/>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:12:38 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:24:35 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2018-08-09 18:35:56 +0100"
+                                     MODIFIED_BY="Jerry S Zifodya"
+                                     RESULT="NO"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-08 23:32:45 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-12 00:24:32 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 01:02:46 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-04-03 21:20:40 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:51:36 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 01:28:38 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Wang-2019"/>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CHARACTERISTIC="CHAR_FLOW_TIMING"
+                    CORE_ITEM="YES"
+                    DOMAIN="4"
+                    DOMAIN_NAME="Flow and Timing"
+                    ID="QIT-17"
+                    LEVEL="STUDY"
+                    MODIFIED="2020-04-20 21:36:14 +0100"
+                    MODIFIED_BY="[Empty name]"
+                    NO="17"
+                    SECTION="A"
+                    TYPE="JUDGE">
+         <NAME>Could the patient flow have introduced bias?</NAME>
+         <DESCRIPTION/>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:12:44 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:24:37 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-07 04:38:30 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-08 23:32:47 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-12 00:24:38 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 01:02:48 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-04-03 21:21:19 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:51:39 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 01:28:42 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="LOW_RISK"
+                                     STUDY_ID="STD-Wang-2019"/>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CORE_ITEM="NO"
+                    DOMAIN="3"
+                    DOMAIN_NAME="Reference Standard"
+                    ID="QIT-19"
+                    LEVEL="STUDY"
+                    MODIFIED="2020-04-20 21:36:14 +0100"
+                    MODIFIED_BY="[Empty name]"
+                    NO="19"
+                    SECTION="A"
+                    TYPE="SIG">
+         <NAME>Were the reference standard results for TB detection interpreted without knowledge of the results of the index test?</NAME>
+         <DESCRIPTION/>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-07 04:35:30 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 00:52:14 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2018-07-25 17:09:39 +0100"
+                                     MODIFIED_BY="Jerry S Zifodya"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-08 23:28:22 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-12 00:23:56 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 00:59:19 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-04-03 21:17:34 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:50:03 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 01:27:49 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Wang-2019"/>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+      <QUALITY_ITEM CORE_ITEM="NO"
+                    DOMAIN="3"
+                    DOMAIN_NAME="Reference Standard"
+                    ID="QIT-20"
+                    LEVEL="STUDY"
+                    MODIFIED="2020-04-20 21:36:14 +0100"
+                    MODIFIED_BY="[Empty name]"
+                    NO="20"
+                    SECTION="A"
+                    TYPE="SIG">
+         <NAME>Were the reference standard results for rifampicin resistance detection interpreted without knowledge of the results of the index test?</NAME>
+         <DESCRIPTION/>
+         <QUALITY_ITEM_DATA>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:12:14 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Berhanu-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:24:52 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Chakravorty-2017"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2018-07-25 17:09:41 +0100"
+                                     MODIFIED_BY="Jerry S Zifodya"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Dorman-2018"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-08 23:47:28 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020a"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-12 00:23:58 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Mishra-2020b"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 00:59:21 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Opota-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2020-04-15 18:23:13 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     STUDY_ID="STD-Pereira-2020"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-05 23:50:05 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="YES"
+                                     STUDY_ID="STD-Piersimoni-2019"/>
+            <QUALITY_ITEM_DATA_ENTRY MODIFIED="2019-10-06 16:26:11 +0100"
+                                     MODIFIED_BY="[Empty name]"
+                                     RESULT="UNKNOWN"
+                                     STUDY_ID="STD-Wang-2019"/>
+         </QUALITY_ITEM_DATA>
+      </QUALITY_ITEM>
+   </QUALITY_ITEMS>
+   <SOF_TABLES/>
+   <ADDITIONAL_TABLES/>
+   <ANALYSES_AND_DATA CALCULATED_DATA="YES"
+                      MODIFIED="2020-11-19 22:10:16 +0000"
+                      MODIFIED_BY="[Empty name]">
+      <TESTS MODIFIED="2020-11-19 16:46:39 +0000" MODIFIED_BY="[Empty name]">
+         <TEST ID="TST-001"
+               MODIFIED="2020-10-02 13:45:41 +0100"
+               MODIFIED_BY="[Empty name]"
+               NO="1"
+               STUDIES="9"
+               TOTAL="3500">
+            <NAME>Xpert Ultra for detection of pulmonary TB</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="6"
+                                FP="8"
+                                MODIFIED="2019-10-10 18:03:29 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8928571428571429"
+                                SENS_CI_END="0.9596518107822964"
+                                SENS_CI_START="0.7812436137880598"
+                                SPECIFICITY="0.9558011049723757"
+                                SPEC_CI_END="0.9807273906897445"
+                                SPEC_CI_START="0.9147702659691237"
+                                STUDY_ID="STD-Berhanu-2018"
+                                TN="173"
+                                TP="50"/>
+               <TEST_DATA_ENTRY FN="25"
+                                FP="1"
+                                MODIFIED="2019-10-10 18:10:29 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.875"
+                                SENS_CI_END="0.917447566986084"
+                                SENS_CI_START="0.8210263848304749"
+                                SPECIFICITY="0.987012987012987"
+                                SPEC_CI_END="0.999671440619927"
+                                SPEC_CI_START="0.9297529691225521"
+                                STUDY_ID="STD-Chakravorty-2017"
+                                TN="76"
+                                TP="175"/>
+               <TEST_DATA_ENTRY FN="54"
+                                FP="43"
+                                MODIFIED="2018-09-30 20:19:54 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8831168831168831"
+                                SENS_CI_END="0.910963033700918"
+                                SENS_CI_START="0.8502561148110923"
+                                SPECIFICITY="0.9559877175025588"
+                                SPEC_CI_END="0.9679682642801025"
+                                SPEC_CI_START="0.9411712097902014"
+                                STUDY_ID="STD-Dorman-2018"
+                                TN="934"
+                                TP="408"/>
+               <TEST_DATA_ENTRY FN="10"
+                                FP="18"
+                                MODIFIED="2019-10-10 18:10:35 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8611111111111112"
+                                SENS_CI_END="0.9313357141282823"
+                                SENS_CI_START="0.7593739165200128"
+                                SPECIFICITY="0.8922155688622755"
+                                SPEC_CI_END="0.9348570772273812"
+                                SPEC_CI_START="0.8350094235585835"
+                                STUDY_ID="STD-Mishra-2020a"
+                                TN="149"
+                                TP="62"/>
+               <TEST_DATA_ENTRY FN="6"
+                                FP="38"
+                                MODIFIED="2020-04-10 17:40:19 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8636363636363636"
+                                SENS_CI_END="0.9482693238691853"
+                                SENS_CI_START="0.7264928601004861"
+                                SPECIFICITY="0.6935483870967742"
+                                SPEC_CI_END="0.7731683023514289"
+                                SPEC_CI_START="0.6044290834857572"
+                                STUDY_ID="STD-Mishra-2020b"
+                                TN="86"
+                                TP="38"/>
+               <TEST_DATA_ENTRY FN="2"
+                                FP="5"
+                                MODIFIED="2019-10-10 18:13:27 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.9574468085106383"
+                                SENS_CI_END="0.9948045446517619"
+                                SENS_CI_START="0.8545947074890139"
+                                SPECIFICITY="0.9664429530201343"
+                                SPEC_CI_END="0.9890159760545564"
+                                SPEC_CI_START="0.9234289898968384"
+                                STUDY_ID="STD-Opota-2019"
+                                TN="144"
+                                TP="45"/>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="10"
+                                MODIFIED="2020-04-20 20:54:57 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.8518147468566895"
+                                SPECIFICITY="0.9363057324840764"
+                                SPEC_CI_END="0.9690368069205315"
+                                SPEC_CI_START="0.885985067695569"
+                                STUDY_ID="STD-Pereira-2020"
+                                TN="147"
+                                TP="23"/>
+               <TEST_DATA_ENTRY FN="7"
+                                FP="3"
+                                MODIFIED="2019-10-10 18:14:19 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.943089430894309"
+                                SENS_CI_END="0.9768153865162919"
+                                SENS_CI_START="0.8862558845582048"
+                                SPECIFICITY="0.9790209790209791"
+                                SPEC_CI_END="0.9956525255750108"
+                                SPEC_CI_START="0.9399157304030198"
+                                STUDY_ID="STD-Piersimoni-2019"
+                                TN="140"
+                                TP="116"/>
+               <TEST_DATA_ENTRY FN="15"
+                                FP="112"
+                                MODIFIED="2020-04-21 20:17:03 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8717948717948718"
+                                SENS_CI_END="0.926434541359926"
+                                SENS_CI_START="0.7973742607312324"
+                                SPECIFICITY="0.7060367454068242"
+                                SPEC_CI_END="0.7513374468785884"
+                                SPEC_CI_START="0.6575008264676793"
+                                STUDY_ID="STD-Wang-2019"
+                                TN="269"
+                                TP="102"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-002"
+               MODIFIED="2020-10-02 13:46:08 +0100"
+               MODIFIED_BY="[Empty name]"
+               NO="2"
+               STUDIES="7"
+               TOTAL="2835">
+            <NAME>Xpert MTB/RIF for detection of pulmonary TB</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="10"
+                                FP="0"
+                                MODIFIED="2019-10-10 20:23:15 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8214285714285714"
+                                SENS_CI_END="0.9108992304120745"
+                                SENS_CI_START="0.6960285902023318"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.979825496673584"
+                                STUDY_ID="STD-Berhanu-2018"
+                                TN="181"
+                                TP="46"/>
+               <TEST_DATA_ENTRY FN="38"
+                                FP="1"
+                                MODIFIED="2019-10-10 20:23:26 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.81"
+                                SENS_CI_END="0.8618969535827637"
+                                SENS_CI_START="0.7486688661575318"
+                                SPECIFICITY="0.987012987012987"
+                                SPEC_CI_END="0.999671440619927"
+                                SPEC_CI_START="0.9297529691225521"
+                                STUDY_ID="STD-Chakravorty-2017"
+                                TN="76"
+                                TP="162"/>
+               <TEST_DATA_ENTRY FN="79"
+                                FP="17"
+                                MODIFIED="2019-10-10 20:24:48 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.829004329004329"
+                                SENS_CI_END="0.8622196040628277"
+                                SENS_CI_START="0.7915113034186424"
+                                SPECIFICITY="0.9825997952917093"
+                                SPEC_CI_END="0.9898319146772246"
+                                SPEC_CI_START="0.9722867592818416"
+                                STUDY_ID="STD-Dorman-2018"
+                                TN="960"
+                                TP="383"/>
+               <TEST_DATA_ENTRY FN="14"
+                                FP="3"
+                                MODIFIED="2019-10-09 00:06:35 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8055555555555556"
+                                SENS_CI_END="0.889416323767768"
+                                SENS_CI_START="0.6953307390213013"
+                                SPECIFICITY="0.9820359281437125"
+                                SPEC_CI_END="0.9962800534185536"
+                                SPEC_CI_START="0.9484014111364673"
+                                STUDY_ID="STD-Mishra-2020a"
+                                TN="164"
+                                TP="58"/>
+               <TEST_DATA_ENTRY FN="8"
+                                FP="4"
+                                MODIFIED="2019-10-10 20:26:00 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8297872340425532"
+                                SENS_CI_END="0.9235304162857381"
+                                SENS_CI_START="0.6919089073830463"
+                                SPECIFICITY="0.9731543624161074"
+                                SPEC_CI_END="0.9926376854813338"
+                                SPEC_CI_START="0.9326927293867073"
+                                STUDY_ID="STD-Opota-2019"
+                                TN="145"
+                                TP="39"/>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="9"
+                                MODIFIED="2020-04-20 20:54:28 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.8518147468566895"
+                                SPECIFICITY="0.9426751592356688"
+                                SPEC_CI_END="0.973455684200214"
+                                SPEC_CI_START="0.8939711090865408"
+                                STUDY_ID="STD-Pereira-2020"
+                                TN="148"
+                                TP="23"/>
+               <TEST_DATA_ENTRY FN="16"
+                                FP="0"
+                                MODIFIED="2020-04-20 20:53:42 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8699186991869918"
+                                SENS_CI_END="0.9237829689087906"
+                                SENS_CI_START="0.7973656034081933"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.974708080291748"
+                                STUDY_ID="STD-Piersimoni-2019"
+                                TN="144"
+                                TP="107"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-003"
+               MODIFIED="2020-10-16 00:50:42 +0100"
+               MODIFIED_BY="[Empty name]"
+               NO="3"
+               STUDIES="2"
+               TOTAL="433">
+            <NAME>Xpert Ultra for detection of pulmonary TB, composite reference standard</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="13"
+                                FP="7"
+                                MODIFIED="2020-10-16 00:03:27 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.796875"
+                                SENS_CI_END="0.8871714174747467"
+                                SENS_CI_START="0.6777358129620552"
+                                SPECIFICITY="0.9595375722543352"
+                                SPEC_CI_END="0.9835797348463466"
+                                SPEC_CI_START="0.918411304495927"
+                                STUDY_ID="STD-Berhanu-2018"
+                                TN="166"
+                                TP="51"/>
+               <TEST_DATA_ENTRY FN="2"
+                                FP="0"
+                                MODIFIED="2020-10-16 00:50:42 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.9615384615384616"
+                                SENS_CI_END="0.9953076289250302"
+                                SENS_CI_START="0.8678715962630053"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.974708080291748"
+                                STUDY_ID="STD-Opota-2019"
+                                TN="144"
+                                TP="50"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-004"
+               MODIFIED="2020-10-16 01:07:58 +0100"
+               MODIFIED_BY="[Empty name]"
+               NO="4"
+               STUDIES="2"
+               TOTAL="433">
+            <NAME>Xpert MTB/RIF for detection of pulmonary TB, composite reference standard</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="18"
+                                FP="0"
+                                MODIFIED="2020-10-16 00:06:16 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.71875"
+                                SENS_CI_END="0.8240334093570709"
+                                SENS_CI_START="0.5924000293016434"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.9789023399353027"
+                                STUDY_ID="STD-Berhanu-2018"
+                                TN="173"
+                                TP="46"/>
+               <TEST_DATA_ENTRY FN="8"
+                                FP="0"
+                                MODIFIED="2020-10-16 01:07:58 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8431372549019608"
+                                SENS_CI_END="0.9297590068742341"
+                                SENS_CI_START="0.7141240905312931"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.9748806953430176"
+                                STUDY_ID="STD-Opota-2019"
+                                TN="145"
+                                TP="43"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-005"
+               MODIFIED="2020-10-21 19:44:12 +0100"
+               MODIFIED_BY="[Empty name]"
+               NO="5"
+               STUDIES="7"
+               TOTAL="2547">
+            <NAME>Smear-negative, Xpert Ultra, culture</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="6"
+                                FP="8"
+                                MODIFIED="2019-10-10 21:06:20 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.6470588235294118"
+                                SENS_CI_END="0.8579024146584904"
+                                SENS_CI_START="0.38328375535852766"
+                                SPECIFICITY="0.9558011049723757"
+                                SPEC_CI_END="0.9807273906897445"
+                                SPEC_CI_START="0.9147702659691237"
+                                STUDY_ID="STD-Berhanu-2018"
+                                TN="173"
+                                TP="11"/>
+               <TEST_DATA_ENTRY FN="23"
+                                FP="1"
+                                MODIFIED="2019-10-15 04:08:38 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.7889908256880734"
+                                SENS_CI_END="0.8612873707342585"
+                                SENS_CI_START="0.7003973777141046"
+                                SPECIFICITY="0.987012987012987"
+                                SPEC_CI_END="0.999671440619927"
+                                SPEC_CI_START="0.9297529691225521"
+                                STUDY_ID="STD-Chakravorty-2017"
+                                TN="76"
+                                TP="86"/>
+               <TEST_DATA_ENTRY FN="51"
+                                FP="43"
+                                MODIFIED="2019-03-24 17:30:51 +0000"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.6277372262773723"
+                                SENS_CI_END="0.7087475922856019"
+                                SENS_CI_START="0.5410759570824838"
+                                SPECIFICITY="0.9558521560574949"
+                                SPEC_CI_END="0.9678689302605035"
+                                SPEC_CI_START="0.9409912592086946"
+                                STUDY_ID="STD-Dorman-2018"
+                                TN="931"
+                                TP="86"/>
+               <TEST_DATA_ENTRY FN="9"
+                                FP="18"
+                                MODIFIED="2019-10-10 21:15:23 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.7906976744186046"
+                                SENS_CI_END="0.8995585330696994"
+                                SENS_CI_START="0.6395752707193063"
+                                SPECIFICITY="0.8888888888888888"
+                                SPEC_CI_END="0.9328041076660158"
+                                SPEC_CI_START="0.8300887213812935"
+                                STUDY_ID="STD-Mishra-2020a"
+                                TN="144"
+                                TP="34"/>
+               <TEST_DATA_ENTRY FN="2"
+                                FP="5"
+                                MODIFIED="2019-10-10 21:16:01 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.9166666666666666"
+                                SENS_CI_END="0.9897438685099283"
+                                SENS_CI_START="0.7300268411636353"
+                                SPECIFICITY="0.9664429530201343"
+                                SPEC_CI_END="0.9890159760545564"
+                                SPEC_CI_START="0.9234289898968384"
+                                STUDY_ID="STD-Opota-2019"
+                                TN="144"
+                                TP="22"/>
+               <TEST_DATA_ENTRY FN="7"
+                                FP="3"
+                                MODIFIED="2019-10-10 21:16:16 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8541666666666666"
+                                SENS_CI_END="0.939295729001363"
+                                SENS_CI_START="0.7223620514074961"
+                                SPECIFICITY="0.9765625"
+                                SPEC_CI_END="0.9951401948928833"
+                                SPEC_CI_START="0.9330338798463345"
+                                STUDY_ID="STD-Piersimoni-2019"
+                                TN="125"
+                                TP="41"/>
+               <TEST_DATA_ENTRY FN="15"
+                                FP="112"
+                                MODIFIED="2020-10-21 19:44:12 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8717948717948718"
+                                SENS_CI_END="0.926434541359926"
+                                SENS_CI_START="0.7973742607312324"
+                                SPECIFICITY="0.7060367454068242"
+                                SPEC_CI_END="0.7513374468785884"
+                                SPEC_CI_START="0.6575008264676793"
+                                STUDY_ID="STD-Wang-2019"
+                                TN="269"
+                                TP="102"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-006"
+               MODIFIED="2020-10-21 19:55:41 +0100"
+               MODIFIED_BY="[Empty name]"
+               NO="6"
+               STUDIES="7"
+               TOTAL="2549">
+            <NAME>Smear-negative, Xpert MTB/RIF, culture</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="10"
+                                FP="0"
+                                MODIFIED="2020-04-12 17:29:13 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.4117647058823529"
+                                SENS_CI_END="0.6707526375265681"
+                                SENS_CI_START="0.1844371907851275"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.979825496673584"
+                                STUDY_ID="STD-Berhanu-2018"
+                                TN="181"
+                                TP="7"/>
+               <TEST_DATA_ENTRY FN="37"
+                                FP="1"
+                                MODIFIED="2020-04-12 18:25:44 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.6636363636363637"
+                                SENS_CI_END="0.7509232174266469"
+                                SENS_CI_START="0.5672907525842841"
+                                SPECIFICITY="0.987012987012987"
+                                SPEC_CI_END="0.999671440619927"
+                                SPEC_CI_START="0.9297529691225521"
+                                STUDY_ID="STD-Chakravorty-2017"
+                                TN="76"
+                                TP="73"/>
+               <TEST_DATA_ENTRY FN="74"
+                                FP="17"
+                                MODIFIED="2018-08-30 19:33:43 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.45985401459854014"
+                                SENS_CI_END="0.5470383845976672"
+                                SENS_CI_START="0.3744422675919359"
+                                SPECIFICITY="0.9825462012320328"
+                                SPEC_CI_END="0.9898005961392696"
+                                SPEC_CI_START="0.9722018687387267"
+                                STUDY_ID="STD-Dorman-2018"
+                                TN="957"
+                                TP="63"/>
+               <TEST_DATA_ENTRY FN="12"
+                                FP="3"
+                                MODIFIED="2020-04-12 18:29:07 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.7209302325581395"
+                                SENS_CI_END="0.8467106486475745"
+                                SENS_CI_START="0.5633130295332087"
+                                SPECIFICITY="0.9814814814814815"
+                                SPEC_CI_END="0.9961646751121237"
+                                SPEC_CI_START="0.9468372751165319"
+                                STUDY_ID="STD-Mishra-2020a"
+                                TN="159"
+                                TP="31"/>
+               <TEST_DATA_ENTRY FN="8"
+                                FP="4"
+                                MODIFIED="2020-04-12 19:16:45 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.6666666666666666"
+                                SENS_CI_END="0.8436975479125977"
+                                SENS_CI_START="0.4467802047729492"
+                                SPECIFICITY="0.9731543624161074"
+                                SPEC_CI_END="0.9926376854813338"
+                                SPEC_CI_START="0.9326927293867073"
+                                STUDY_ID="STD-Opota-2019"
+                                TN="145"
+                                TP="16"/>
+               <TEST_DATA_ENTRY FN="16"
+                                FP="0"
+                                MODIFIED="2020-04-12 19:19:55 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.6666666666666666"
+                                SENS_CI_END="0.7960405349731445"
+                                SENS_CI_START="0.5158917109171549"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.971808910369873"
+                                STUDY_ID="STD-Piersimoni-2019"
+                                TN="129"
+                                TP="32"/>
+               <TEST_DATA_ENTRY FN="27"
+                                FP="83"
+                                MODIFIED="2020-10-21 19:55:41 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.7692307692307693"
+                                SENS_CI_END="0.8420807765080378"
+                                SENS_CI_START="0.6822853821974535"
+                                SPECIFICITY="0.7821522309711286"
+                                SPEC_CI_END="0.8225810984614015"
+                                SPEC_CI_START="0.7372766554824949"
+                                STUDY_ID="STD-Wang-2019"
+                                TN="298"
+                                TP="90"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-007"
+               MODIFIED="2020-10-16 00:23:48 +0100"
+               MODIFIED_BY="[Empty name]"
+               NO="7"
+               STUDIES="6"
+               TOTAL="593">
+            <NAME>Smear-positive, Xpert Ultra</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="0"
+                                MODIFIED="2020-10-07 22:52:57 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.9097485542297363"
+                                SPECIFICITY="NaN"
+                                SPEC_CI_END="NaN"
+                                SPEC_CI_START="NaN"
+                                STUDY_ID="STD-Berhanu-2018"
+                                TN="0"
+                                TP="39"/>
+               <TEST_DATA_ENTRY FN="2"
+                                FP="0"
+                                MODIFIED="2019-10-10 20:48:41 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.9777777777777777"
+                                SENS_CI_END="0.9972971598307292"
+                                SENS_CI_START="0.9220223744710287"
+                                SPECIFICITY="NaN"
+                                SPEC_CI_END="NaN"
+                                SPEC_CI_START="NaN"
+                                STUDY_ID="STD-Chakravorty-2017"
+                                TN="0"
+                                TP="88"/>
+               <TEST_DATA_ENTRY FN="3"
+                                FP="0"
+                                MODIFIED="2019-10-10 20:49:33 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.9907120743034056"
+                                SENS_CI_END="0.9980802270281055"
+                                SENS_CI_START="0.9730983297153152"
+                                SPECIFICITY="NaN"
+                                SPEC_CI_END="NaN"
+                                SPEC_CI_START="NaN"
+                                STUDY_ID="STD-Dorman-2018"
+                                TN="0"
+                                TP="320"/>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="0"
+                                MODIFIED="2019-10-11 16:13:10 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.8628144264221191"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.2924017906188965"
+                                STUDY_ID="STD-Mishra-2020a"
+                                TN="3"
+                                TP="25"/>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="0"
+                                MODIFIED="2019-10-10 21:02:22 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.8518147468566895"
+                                SPECIFICITY="NaN"
+                                SPEC_CI_END="NaN"
+                                SPEC_CI_START="NaN"
+                                STUDY_ID="STD-Opota-2019"
+                                TN="0"
+                                TP="23"/>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="0"
+                                MODIFIED="2020-10-02 02:11:36 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.9520049095153809"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.7819809913635254"
+                                STUDY_ID="STD-Piersimoni-2019"
+                                TN="15"
+                                TP="75"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-008"
+               MODIFIED="2020-10-16 00:23:47 +0100"
+               MODIFIED_BY="[Empty name]"
+               NO="8"
+               STUDIES="6"
+               TOTAL="598">
+            <NAME>Smear-positive, Xpert MTB/RIF</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="0"
+                                MODIFIED="2020-04-12 18:42:19 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.9097485542297363"
+                                SPECIFICITY="NaN"
+                                SPEC_CI_END="NaN"
+                                SPEC_CI_START="NaN"
+                                STUDY_ID="STD-Berhanu-2018"
+                                TN="0"
+                                TP="39"/>
+               <TEST_DATA_ENTRY FN="2"
+                                FP="0"
+                                MODIFIED="2020-10-02 14:21:55 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.9777777777777777"
+                                SENS_CI_END="0.9972971598307292"
+                                SENS_CI_START="0.9220223744710287"
+                                SPECIFICITY="NaN"
+                                SPEC_CI_END="NaN"
+                                SPEC_CI_START="NaN"
+                                STUDY_ID="STD-Chakravorty-2017"
+                                TN="0"
+                                TP="88"/>
+               <TEST_DATA_ENTRY FN="4"
+                                FP="0"
+                                MODIFIED="2018-08-30 19:19:07 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.9876160990712074"
+                                SENS_CI_END="0.9966156667231035"
+                                SENS_CI_START="0.968597508067317"
+                                SPECIFICITY="NaN"
+                                SPEC_CI_END="NaN"
+                                SPEC_CI_START="NaN"
+                                STUDY_ID="STD-Dorman-2018"
+                                TN="0"
+                                TP="319"/>
+               <TEST_DATA_ENTRY FN="1"
+                                FP="0"
+                                MODIFIED="2020-04-12 19:02:37 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.9655172413793104"
+                                SENS_CI_END="0.999127355115167"
+                                SENS_CI_START="0.8223552703857422"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.39763498306274414"
+                                STUDY_ID="STD-Mishra-2020a"
+                                TN="4"
+                                TP="28"/>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="0"
+                                MODIFIED="2020-04-12 19:15:22 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.8518147468566895"
+                                SPECIFICITY="NaN"
+                                SPEC_CI_END="NaN"
+                                SPEC_CI_START="NaN"
+                                STUDY_ID="STD-Opota-2019"
+                                TN="0"
+                                TP="23"/>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="0"
+                                MODIFIED="2020-10-07 23:01:08 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.9520049095153809"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.7819809913635254"
+                                STUDY_ID="STD-Piersimoni-2019"
+                                TN="15"
+                                TP="75"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-009"
+               MODIFIED="2020-10-16 00:23:46 +0100"
+               MODIFIED_BY="[Empty name]"
+               NO="9"
+               STUDIES="3"
+               TOTAL="627">
+            <NAME>HIV-positive, Xpert Ultra</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="4"
+                                FP="6"
+                                MODIFIED="2019-10-10 21:24:46 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8823529411764706"
+                                SENS_CI_END="0.9669983807732075"
+                                SENS_CI_START="0.7254960957695455"
+                                SPECIFICITY="0.9469026548672567"
+                                SPEC_CI_END="0.9802671449374307"
+                                SPEC_CI_START="0.8880079531036648"
+                                STUDY_ID="STD-Berhanu-2018"
+                                TN="107"
+                                TP="30"/>
+               <TEST_DATA_ENTRY FN="12"
+                                FP="14"
+                                MODIFIED="2019-03-25 18:42:51 +0000"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8956521739130435"
+                                SENS_CI_END="0.9449079430621605"
+                                SENS_CI_START="0.8248187811478327"
+                                SPECIFICITY="0.9558359621451105"
+                                SPEC_CI_END="0.9756479834908569"
+                                SPEC_CI_START="0.9270093644078974"
+                                STUDY_ID="STD-Dorman-2018"
+                                TN="303"
+                                TP="103"/>
+               <TEST_DATA_ENTRY FN="4"
+                                FP="6"
+                                MODIFIED="2020-04-12 17:09:00 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8095238095238095"
+                                SENS_CI_END="0.945536658877418"
+                                SENS_CI_START="0.5809338660467239"
+                                SPECIFICITY="0.7777777777777778"
+                                SPEC_CI_END="0.913783179389106"
+                                SPEC_CI_START="0.5774167908562554"
+                                STUDY_ID="STD-Mishra-2020a"
+                                TN="21"
+                                TP="17"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-010"
+               MODIFIED="2020-10-16 00:23:46 +0100"
+               MODIFIED_BY="[Empty name]"
+               NO="10"
+               STUDIES="3"
+               TOTAL="635">
+            <NAME>HIV-positive, Xpert MTB/RIF</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="8"
+                                FP="0"
+                                MODIFIED="2020-04-12 17:27:10 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.7647058823529411"
+                                SENS_CI_END="0.8925381828756892"
+                                SENS_CI_START="0.5882918694440054"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.9678816795349121"
+                                STUDY_ID="STD-Berhanu-2018"
+                                TN="113"
+                                TP="26"/>
+               <TEST_DATA_ENTRY FN="27"
+                                FP="2"
+                                MODIFIED="2018-09-02 22:20:20 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.7652173913043478"
+                                SENS_CI_END="0.8392197152842646"
+                                SENS_CI_START="0.6770880325980808"
+                                SPECIFICITY="0.9936908517350158"
+                                SPEC_CI_END="0.9992348463377366"
+                                SPEC_CI_START="0.9773963558184988"
+                                STUDY_ID="STD-Dorman-2018"
+                                TN="315"
+                                TP="88"/>
+               <TEST_DATA_ENTRY FN="7"
+                                FP="0"
+                                MODIFIED="2020-04-21 20:59:36 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.6818181818181818"
+                                SENS_CI_END="0.8613534840670498"
+                                SENS_CI_START="0.4512753269889137"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.8971819877624512"
+                                STUDY_ID="STD-Mishra-2020a"
+                                TN="34"
+                                TP="15"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-011"
+               MODIFIED="2020-10-16 00:23:46 +0100"
+               MODIFIED_BY="[Empty name]"
+               NO="11"
+               STUDIES="3"
+               TOTAL="755">
+            <NAME>HIV-negative, Xpert Ultra</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="2"
+                                FP="2"
+                                MODIFIED="2020-04-26 16:22:39 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8947368421052632"
+                                SENS_CI_END="0.9869878668534128"
+                                SENS_CI_START="0.6686237485785234"
+                                SPECIFICITY="0.9682539682539683"
+                                SPEC_CI_END="0.9961320180741566"
+                                SPEC_CI_START="0.8899806718977672"
+                                STUDY_ID="STD-Berhanu-2018"
+                                TN="61"
+                                TP="17"/>
+               <TEST_DATA_ENTRY FN="14"
+                                FP="17"
+                                MODIFIED="2020-04-26 16:24:18 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.9119496855345912"
+                                SENS_CI_END="0.9510235576509678"
+                                SENS_CI_START="0.8566796254811798"
+                                SPECIFICITY="0.9475308641975309"
+                                SPEC_CI_END="0.9691414774200063"
+                                SPEC_CI_START="0.9173191550337239"
+                                STUDY_ID="STD-Dorman-2018"
+                                TN="307"
+                                TP="145"/>
+               <TEST_DATA_ENTRY FN="6"
+                                FP="12"
+                                MODIFIED="2020-04-26 16:31:06 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8823529411764706"
+                                SENS_CI_END="0.9555794210994945"
+                                SENS_CI_START="0.7613236763898064"
+                                SPECIFICITY="0.9136690647482014"
+                                SPEC_CI_END="0.9545941249929746"
+                                SPEC_CI_START="0.8540531028088907"
+                                STUDY_ID="STD-Mishra-2020a"
+                                TN="127"
+                                TP="45"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-012"
+               MODIFIED="2020-10-16 00:23:45 +0100"
+               MODIFIED_BY="[Empty name]"
+               NO="12"
+               STUDIES="3"
+               TOTAL="755">
+            <NAME>HIV-negative, Xpert MTB/RIF</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="2"
+                                FP="0"
+                                MODIFIED="2020-04-12 18:43:19 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8947368421052632"
+                                SENS_CI_END="0.9869878668534128"
+                                SENS_CI_START="0.6686237485785234"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.9431281089782715"
+                                STUDY_ID="STD-Berhanu-2018"
+                                TN="63"
+                                TP="17"/>
+               <TEST_DATA_ENTRY FN="16"
+                                FP="9"
+                                MODIFIED="2018-08-31 05:24:17 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.89937106918239"
+                                SENS_CI_END="0.9413797630454012"
+                                SENS_CI_START="0.8417310084936754"
+                                SPECIFICITY="0.9722222222222222"
+                                SPEC_CI_END="0.987221188015408"
+                                SPEC_CI_START="0.947925845781962"
+                                STUDY_ID="STD-Dorman-2018"
+                                TN="315"
+                                TP="143"/>
+               <TEST_DATA_ENTRY FN="7"
+                                FP="3"
+                                MODIFIED="2020-10-03 19:53:52 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8627450980392157"
+                                SENS_CI_END="0.9429880404004862"
+                                SENS_CI_START="0.7374487858192592"
+                                SPECIFICITY="0.9784172661870504"
+                                SPEC_CI_END="0.9955267597445481"
+                                SPEC_CI_START="0.938222953741499"
+                                STUDY_ID="STD-Mishra-2020a"
+                                TN="136"
+                                TP="44"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-013"
+               MODIFIED="2020-10-21 23:31:46 +0100"
+               MODIFIED_BY="[Empty name]"
+               NO="13"
+               STUDIES="4"
+               TOTAL="602">
+            <NAME>Xpert Ultra, history of TB</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="2"
+                                FP="1"
+                                MODIFIED="2019-10-10 21:35:49 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8"
+                                SENS_CI_END="0.974789047241211"
+                                SENS_CI_START="0.4439044952392578"
+                                SPECIFICITY="0.9696969696969697"
+                                SPEC_CI_END="0.999232899058949"
+                                SPEC_CI_START="0.8424058393998579"
+                                STUDY_ID="STD-Berhanu-2018"
+                                TN="32"
+                                TP="8"/>
+               <TEST_DATA_ENTRY FN="7"
+                                FP="17"
+                                MODIFIED="2019-10-15 02:47:37 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8541666666666666"
+                                SENS_CI_END="0.939295729001363"
+                                SENS_CI_START="0.7223620514074961"
+                                SPECIFICITY="0.9317269076305221"
+                                SPEC_CI_END="0.9597282409667969"
+                                SPEC_CI_START="0.8929370895447023"
+                                STUDY_ID="STD-Dorman-2018"
+                                TN="232"
+                                TP="41"/>
+               <TEST_DATA_ENTRY FN="5"
+                                FP="12"
+                                MODIFIED="2019-10-10 21:39:14 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8"
+                                SENS_CI_END="0.9316883087158203"
+                                SENS_CI_START="0.5929622650146484"
+                                SPECIFICITY="0.8260869565217391"
+                                SPEC_CI_END="0.9067751013714334"
+                                SPEC_CI_START="0.7159110152203103"
+                                STUDY_ID="STD-Mishra-2020a"
+                                TN="57"
+                                TP="20"/>
+               <TEST_DATA_ENTRY FN="6"
+                                FP="38"
+                                MODIFIED="2020-10-21 19:56:28 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8636363636363636"
+                                SENS_CI_END="0.9482693238691853"
+                                SENS_CI_START="0.7264928601004861"
+                                SPECIFICITY="0.6935483870967742"
+                                SPEC_CI_END="0.7731683023514289"
+                                SPEC_CI_START="0.6044290834857572"
+                                STUDY_ID="STD-Mishra-2020b"
+                                TN="86"
+                                TP="38"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-014"
+               MODIFIED="2020-10-21 23:32:16 +0100"
+               MODIFIED_BY="[Empty name]"
+               NO="14"
+               STUDIES="3"
+               TOTAL="1476">
+            <NAME>Xpert Ultra, no history of TB</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="4"
+                                FP="6"
+                                MODIFIED="2020-04-12 16:58:18 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.9111111111111111"
+                                SENS_CI_END="0.9752471923828123"
+                                SENS_CI_START="0.7877881050109863"
+                                SPECIFICITY="0.9586206896551724"
+                                SPEC_CI_END="0.9846655483903557"
+                                SPEC_CI_START="0.912112443200473"
+                                STUDY_ID="STD-Berhanu-2018"
+                                TN="139"
+                                TP="41"/>
+               <TEST_DATA_ENTRY FN="47"
+                                FP="26"
+                                MODIFIED="2020-04-10 15:58:08 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8864734299516909"
+                                SENS_CI_END="0.9153821180408127"
+                                SENS_CI_START="0.8519043173766945"
+                                SPECIFICITY="0.9642365887207703"
+                                SPEC_CI_END="0.9765076145345277"
+                                SPEC_CI_START="0.9480351857338845"
+                                STUDY_ID="STD-Dorman-2018"
+                                TN="701"
+                                TP="367"/>
+               <TEST_DATA_ENTRY FN="5"
+                                FP="6"
+                                MODIFIED="2020-04-09 21:24:25 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8936170212765957"
+                                SENS_CI_END="0.9645440121914477"
+                                SENS_CI_START="0.7689522073623982"
+                                SPECIFICITY="0.9387755102040817"
+                                SPEC_CI_END="0.9772029020348374"
+                                SPEC_CI_START="0.871492522103446"
+                                STUDY_ID="STD-Mishra-2020a"
+                                TN="92"
+                                TP="42"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-015"
+               MODIFIED="2020-10-21 23:31:57 +0100"
+               MODIFIED_BY="[Empty name]"
+               NO="15"
+               STUDIES="4"
+               TOTAL="610">
+            <NAME>Xpert MTB/RIF, history of TB</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="3"
+                                FP="0"
+                                MODIFIED="2020-04-09 21:17:39 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.7"
+                                SENS_CI_END="0.9332606315612795"
+                                SENS_CI_START="0.3475470066070556"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.8942370414733887"
+                                STUDY_ID="STD-Berhanu-2018"
+                                TN="33"
+                                TP="7"/>
+               <TEST_DATA_ENTRY FN="13"
+                                FP="5"
+                                MODIFIED="2020-04-09 20:48:38 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.717391304347826"
+                                SENS_CI_END="0.84013323161913"
+                                SENS_CI_START="0.5653957594995911"
+                                SPECIFICITY="0.9799196787148594"
+                                SPEC_CI_END="0.9934488319488892"
+                                SPEC_CI_START="0.9537637473110213"
+                                STUDY_ID="STD-Dorman-2018"
+                                TN="244"
+                                TP="33"/>
+               <TEST_DATA_ENTRY FN="4"
+                                FP="0"
+                                MODIFIED="2020-04-09 21:21:26 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.84"
+                                SENS_CI_END="0.9546206665039063"
+                                SENS_CI_START="0.6391712379455565"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.9479422569274902"
+                                STUDY_ID="STD-Mishra-2020a"
+                                TN="69"
+                                TP="21"/>
+               <TEST_DATA_ENTRY FN="4"
+                                FP="20"
+                                MODIFIED="2020-10-21 19:58:26 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.9215686274509803"
+                                SENS_CI_END="0.9782167322495403"
+                                SENS_CI_START="0.8111936251322427"
+                                SPECIFICITY="0.84251968503937"
+                                SPEC_CI_END="0.9010728851078065"
+                                SPEC_CI_START="0.7673150873559667"
+                                STUDY_ID="STD-Mishra-2020b"
+                                TN="107"
+                                TP="47"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-016"
+               MODIFIED="2020-10-21 23:32:44 +0100"
+               MODIFIED_BY="[Empty name]"
+               NO="16"
+               STUDIES="3"
+               TOTAL="1476">
+            <NAME>Xpert MTB/RIF, no history of TB</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="6"
+                                FP="0"
+                                MODIFIED="2020-04-09 21:17:55 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8666666666666667"
+                                SENS_CI_END="0.9494575500488283"
+                                SENS_CI_START="0.7320752779642741"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.9748806953430176"
+                                STUDY_ID="STD-Berhanu-2018"
+                                TN="145"
+                                TP="39"/>
+               <TEST_DATA_ENTRY FN="66"
+                                FP="12"
+                                MODIFIED="2020-04-09 20:49:04 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8405797101449275"
+                                SENS_CI_END="0.8745075446971947"
+                                SENS_CI_START="0.8016949943874194"
+                                SPECIFICITY="0.9834938101788171"
+                                SPEC_CI_END="0.9914429046756792"
+                                SPEC_CI_START="0.971344297820961"
+                                STUDY_ID="STD-Dorman-2018"
+                                TN="715"
+                                TP="348"/>
+               <TEST_DATA_ENTRY FN="10"
+                                FP="3"
+                                MODIFIED="2020-04-09 21:22:12 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.7872340425531915"
+                                SENS_CI_END="0.8929673052848652"
+                                SENS_CI_START="0.6433630902716455"
+                                SPECIFICITY="0.9693877551020408"
+                                SPEC_CI_END="0.9936422231246014"
+                                SPEC_CI_START="0.9131372948082124"
+                                STUDY_ID="STD-Mishra-2020a"
+                                TN="95"
+                                TP="37"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-017"
+               MODIFIED="2020-10-16 00:23:43 +0100"
+               MODIFIED_BY="[Empty name]"
+               NO="17"
+               STUDIES="5"
+               TOTAL="921">
+            <NAME>Xpert Ultra for detection of rifampicin resistance</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="3"
+                                FP="2"
+                                MODIFIED="2020-07-28 15:14:36 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.926829268292683"
+                                SENS_CI_END="0.9846484486649676"
+                                SENS_CI_START="0.8007538260483162"
+                                SPECIFICITY="0.9795918367346939"
+                                SPEC_CI_END="0.9975190454599809"
+                                SPEC_CI_START="0.9282181408940529"
+                                STUDY_ID="STD-Chakravorty-2017"
+                                TN="96"
+                                TP="38"/>
+               <TEST_DATA_ENTRY FN="9"
+                                FP="6"
+                                MODIFIED="2018-10-28 13:22:55 +0000"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.9485714285714286"
+                                SENS_CI_END="0.9762173461914061"
+                                SENS_CI_START="0.9046196147373746"
+                                SPECIFICITY="0.9840425531914894"
+                                SPEC_CI_END="0.9941216326774436"
+                                SPEC_CI_START="0.9655929753120911"
+                                STUDY_ID="STD-Dorman-2018"
+                                TN="370"
+                                TP="166"/>
+               <TEST_DATA_ENTRY FN="1"
+                                FP="0"
+                                MODIFIED="2019-10-10 21:47:57 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8333333333333334"
+                                SENS_CI_END="0.9957895278930664"
+                                SENS_CI_START="0.3587655226389567"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.876563549041748"
+                                STUDY_ID="STD-Mishra-2020b"
+                                TN="28"
+                                TP="5"/>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="0"
+                                MODIFIED="2020-07-28 15:54:34 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.15811395645141602"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.965477466583252"
+                                STUDY_ID="STD-Piersimoni-2019"
+                                TN="105"
+                                TP="2"/>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="0"
+                                MODIFIED="2020-06-15 21:13:42 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.7940926551818848"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.9513726234436035"
+                                STUDY_ID="STD-Wang-2019"
+                                TN="74"
+                                TP="16"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-018"
+               MODIFIED="2020-10-16 00:23:42 +0100"
+               MODIFIED_BY="[Empty name]"
+               NO="18"
+               STUDIES="5"
+               TOTAL="930">
+            <NAME>Xpert MTB/RIF for detection of rifampicin resistance</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="3"
+                                FP="1"
+                                MODIFIED="2020-07-28 15:56:15 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.926829268292683"
+                                SENS_CI_END="0.9846484486649676"
+                                SENS_CI_START="0.8007538260483162"
+                                SPECIFICITY="0.9897959183673469"
+                                SPEC_CI_END="0.9997418462013712"
+                                SPEC_CI_START="0.9444550348787891"
+                                STUDY_ID="STD-Chakravorty-2017"
+                                TN="97"
+                                TP="38"/>
+               <TEST_DATA_ENTRY FN="8"
+                                FP="7"
+                                MODIFIED="2018-10-19 22:37:35 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.9542857142857143"
+                                SENS_CI_END="0.980060337611607"
+                                SENS_CI_START="0.9119138581412181"
+                                SPECIFICITY="0.9813829787234043"
+                                SPEC_CI_END="0.992483139038086"
+                                SPEC_CI_START="0.9620192672343966"
+                                STUDY_ID="STD-Dorman-2018"
+                                TN="369"
+                                TP="167"/>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="2"
+                                MODIFIED="2020-04-12 19:12:55 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.39763498306274414"
+                                SPECIFICITY="0.9487179487179487"
+                                SPEC_CI_END="0.9937278551933093"
+                                SPEC_CI_START="0.8267547778594188"
+                                STUDY_ID="STD-Mishra-2020b"
+                                TN="37"
+                                TP="4"/>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="0"
+                                MODIFIED="2020-04-12 19:20:24 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.15811395645141602"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.965477466583252"
+                                STUDY_ID="STD-Piersimoni-2019"
+                                TN="105"
+                                TP="2"/>
+               <TEST_DATA_ENTRY FN="1"
+                                FP="0"
+                                MODIFIED="2020-04-22 16:06:53 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.9375"
+                                SENS_CI_END="0.9984192848205566"
+                                SENS_CI_START="0.6976796686649323"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.9513726234436035"
+                                STUDY_ID="STD-Wang-2019"
+                                TN="74"
+                                TP="15"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-019"
+               MODIFIED="2020-10-16 00:23:41 +0100"
+               MODIFIED_BY="[Empty name]"
+               NO="19"
+               STUDIES="3"
+               TOTAL="40">
+            <NAME>Xpert Ultra repeated test in adults with initial trace result, microbiological reference standard</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="4"
+                                FP="10"
+                                MODIFIED="2019-12-03 17:08:19 +0000"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.6923076923076923"
+                                SENS_CI_END="0.9090796250563402"
+                                SENS_CI_START="0.3857386295612041"
+                                SPECIFICITY="0.47368421052631576"
+                                SPEC_CI_END="0.711356664958753"
+                                SPEC_CI_START="0.24447426043058695"
+                                STUDY_ID="STD-Dorman-2018"
+                                TN="9"
+                                TP="9"/>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="0"
+                                MODIFIED="2019-10-10 19:09:46 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.02500009536743164"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.2924017906188965"
+                                STUDY_ID="STD-Mishra-2020a"
+                                TN="3"
+                                TP="1"/>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="0"
+                                MODIFIED="2019-10-10 19:49:05 +0100"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.02500009536743164"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.2924017906188965"
+                                STUDY_ID="STD-Piersimoni-2019"
+                                TN="3"
+                                TP="1"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-020"
+               MODIFIED="2020-11-19 16:44:21 +0000"
+               MODIFIED_BY="[Empty name]"
+               NO="20"
+               STUDIES="4"
+               TOTAL="686">
+            <NAME>Xpert Ultra for detection of rifampicin resistance, smear-positive</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="3"
+                                FP="0"
+                                MODIFIED="2020-11-19 14:42:07 +0000"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.918918918918919"
+                                SENS_CI_END="0.9829566543166703"
+                                SENS_CI_START="0.7809039708730339"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.9288783073425293"
+                                STUDY_ID="STD-Chakravorty-2017"
+                                TN="50"
+                                TP="34"/>
+               <TEST_DATA_ENTRY FN="6"
+                                FP="6"
+                                MODIFIED="2020-11-18 18:57:42 +0000"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.96"
+                                SENS_CI_END="0.9851815795898436"
+                                SENS_CI_START="0.9149720764160154"
+                                SPECIFICITY="0.9815384615384616"
+                                SPEC_CI_END="0.9931955190805288"
+                                SPEC_CI_START="0.9602518066993126"
+                                STUDY_ID="STD-Dorman-2018"
+                                TN="319"
+                                TP="144"/>
+               <TEST_DATA_ENTRY FN="1"
+                                FP="0"
+                                MODIFIED="2020-11-19 14:44:29 +0000"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.6666666666666666"
+                                SENS_CI_END="0.9915965398152669"
+                                SENS_CI_START="0.0942996342976888"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.7940926551818848"
+                                STUDY_ID="STD-Mishra-2020b"
+                                TN="16"
+                                TP="2"/>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="0"
+                                MODIFIED="2020-11-19 15:17:09 +0000"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.02500009536743164"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.965151309967041"
+                                STUDY_ID="STD-Piersimoni-2019"
+                                TN="104"
+                                TP="1"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-021"
+               MODIFIED="2020-11-19 16:46:39 +0000"
+               MODIFIED_BY="[Empty name]"
+               NO="21"
+               STUDIES="4"
+               TOTAL="699">
+            <NAME>Xpert MTB/RIF for detection of rifampicin resistance, smear-positive</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="3"
+                                FP="0"
+                                MODIFIED="2020-11-19 14:40:10 +0000"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.918918918918919"
+                                SENS_CI_END="0.9829566543166703"
+                                SENS_CI_START="0.7809039708730339"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.9373326301574707"
+                                STUDY_ID="STD-Chakravorty-2017"
+                                TN="57"
+                                TP="34"/>
+               <TEST_DATA_ENTRY FN="5"
+                                FP="7"
+                                MODIFIED="2020-11-18 18:59:42 +0000"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.9666666666666667"
+                                SENS_CI_END="0.9890897115071615"
+                                SENS_CI_START="0.9239276091257733"
+                                SPECIFICITY="0.9785276073619632"
+                                SPEC_CI_END="0.9913243486837374"
+                                SPEC_CI_START="0.9562610687653712"
+                                STUDY_ID="STD-Dorman-2018"
+                                TN="319"
+                                TP="145"/>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="0"
+                                MODIFIED="2020-11-19 14:46:00 +0000"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.15811395645141602"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.8456273078918457"
+                                STUDY_ID="STD-Mishra-2020b"
+                                TN="22"
+                                TP="2"/>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="0"
+                                MODIFIED="2020-11-19 15:17:37 +0000"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.02500009536743164"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.965151309967041"
+                                STUDY_ID="STD-Piersimoni-2019"
+                                TN="104"
+                                TP="1"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-022"
+               MODIFIED="2020-11-19 16:46:39 +0000"
+               MODIFIED_BY="[Empty name]"
+               NO="22"
+               STUDIES="4"
+               TOTAL="412">
+            <NAME>Xpert Ultra for detection of rifampicin resistance, smear-negative</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="1"
+                                FP="4"
+                                MODIFIED="2020-11-19 14:44:10 +0000"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.8333333333333334"
+                                SENS_CI_END="0.9957895278930664"
+                                SENS_CI_START="0.3587655226389567"
+                                SPECIFICITY="0.9393939393939394"
+                                SPEC_CI_END="0.9832416881214487"
+                                SPEC_CI_START="0.8520321557016084"
+                                STUDY_ID="STD-Chakravorty-2017"
+                                TN="62"
+                                TP="5"/>
+               <TEST_DATA_ENTRY FN="2"
+                                FP="0"
+                                MODIFIED="2020-11-18 18:59:23 +0000"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.9166666666666666"
+                                SENS_CI_END="0.9897438685099283"
+                                SENS_CI_START="0.7300268411636353"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.9302229881286621"
+                                STUDY_ID="STD-Dorman-2018"
+                                TN="51"
+                                TP="22"/>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="0"
+                                MODIFIED="2020-11-19 14:45:14 +0000"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.15811395645141602"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.6637330055236816"
+                                STUDY_ID="STD-Mishra-2020b"
+                                TN="9"
+                                TP="2"/>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="0"
+                                MODIFIED="2020-11-19 15:19:00 +0000"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.02500009536743164"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.9855256080627441"
+                                STUDY_ID="STD-Piersimoni-2019"
+                                TN="253"
+                                TP="1"/>
+            </TEST_DATA>
+         </TEST>
+         <TEST ID="TST-023"
+               MODIFIED="2020-11-19 15:20:26 +0000"
+               MODIFIED_BY="[Empty name]"
+               NO="23"
+               STUDIES="4"
+               TOTAL="416">
+            <NAME>Xpert MTB/RIF for detection of rifampicin resistance, smear-negative</NAME>
+            <FULL_NAME/>
+            <DESCRIPTION/>
+            <TEST_DATA>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="1"
+                                MODIFIED="2020-11-19 14:41:09 +0000"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.5407414436340332"
+                                SPECIFICITY="0.984375"
+                                SPEC_CI_END="0.9996047019958496"
+                                SPEC_CI_START="0.915989600121975"
+                                STUDY_ID="STD-Chakravorty-2017"
+                                TN="63"
+                                TP="6"/>
+               <TEST_DATA_ENTRY FN="2"
+                                FP="0"
+                                MODIFIED="2020-11-18 19:00:01 +0000"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="0.9166666666666666"
+                                SENS_CI_END="0.9897438685099283"
+                                SENS_CI_START="0.7300268411636353"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.9327654838562012"
+                                STUDY_ID="STD-Dorman-2018"
+                                TN="53"
+                                TP="22"/>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="2"
+                                MODIFIED="2020-11-19 14:49:46 +0000"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.02500009536743164"
+                                SPECIFICITY="0.8571428571428571"
+                                SPEC_CI_END="0.9822052546909879"
+                                SPEC_CI_START="0.5718706675938197"
+                                STUDY_ID="STD-Mishra-2020b"
+                                TN="12"
+                                TP="1"/>
+               <TEST_DATA_ENTRY FN="0"
+                                FP="0"
+                                MODIFIED="2020-11-19 15:20:26 +0000"
+                                MODIFIED_BY="[Empty name]"
+                                SENSITIVITY="1.0"
+                                SENS_CI_END="1.0"
+                                SENS_CI_START="0.02500009536743164"
+                                SPECIFICITY="1.0"
+                                SPEC_CI_END="1.0"
+                                SPEC_CI_START="0.9855256080627441"
+                                STUDY_ID="STD-Piersimoni-2019"
+                                TN="253"
+                                TP="1"/>
+            </TEST_DATA>
+         </TEST>
+      </TESTS>
+      <COVARIATES MODIFIED="2020-11-19 16:49:16 +0000" MODIFIED_BY="[Empty name]"/>
+      <ANALYSES MODIFIED="2020-11-19 22:10:16 +0000" MODIFIED_BY="[Empty name]">
+         <ANALYSIS AXIS_OFFSET="NO"
+                   CI="CI95"
+                   CR_VALUE="CR95"
+                   EXTRA_SCALE="100"
+                   HETEROGENEITY_TEST="NO"
+                   ID="ANL-001"
+                   MODIFIED="2020-10-16 00:54:56 +0100"
+                   MODIFIED_BY="[Empty name]"
+                   NO="1"
+                   PAIRED_DATA_ONLY="NO"
+                   PAIRED_LINE_TYPE="DOTTED"
+                   PR_VALUE="PR95"
+                   SCALE="EQUAL"
+                   SHOW_CI_ON_STUDY_POINTS="NO"
+                   SPEC_RANGE_HIGH="0.99"
+                   SPEC_RANGE_LOW="0.7"
+                   SROC_CURVE="NO"
+                   STUDY_POINTS="YES"
+                   SUBGROUP_ANALYSIS="NONE"
+                   SYMMETRY="SYMMETRIC"
+                   TESTS="TST-001 TST-002 TST-003 TST-004"
+                   TYPE="MULTIPLE"
+                   WEIGHT="EQUAL">
+            <NAME>Xpert Ultra versus Xpert MTB/RIF for pulmonary TB</NAME>
+            <SORT_ITEM SORT_ASCENDING="YES" SORT_BY="STUDY"/>
+         </ANALYSIS>
+         <ANALYSIS AXIS_OFFSET="NO"
+                   CI="CI95"
+                   CR_VALUE="CR95"
+                   EXTRA_SCALE="100"
+                   HETEROGENEITY_TEST="NO"
+                   ID="ANL-002"
+                   MODIFIED="2020-10-02 14:23:28 +0100"
+                   MODIFIED_BY="[Empty name]"
+                   NO="2"
+                   PAIRED_DATA_ONLY="NO"
+                   PAIRED_LINE_TYPE="DOTTED"
+                   PR_VALUE="PR95"
+                   SCALE="EQUAL"
+                   SHOW_CI_ON_STUDY_POINTS="NO"
+                   SPEC_RANGE_HIGH="0.99"
+                   SPEC_RANGE_LOW="0.7"
+                   SROC_CURVE="YES"
+                   STUDY_POINTS="YES"
+                   SUBGROUP_ANALYSIS="NONE"
+                   SYMMETRY="SYMMETRIC"
+                   TESTS="TST-005 TST-006 TST-007 TST-008"
+                   TYPE="MULTIPLE"
+                   WEIGHT="EQUAL">
+            <NAME>Xpert Ultra versus Xpert MTB/RIF by smear status</NAME>
+            <SORT_ITEM SORT_ASCENDING="YES" SORT_BY="STUDY"/>
+         </ANALYSIS>
+         <ANALYSIS AXIS_OFFSET="NO"
+                   CI="CI95"
+                   CR_VALUE="CR95"
+                   EXTRA_SCALE="100"
+                   HETEROGENEITY_TEST="NO"
+                   ID="ANL-003"
+                   MODIFIED="2020-10-02 13:51:18 +0100"
+                   MODIFIED_BY="[Empty name]"
+                   NO="3"
+                   PAIRED_DATA_ONLY="NO"
+                   PAIRED_LINE_TYPE="DOTTED"
+                   PR_VALUE="PR95"
+                   SCALE="EQUAL"
+                   SHOW_CI_ON_STUDY_POINTS="NO"
+                   SPEC_RANGE_HIGH="0.99"
+                   SPEC_RANGE_LOW="0.7"
+                   SROC_CURVE="YES"
+                   STUDY_POINTS="YES"
+                   SUBGROUP_ANALYSIS="NONE"
+                   SYMMETRY="SYMMETRIC"
+                   TESTS="TST-009 TST-010 TST-011 TST-012 TST-013 TST-015"
+                   TYPE="MULTIPLE"
+                   WEIGHT="EQUAL">
+            <NAME>Xpert Ultra versus Xpert MTB/RIF by HIV status and history of prior TB</NAME>
+            <SORT_ITEM SORT_ASCENDING="YES" SORT_BY="STUDY"/>
+         </ANALYSIS>
+         <ANALYSIS AXIS_OFFSET="NO"
+                   CI="CI95"
+                   CR_VALUE="CR95"
+                   EXTRA_SCALE="100"
+                   HETEROGENEITY_TEST="NO"
+                   ID="ANL-004"
+                   MODIFIED="2020-10-02 13:49:23 +0100"
+                   MODIFIED_BY="[Empty name]"
+                   NO="4"
+                   PAIRED_DATA_ONLY="NO"
+                   PAIRED_LINE_TYPE="DOTTED"
+                   PR_VALUE="PR95"
+                   SCALE="EQUAL"
+                   SHOW_CI_ON_STUDY_POINTS="NO"
+                   SPEC_RANGE_HIGH="0.99"
+                   SPEC_RANGE_LOW="0.7"
+                   SROC_CURVE="YES"
+                   STUDY_POINTS="YES"
+                   SUBGROUP_ANALYSIS="NONE"
+                   SYMMETRY="SYMMETRIC"
+                   TESTS="TST-017 TST-018"
+                   TYPE="MULTIPLE"
+                   WEIGHT="EQUAL">
+            <NAME>Xpert Ultra versus Xpert MTB/RIF for rifampicin resistance detection</NAME>
+            <SORT_ITEM SORT_ASCENDING="YES" SORT_BY="STUDY"/>
+         </ANALYSIS>
+         <ANALYSIS AXIS_OFFSET="NO"
+                   CI="CI95"
+                   CR_VALUE="CR95"
+                   EXTRA_SCALE="100"
+                   HETEROGENEITY_TEST="YES"
+                   ID="ANL-005"
+                   MODIFIED="2020-11-19 22:10:16 +0000"
+                   MODIFIED_BY="[Empty name]"
+                   NO="5"
+                   PAIRED_DATA_ONLY="NO"
+                   PAIRED_LINE_TYPE="DOTTED"
+                   PR_VALUE="PR95"
+                   SCALE="SAMPLE_SIZE"
+                   SHOW_CI_ON_STUDY_POINTS="NO"
+                   SPEC_RANGE_HIGH="0.99"
+                   SPEC_RANGE_LOW="0.7"
+                   SROC_CURVE="NO"
+                   STUDY_POINTS="YES"
+                   SUBGROUP_ANALYSIS="NONE"
+                   SYMMETRY="SYMMETRIC"
+                   TESTS="TST-020 TST-021 TST-022 TST-023"
+                   TYPE="MULTIPLE"
+                   WEIGHT="EQUAL">
+            <NAME>Xpert Ultra versus Xpert MTB/RIF for rifampicin resistance detection, by smear status</NAME>
+            <SORT_ITEM SORT_ASCENDING="YES" SORT_BY="STUDY"/>
+         </ANALYSIS>
+         <ANALYSIS AXIS_OFFSET="NO"
+                   CI="CI95"
+                   CR_VALUE="CR95"
+                   EXTRA_SCALE="100"
+                   HETEROGENEITY_TEST="NO"
+                   ID="ANL-006"
+                   MODIFIED="2020-11-18 19:44:16 +0000"
+                   MODIFIED_BY="[Empty name]"
+                   NO="6"
+                   PAIRED_DATA_ONLY="NO"
+                   PAIRED_LINE_TYPE="DOTTED"
+                   PR_VALUE="PR95"
+                   SCALE="EQUAL"
+                   SHOW_CI_ON_STUDY_POINTS="NO"
+                   SPEC_RANGE_HIGH="0.99"
+                   SPEC_RANGE_LOW="0.7"
+                   SROC_CURVE="YES"
+                   STUDY_POINTS="YES"
+                   SUBGROUP_ANALYSIS="NONE"
+                   SYMMETRY="SYMMETRIC"
+                   TESTS="TST-019"
+                   TYPE="SINGLE"
+                   WEIGHT="EQUAL">
+            <NAME>Xpert Ultra repeated test in adults with initial trace result, microbiological reference standard</NAME>
+            <SORT_ITEM SORT_ASCENDING="YES" SORT_BY="STUDY"/>
+         </ANALYSIS>
+      </ANALYSES>
+   </ANALYSES_AND_DATA>
+   <FIGURES/>
+   <FEEDBACK/>
+   <APPENDICES/>
+   <EXTENSIONS/>
+</COCHRANE_REVIEW>

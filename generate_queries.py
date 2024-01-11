@@ -63,7 +63,6 @@ def generate_query(input, model = "gpt-3.5-turbo"):
       {"role": "user", "content": input[1]}
     ]
   )
-  print(completion.choices[0].message.content)
   return completion.choices[0].message.content
 
 def main(args):

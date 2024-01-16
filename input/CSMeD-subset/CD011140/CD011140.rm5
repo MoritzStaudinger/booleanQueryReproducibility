@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COCHRANE_REVIEW TYPE="INTERVENTION" REVMAN_VERSION="5" ID="000000000000000000" VERSION_NO="2.0" STAGE="R" STATUS="A">
+<COVER_SHEET>
+<TITLE>Implantable miniature telescope (IMT) for vision loss due to end-stage age-related macular degeneration [Data only. When citing this record quote "Cochrane Database of Systematic Reviews 2018, Issue 5".]</TITLE>
+<CONTACT>
+<PERSON ID="00356994060531242725110726105636" ROLE="AUTHOR">
+<PREFIX>Ms</PREFIX>
+<FIRST_NAME>Amisha</FIRST_NAME>
+<LAST_NAME>Gupta</LAST_NAME>
+<SUFFIX>MS MPH</SUFFIX>
+<POSITION>Senior Consultant</POSITION>
+<EMAIL_1>amisha.gupta@kp.org</EMAIL_1>
+<ADDRESS>
+<DEPARTMENT>Department of Clinical Analysis, Evidence-Based Medicine (EBM) Services</DEPARTMENT>
+<ORGANISATION>Kaiser Permanente</ORGANISATION>
+<ADDRESS_1>393 E. Walnut Ave</ADDRESS_1>
+<ADDRESS_2>6th Floor</ADDRESS_2>
+<CITY>Pasadena</CITY>
+<ZIP>91188</ZIP>
+<REGION>CA</REGION>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>1 626 405 5692</PHONE_1>
+<FAX_1>+1 626 405 6646</FAX_1>
+</ADDRESS>
+</PERSON>
+</CONTACT>
+<CREATORS>
+<PERSON ID="00356994060531242725110726105636" ROLE="AUTHOR">
+<PREFIX>Ms</PREFIX>
+<FIRST_NAME>Amisha</FIRST_NAME>
+<LAST_NAME>Gupta</LAST_NAME>
+<SUFFIX>MS MPH</SUFFIX>
+<POSITION>Senior Consultant</POSITION>
+<EMAIL_1>amisha.gupta@kp.org</EMAIL_1>
+<ADDRESS>
+<DEPARTMENT>Department of Clinical Analysis, Evidence-Based Medicine (EBM) Services</DEPARTMENT>
+<ORGANISATION>Kaiser Permanente</ORGANISATION>
+<ADDRESS_1>393 E. Walnut Ave</ADDRESS_1>
+<ADDRESS_2>6th Floor</ADDRESS_2>
+<CITY>Pasadena</CITY>
+<ZIP>91188</ZIP>
+<REGION>CA</REGION>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>1 626 405 5692</PHONE_1>
+<FAX_1>+1 626 405 6646</FAX_1>
+</ADDRESS>
+</PERSON>
+<PERSON ID="03063103463264092734110724181237" ROLE="AUTHOR">
+<PREFIX>Ms</PREFIX>
+<FIRST_NAME>Jessica</FIRST_NAME>
+<LAST_NAME>Lam</LAST_NAME>
+<SUFFIX>MPH</SUFFIX>
+<POSITION>Consultant</POSITION>
+<EMAIL_1>jessica.a.lam@kp.org</EMAIL_1>
+<ADDRESS>
+<DEPARTMENT>Department of Clinical Analysis, Evidence-Based Medicine (EBM) Services</DEPARTMENT>
+<ORGANISATION>Kaiser Permanente</ORGANISATION>
+<ADDRESS_1>393 E. Walnut Ave</ADDRESS_1>
+<ADDRESS_2>6th Floor</ADDRESS_2>
+<CITY>Pasadena</CITY>
+<ZIP>91188</ZIP>
+<REGION>CA</REGION>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>+1 626 405 6021</PHONE_1>
+<FAX_1>+1 626 405 6646</FAX_1>
+</ADDRESS>
+</PERSON>
+<PERSON ID="z1311251812584937118215267101394" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Peter</FIRST_NAME>
+<LAST_NAME>Custis</LAST_NAME>
+<POSITION>Chief of Ophthalmology, San Diego</POSITION>
+<EMAIL_1>peter.h.custis@kp.org</EMAIL_1>
+<ADDRESS>
+<DEPARTMENT>Ophthalmology</DEPARTMENT>
+<ORGANISATION>Kaiser Permanente</ORGANISATION>
+<ADDRESS_1>4405 Vandever St</ADDRESS_1>
+<CITY>San Diego</CITY>
+<ZIP>92120</ZIP>
+<REGION>CA</REGION>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>+1 619 516 7163</PHONE_1>
+</ADDRESS>
+</PERSON>
+<PERSON ID="79569950496138664272110724181947" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Stephen</FIRST_NAME>
+<LAST_NAME>Munz</LAST_NAME>
+<SUFFIX>MD</SUFFIX>
+<POSITION>Regional Coordinating Chief of Ophthalmology</POSITION>
+<EMAIL_1>stephen.j.munz@kp.org</EMAIL_1>
+<ADDRESS>
+<DEPARTMENT>Ophthalmology</DEPARTMENT>
+<ORGANISATION>Kaiser Permanente</ORGANISATION>
+<ADDRESS_1>22550 Savi Ranch Parkway</ADDRESS_1>
+<CITY>Yorba Linda</CITY>
+<ZIP>92887</ZIP>
+<REGION>CA</REGION>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>+1 714 685 3640</PHONE_1>
+</ADDRESS>
+</PERSON>
+<PERSON ID="20502425671396201511110724181740" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Donald</FIRST_NAME>
+<LAST_NAME>Fong</LAST_NAME>
+<SUFFIX>MD MPH</SUFFIX>
+<POSITION>Director, Clinical Trial Research</POSITION>
+<EMAIL_1>donald.s.fong@kp.org</EMAIL_1>
+<ADDRESS>
+<DEPARTMENT>Ophthalmology</DEPARTMENT>
+<ORGANISATION>Kaiser Permanente</ORGANISATION>
+<CITY>Baldwin Park</CITY>
+<REGION>CA</REGION>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>+1 626 564 5104</PHONE_1>
+<FAX_1>+1 626 564 3430</FAX_1>
+</ADDRESS>
+</PERSON>
+<PERSON ID="52842065286771726012110724181515" ROLE="AUTHOR">
+<PREFIX>Ms</PREFIX>
+<FIRST_NAME>Marguerite</FIRST_NAME>
+<LAST_NAME>Koster</LAST_NAME>
+<SUFFIX>MA MFT</SUFFIX>
+<POSITION>Senior Manager</POSITION>
+<EMAIL_1>marguerite.a.koster@kp.org</EMAIL_1>
+<ADDRESS>
+<DEPARTMENT>Department of Clinical Analysis, Evidence-Based Medicine (EBM) Services</DEPARTMENT>
+<ORGANISATION>Kaiser Permanente Southern California</ORGANISATION>
+<ADDRESS_1>393 E. Walnut Ave</ADDRESS_1>
+<ADDRESS_2>3rd floor</ADDRESS_2>
+<CITY>Pasadena</CITY>
+<ZIP>91188</ZIP>
+<REGION>CA</REGION>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>+1 626 405 5462</PHONE_1>
+<FAX_1>+1 626 683 2088</FAX_1>
+</ADDRESS>
+</PERSON>
+</CREATORS>
+<DATES>
+<UP_TO_DATE>
+<DATE DAY="" MONTH="" YEAR="" />
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="" MONTH="" YEAR="" />
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="" MONTH="" YEAR="" />
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="" YEAR="" />
+<REVIEW_PUBLISHED ISSUE="" YEAR="" />
+<LAST_CITATION_ISSUE ISSUE="" YEAR="" />
+</DATES>
+<WHATS_NEW />
+<HISTORY />
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES />
+<EXTERNAL_SOURCES />
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO" />
+<KEYWORDS />
+</COVER_SHEET>
+<MAIN_TEXT>
+<SUMMARY>
+<TITLE>Implantable miniature telescope for vision loss due to end-stage age-related macular degeneration</TITLE>
+<SUMMARY_BODY>
+<P><B>What is the aim of this review?</B> <BR />
+We conducted this Cochrane Review to determine if the implantable miniature telescope (IMT) can improve vision in individuals with end-stage age-related macular degeneration (AMD). End-stage AMD refers to advanced AMD that is no longer treatable by standard medication or surgery.</P>
+<P><B>Key messages</B><BR />
+It is uncertain whether and how much the IMT can improve vision in individuals with end-stage AMD.</P>
+<P><B>What was studied in this review?</B><BR />
+AMD causes damage to the central part of the retina and results in loss of vision. AMD is a leading cause of uncorrectable blindness worldwide. Loss of vision results in loss of independence and reduced quality of life (e.g. reduced ability to read or drive). Since AMD is more common in older individuals, the number of affected individuals will increase significantly as the population ages.</P>
+<P>The IMT is a device that is implanted in only one eye of a person with poor vision. Typically, it is implanted in the eye with better vision. The IMT works with the cornea (in the front of the eye) to enlarge what is seen and to focus images onto healthy parts of the retina (in the back of the eye). By helping the eye to send images to the healthy parts of the retina, the IMT may improve both near and distance vision and thus quality of life.</P>
+<P><B>What are the main results of the review?</B><BR />
+Because we found no study that matched our selection criteria, we cannot draw any conclusion about the effectiveness and safety of the IMT in people with end-stage AMD. Studies are needed that compare results in individuals who receive the IMT to results in individuals who do not receive the IMT. We found one ongoing study that is expected to be completed in 2020.</P>
+<P><B>How up-to-date is this review?</B><BR />
+The review authors searched for studies that had been published up to 2 November 2017.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P />
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P />
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P />
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P />
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P />
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P />
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P />
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY>
+<BACKGROUND>
+<P />
+<CONDITION>
+<P />
+</CONDITION>
+<INTERVENTION>
+<P />
+</INTERVENTION>
+<THEORY>
+<P />
+</THEORY>
+<IMPORTANCE>
+<P />
+</IMPORTANCE>
+</BACKGROUND>
+<OBJECTIVES>
+<P />
+</OBJECTIVES>
+<METHODS>
+<SELECTION_CRITERIA>
+<CRIT_STUDIES>
+<P />
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P />
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P />
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES>
+<P />
+<CRIT_OUTCOMES_PRIMARY>
+<P />
+</CRIT_OUTCOMES_PRIMARY>
+<CRIT_OUTCOMES_SECONDARY>
+<P />
+</CRIT_OUTCOMES_SECONDARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS>
+<P />
+<ELECTRONIC_SEARCHES>
+<P />
+</ELECTRONIC_SEARCHES>
+<OTHER_SEARCHES>
+<P />
+</OTHER_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION>
+<P />
+<STUDY_SELECTION>
+<P />
+</STUDY_SELECTION>
+<DATA_EXTRACTION>
+<P />
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT>
+<P />
+</QUALITY_ASSESSMENT>
+<EFFECT_MEASURES>
+<P />
+</EFFECT_MEASURES>
+<UNIT_OF_ANALYSIS>
+<P />
+</UNIT_OF_ANALYSIS>
+<MISSING_DATA>
+<P />
+</MISSING_DATA>
+<HETEROGENEITY_ASSESSMENT>
+<P />
+</HETEROGENEITY_ASSESSMENT>
+<BIAS_ASSESSMENT>
+<P />
+</BIAS_ASSESSMENT>
+<DATA_SYNTHESIS>
+<P />
+</DATA_SYNTHESIS>
+<SUBGROUP_ANALYSIS>
+<P />
+</SUBGROUP_ANALYSIS>
+<SENSITIVITY_ANALYSIS>
+<P />
+</SENSITIVITY_ANALYSIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS>
+<STUDY_DESCRIPTION>
+<P />
+<SEARCH_RESULTS>
+<P />
+</SEARCH_RESULTS>
+<INCLUDED_STUDIES_DESCR>
+<P />
+</INCLUDED_STUDIES_DESCR>
+<EXCLUDED_STUDIES_DESCR>
+<P />
+</EXCLUDED_STUDIES_DESCR>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P />
+<ALLOCATION>
+<P />
+</ALLOCATION>
+<BLINDING>
+<P />
+</BLINDING>
+<EXCLUSIONS>
+<P />
+</EXCLUSIONS>
+<SELECTIVE_REPORTING>
+<P />
+</SELECTIVE_REPORTING>
+<OTHER_BIAS_SOURCES>
+<P />
+</OTHER_BIAS_SOURCES>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS>
+<P />
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P />
+<SUMMARY_OF_RESULTS>
+<P />
+</SUMMARY_OF_RESULTS>
+<APPLICABILITY_OF_FINDINGS>
+<P />
+</APPLICABILITY_OF_FINDINGS>
+<QUALITY_OF_EVIDENCE>
+<P />
+</QUALITY_OF_EVIDENCE>
+<POTENTIAL_BIASES>
+<P />
+</POTENTIAL_BIASES>
+<AGREEMENT>
+<P />
+</AGREEMENT>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P />
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P />
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P />
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P />
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P />
+</CONTRIBUTIONS>
+<PRO_REV_DIFF>
+<P />
+</PRO_REV_DIFF>
+<PUBLIC_NOTES>
+<P />
+</PUBLIC_NOTES>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES>
+<STUDIES>
+<INCLUDED_STUDIES>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES />
+<AWAITING_STUDIES />
+<ONGOING_STUDIES />
+</STUDIES>
+<OTHER_REFERENCES>
+<ADDITIONAL_REFERENCES />
+<OTHER_VERSIONS_REFERENCES />
+<PENDING_REFERENCES />
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES>
+<CHARACTERISTICS_OF_INCLUDED_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS />
+<SOF_TABLES />
+<ADDITIONAL_TABLES />
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+</ANALYSES_AND_DATA>
+<FIGURES />
+<FEEDBACK />
+<APPENDICES />
+<EXTENSIONS />
+</COCHRANE_REVIEW>

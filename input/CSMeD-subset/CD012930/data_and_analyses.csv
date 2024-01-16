@@ -1,0 +1,254 @@
+Outcome or subgroup title,No. of studies,No. of participants,Statistical method,Effect size,comparison_name,comparison_id,effect_size,lower_ci,upper_ci,outcome_id,subgroup_id,outcome_name,subgroup_name
+1 All‐cause mortality Show forest plot,18,8752,"Odds Ratio (M‐H, Fixed, 95% CI)","1.88 [0.81, 4.36]",LABA/LAMA versus placebo,1,1.88,0.81,4.36,1,,All‐cause mortality,
+1.1 IND/GLY 110/50,5,2020,"Odds Ratio (M‐H, Fixed, 95% CI)","2.53 [0.61, 10.49]",LABA/LAMA versus placebo,1,2.53,0.61,10.49,1,1,All‐cause mortality,IND/GLY 110/50
+1.2 UMEC/VI 62.5/25,5,1921,"Odds Ratio (M‐H, Fixed, 95% CI)","3.12 [0.68, 14.36]",LABA/LAMA versus placebo,1,3.12,0.68,14.36,1,2,All‐cause mortality,UMEC/VI 62.5/25
+1.3 UMEC/VI 125/25,4,1401,"Odds Ratio (M‐H, Fixed, 95% CI)","0.14 [0.01, 2.83]",LABA/LAMA versus placebo,1,0.14,0.01,2.83,1,3,All‐cause mortality,UMEC/VI 125/25
+1.4 UMEC/VI 500/25,1,51,"Odds Ratio (M‐H, Fixed, 95% CI)","0.0 [0.0, 0.0]",LABA/LAMA versus placebo,1,0.0,0.0,0.0,1,4,All‐cause mortality,UMEC/VI 500/25
+1.5 TIO/OLO 2.5/5,6,1670,"Odds Ratio (M‐H, Fixed, 95% CI)","2.53 [0.12, 53.43]",LABA/LAMA versus placebo,1,2.53,0.12,53.43,1,5,All‐cause mortality,TIO/OLO 2.5/5
+1.6 TIO/OLO 5/5,6,1689,"Odds Ratio (M‐H, Fixed, 95% CI)","0.0 [0.0, 0.0]",LABA/LAMA versus placebo,1,0.0,0.0,0.0,1,6,All‐cause mortality,TIO/OLO 5/5
+2 SAEs Show forest plot,22,10536,"Odds Ratio (M‐H, Fixed, 95% CI)","1.06 [0.88, 1.28]",LABA/LAMA versus placebo,1,1.06,0.88,1.28,2,,SAEs,
+2.1 IND/GLY 110/50,6,2830,"Odds Ratio (M‐H, Fixed, 95% CI)","1.16 [0.86, 1.56]",LABA/LAMA versus placebo,1,1.16,0.86,1.56,2,1,SAEs,IND/GLY 110/50
+2.2 UMEC/VI 62.5/25,6,2317,"Odds Ratio (M‐H, Fixed, 95% CI)","1.29 [0.86, 1.93]",LABA/LAMA versus placebo,1,1.29,0.86,1.93,2,2,SAEs,UMEC/VI 62.5/25
+2.3 UMEC/VI 125/25,4,1403,"Odds Ratio (M‐H, Fixed, 95% CI)","0.75 [0.46, 1.22]",LABA/LAMA versus placebo,1,0.75,0.46,1.22,2,3,SAEs,UMEC/VI 125/25
+2.4 UMEC/VI 500/25,1,51,"Odds Ratio (M‐H, Fixed, 95% CI)","0.0 [0.0, 0.0]",LABA/LAMA versus placebo,1,0.0,0.0,0.0,2,4,SAEs,UMEC/VI 500/25
+2.5 TIO/OLO 2.5/5,6,1670,"Odds Ratio (M‐H, Fixed, 95% CI)","0.90 [0.49, 1.68]",LABA/LAMA versus placebo,1,0.9,0.49,1.68,2,5,SAEs,TIO/OLO 2.5/5
+2.6 TIO/OLO 5/5,7,1840,"Odds Ratio (M‐H, Fixed, 95% CI)","0.97 [0.55, 1.73]",LABA/LAMA versus placebo,1,0.97,0.55,1.73,2,6,SAEs,TIO/OLO 5/5
+2.7 ACM/FOR 200/6,1,141,"Odds Ratio (M‐H, Fixed, 95% CI)","0.51 [0.02, 12.96]",LABA/LAMA versus placebo,1,0.51,0.02,12.96,2,7,SAEs,ACM/FOR 200/6
+2.8 ACM/FOR 200/12,1,140,"Odds Ratio (M‐H, Fixed, 95% CI)","0.51 [0.02, 13.07]",LABA/LAMA versus placebo,1,0.51,0.02,13.07,2,8,SAEs,ACM/FOR 200/12
+2.9 ACM/FOR 200/18,1,144,"Odds Ratio (M‐H, Fixed, 95% CI)","1.11 [0.06, 22.41]",LABA/LAMA versus placebo,1,1.11,0.06,22.41,2,9,SAEs,ACM/FOR 200/18
+3 AECOPD Show forest plot,3,1127,"Odds Ratio (M‐H, Fixed, 95% CI)","0.53 [0.36, 0.78]",LABA/LAMA versus placebo,1,0.53,0.36,0.78,3,,AECOPD,
+3.1 UMEC/VI 62.5/25,2,786,"Odds Ratio (M‐H, Fixed, 95% CI)","0.58 [0.37, 0.93]",LABA/LAMA versus placebo,1,0.58,0.37,0.93,3,1,AECOPD,UMEC/VI 62.5/25
+3.2 UMEC/VI 125/25,1,290,"Odds Ratio (M‐H, Fixed, 95% CI)","0.37 [0.17, 0.78]",LABA/LAMA versus placebo,1,0.37,0.17,0.78,3,2,AECOPD,UMEC/VI 125/25
+3.3 UMEC/VI 500/25,1,51,"Odds Ratio (M‐H, Fixed, 95% CI)","1.68 [0.08, 35.43]",LABA/LAMA versus placebo,1,1.68,0.08,35.43,3,3,AECOPD,UMEC/VI 500/25
+4 Time to first AECOPD Show forest plot,2,1371,"Hazard Ratio (Fixed, 95% CI)","0.44 [0.31, 0.63]",LABA/LAMA versus placebo,1,0.44,0.31,0.63,4,,Time to first AECOPD,
+4.1 UMEC/VI 125/25,2,1371,"Hazard Ratio (Fixed, 95% CI)","0.44 [0.31, 0.63]",LABA/LAMA versus placebo,1,0.44,0.31,0.63,4,1,Time to first AECOPD,UMEC/VI 125/25
+5 Difference vs placebo in adjusted SGRQ score (HRQoL) Show forest plot,8,4952,"Mean Difference (Fixed, 95% CI)","‐4.08 [‐4.80, ‐3.36]",LABA/LAMA versus placebo,1,-4.08,-4.8,-3.36,5,,Difference vs placebo in adjusted SGRQ score (HRQoL),
+5.1 IND/GLY 110/50,2,1370,"Mean Difference (Fixed, 95% CI)","‐3.88 [‐5.30, ‐2.45]",LABA/LAMA versus placebo,1,-3.88,-5.3,-2.45,5,1,Difference vs placebo in adjusted SGRQ score (HRQoL),IND/GLY 110/50
+5.2 UMEC/VI 62.5/25,3,1425,"Mean Difference (Fixed, 95% CI)","‐4.25 [‐5.73, ‐2.77]",LABA/LAMA versus placebo,1,-4.25,-5.73,-2.77,5,2,Difference vs placebo in adjusted SGRQ score (HRQoL),UMEC/VI 62.5/25
+5.3 UMEC/VI 125/25,2,1000,"Mean Difference (Fixed, 95% CI)","‐3.64 [‐5.48, ‐1.80]",LABA/LAMA versus placebo,1,-3.64,-5.48,-1.8,5,3,Difference vs placebo in adjusted SGRQ score (HRQoL),UMEC/VI 125/25
+5.4 TIO/OLO 2.5/5,2,579,"Mean Difference (Fixed, 95% CI)","‐3.89 [‐5.60, ‐2.17]",LABA/LAMA versus placebo,1,-3.89,-5.6,-2.17,5,4,Difference vs placebo in adjusted SGRQ score (HRQoL),TIO/OLO 2.5/5
+5.5 TIO/OLO 5/5,2,578,"Mean Difference (Fixed, 95% CI)","‐4.72 [‐6.43, ‐3.01]",LABA/LAMA versus placebo,1,-4.72,-6.43,-3.01,5,5,Difference vs placebo in adjusted SGRQ score (HRQoL),TIO/OLO 5/5
+6 SGRQ responder analysis Show forest plot,7,4258,"Odds Ratio (M‐H, Fixed, 95% CI)","1.75 [1.54, 1.99]",LABA/LAMA versus placebo,1,1.75,1.54,1.99,6,,SGRQ responder analysis,
+6.1 IND/GLY 110/50,1,706,"Odds Ratio (M‐H, Fixed, 95% CI)","1.35 [0.98, 1.86]",LABA/LAMA versus placebo,1,1.35,0.98,1.86,6,1,SGRQ responder analysis,IND/GLY 110/50
+6.2 TIO/OLO 2.5/5,2,579,"Odds Ratio (M‐H, Fixed, 95% CI)","1.87 [1.30, 2.70]",LABA/LAMA versus placebo,1,1.87,1.3,2.7,6,2,SGRQ responder analysis,TIO/OLO 2.5/5
+6.3 TIO/OLO 5/5,2,578,"Odds Ratio (M‐H, Fixed, 95% CI)","2.35 [1.63, 3.40]",LABA/LAMA versus placebo,1,2.35,1.63,3.4,6,3,SGRQ responder analysis,TIO/OLO 5/5
+6.4 UMEC/VI 62.5/25,3,1441,"Odds Ratio (M‐H, Fixed, 95% CI)","1.70 [1.37, 2.12]",LABA/LAMA versus placebo,1,1.7,1.37,2.12,6,4,SGRQ responder analysis,UMEC/VI 62.5/25
+6.5 UMEC/VI 125/25,2,954,"Odds Ratio (M‐H, Fixed, 95% CI)","1.78 [1.35, 2.34]",LABA/LAMA versus placebo,1,1.78,1.35,2.34,6,5,SGRQ responder analysis,UMEC/VI 125/25
+7 Difference vs placebo in adjusted trough FEV1 at EOT Show forest plot,13,6598,"Mean Difference (Fixed, 95% CI)","0.20 [0.19, 0.21]",LABA/LAMA versus placebo,1,0.2,0.19,0.21,7,,Difference vs placebo in adjusted trough FEV1 at EOT,
+7.1 IND/GLY 110/50,2,1018,"Mean Difference (Fixed, 95% CI)","0.25 [0.22, 0.28]",LABA/LAMA versus placebo,1,0.25,0.22,0.28,7,1,Difference vs placebo in adjusted trough FEV1 at EOT,IND/GLY 110/50
+7.2 UMEC/VI 62.5/25,6,2158,"Mean Difference (Fixed, 95% CI)","0.18 [0.17, 0.20]",LABA/LAMA versus placebo,1,0.18,0.17,0.2,7,2,Difference vs placebo in adjusted trough FEV1 at EOT,UMEC/VI 62.5/25
+7.3 UMEC/VI 125/25,4,1304,"Mean Difference (Fixed, 95% CI)","0.22 [0.20, 0.25]",LABA/LAMA versus placebo,1,0.22,0.2,0.25,7,3,Difference vs placebo in adjusted trough FEV1 at EOT,UMEC/VI 125/25
+7.4 TIO/OLO 2.5/5,3,845,"Mean Difference (Fixed, 95% CI)","0.18 [0.15, 0.20]",LABA/LAMA versus placebo,1,0.18,0.15,0.2,7,4,Difference vs placebo in adjusted trough FEV1 at EOT,TIO/OLO 2.5/5
+7.5 TIO/OLO 5/5,3,859,"Mean Difference (Fixed, 95% CI)","0.21 [0.18, 0.23]",LABA/LAMA versus placebo,1,0.21,0.18,0.23,7,5,Difference vs placebo in adjusted trough FEV1 at EOT,TIO/OLO 5/5
+7.6 ACLID/FORM 200/6,1,137,"Mean Difference (Fixed, 95% CI)","0.07 [‐0.04, 0.18]",LABA/LAMA versus placebo,1,0.07,-0.04,0.18,7,6,Difference vs placebo in adjusted trough FEV1 at EOT,ACLID/FORM 200/6
+7.7 ACLID/FORM 200/12,1,137,"Mean Difference (Fixed, 95% CI)","0.12 [0.01, 0.22]",LABA/LAMA versus placebo,1,0.12,0.01,0.22,7,7,Difference vs placebo in adjusted trough FEV1 at EOT,ACLID/FORM 200/12
+7.8 ACLID/FORM 200/18,1,140,"Mean Difference (Fixed, 95% CI)","0.08 [‐0.04, 0.19]",LABA/LAMA versus placebo,1,0.08,-0.04,0.19,7,8,Difference vs placebo in adjusted trough FEV1 at EOT,ACLID/FORM 200/18
+8 Difference vs placebo in trough FEV1 at EOT Show forest plot,5,2330,"Mean Difference (Fixed, 95% CI)","0.18 [0.16, 0.20]",LABA/LAMA versus placebo,1,0.18,0.16,0.2,8,,Difference vs placebo in trough FEV1 at EOT,
+8.1 IND/GLY 110/50,3,1139,"Mean Difference (Fixed, 95% CI)","0.20 [0.17, 0.22]",LABA/LAMA versus placebo,1,0.2,0.17,0.22,8,1,Difference vs placebo in trough FEV1 at EOT,IND/GLY 110/50
+8.2 TIO/OLO 2.5/5,2,596,"Mean Difference (Fixed, 95% CI)","0.16 [0.13, 0.19]",LABA/LAMA versus placebo,1,0.16,0.13,0.19,8,2,Difference vs placebo in trough FEV1 at EOT,TIO/OLO 2.5/5
+8.3 TIO/OLO 5/5,2,595,"Mean Difference (Fixed, 95% CI)","0.16 [0.13, 0.20]",LABA/LAMA versus placebo,1,0.16,0.13,0.2,8,3,Difference vs placebo in trough FEV1 at EOT,TIO/OLO 5/5
+9 Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses Show forest plot,18,,"Mean Difference (Fixed, 95% CI)","0.20 [0.19, 0.20]",LABA/LAMA versus placebo,1,0.2,0.19,0.2,9,,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,
+9.1 IND/GLY 110/50,5,,"Mean Difference (Fixed, 95% CI)","0.22 [0.21, 0.24]",LABA/LAMA versus placebo,1,0.22,0.21,0.24,9,1,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,IND/GLY 110/50
+9.2 UMEC/VI 125/25,4,,"Mean Difference (Fixed, 95% CI)","0.22 [0.20, 0.25]",LABA/LAMA versus placebo,1,0.22,0.2,0.25,9,2,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,UMEC/VI 125/25
+9.3 UMEC/VI 62.5/25,6,,"Mean Difference (Fixed, 95% CI)","0.18 [0.17, 0.20]",LABA/LAMA versus placebo,1,0.18,0.17,0.2,9,3,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,UMEC/VI 62.5/25
+9.4 TIO/OLO 2.5/5,5,,"Mean Difference (Fixed, 95% CI)","0.17 [0.15, 0.19]",LABA/LAMA versus placebo,1,0.17,0.15,0.19,9,4,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,TIO/OLO 2.5/5
+9.5 TIO/OLO 5/5,5,,"Mean Difference (Fixed, 95% CI)","0.19 [0.17, 0.21]",LABA/LAMA versus placebo,1,0.19,0.17,0.21,9,5,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,TIO/OLO 5/5
+9.6 ACLID/FORM 200/6,1,,"Mean Difference (Fixed, 95% CI)","0.07 [‐0.04, 0.18]",LABA/LAMA versus placebo,1,0.07,-0.04,0.18,9,6,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,ACLID/FORM 200/6
+9.7 ACLID/FORM 200/12,1,,"Mean Difference (Fixed, 95% CI)","0.12 [0.01, 0.22]",LABA/LAMA versus placebo,1,0.12,0.01,0.22,9,7,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,ACLID/FORM 200/12
+9.8 ACLID/FORM 200/18,1,,"Mean Difference (Fixed, 95% CI)","0.08 [‐0.04, 0.19]",LABA/LAMA versus placebo,1,0.08,-0.04,0.19,9,8,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,ACLID/FORM 200/18
+10 Difference vs placebo in adjusted peak FEV1 Show forest plot,7,4188,"Mean Difference (Fixed, 95% CI)","0.31 [0.29, 0.32]",LABA/LAMA versus placebo,1,0.31,0.29,0.32,10,,Difference vs placebo in adjusted peak FEV1,
+10.1 IND/GLY 110/50,2,1094,"Mean Difference (Fixed, 95% CI)","0.35 [0.32, 0.38]",LABA/LAMA versus placebo,1,0.35,0.32,0.38,10,1,Difference vs placebo in adjusted peak FEV1,IND/GLY 110/50
+10.2 UMEC/VI 62.5/25,1,693,"Mean Difference (Fixed, 95% CI)","0.22 [0.18, 0.27]",LABA/LAMA versus placebo,1,0.22,0.18,0.27,10,2,Difference vs placebo in adjusted peak FEV1,UMEC/VI 62.5/25
+10.3 UMEC/VI 125/25,1,678,"Mean Difference (Fixed, 95% CI)","0.28 [0.24, 0.32]",LABA/LAMA versus placebo,1,0.28,0.24,0.32,10,3,Difference vs placebo in adjusted peak FEV1,UMEC/VI 125/25
+10.4 TIO/OLO 2.5/5,2,644,"Mean Difference (Fixed, 95% CI)","0.29 [0.27, 0.32]",LABA/LAMA versus placebo,1,0.29,0.27,0.32,10,4,Difference vs placebo in adjusted peak FEV1,TIO/OLO 2.5/5
+10.5 TIO/OLO 5/5,2,656,"Mean Difference (Fixed, 95% CI)","0.33 [0.30, 0.35]",LABA/LAMA versus placebo,1,0.33,0.3,0.35,10,5,Difference vs placebo in adjusted peak FEV1,TIO/OLO 5/5
+10.6 ACLID/FORM 200/6,1,140,"Mean Difference (Fixed, 95% CI)","0.25 [0.13, 0.37]",LABA/LAMA versus placebo,1,0.25,0.13,0.37,10,6,Difference vs placebo in adjusted peak FEV1,ACLID/FORM 200/6
+10.7 ACLID/FORM 200/12,1,139,"Mean Difference (Fixed, 95% CI)","0.31 [0.20, 0.43]",LABA/LAMA versus placebo,1,0.31,0.2,0.43,10,7,Difference vs placebo in adjusted peak FEV1,ACLID/FORM 200/12
+10.8 ACLID/FORM 200/18,1,144,"Mean Difference (Fixed, 95% CI)","0.31 [0.19, 0.42]",LABA/LAMA versus placebo,1,0.31,0.19,0.42,10,8,Difference vs placebo in adjusted peak FEV1,ACLID/FORM 200/18
+11 AEs Show forest plot,17,8235,"Odds Ratio (M‐H, Fixed, 95% CI)","0.95 [0.86, 1.04]",LABA/LAMA versus placebo,1,0.95,0.86,1.04,11,,AEs,
+11.1 IND/GLY 110/50,6,2830,"Odds Ratio (M‐H, Fixed, 95% CI)","0.90 [0.76, 1.07]",LABA/LAMA versus placebo,1,0.9,0.76,1.07,11,1,AEs,IND/GLY 110/50
+11.2 UMEC/VI 62.5/25,5,1921,"Odds Ratio (M‐H, Fixed, 95% CI)","1.07 [0.88, 1.29]",LABA/LAMA versus placebo,1,1.07,0.88,1.29,11,2,AEs,UMEC/VI 62.5/25
+11.3 UMEC/VI 125/25,4,1401,"Odds Ratio (M‐H, Fixed, 95% CI)","1.08 [0.86, 1.34]",LABA/LAMA versus placebo,1,1.08,0.86,1.34,11,3,AEs,UMEC/VI 125/25
+11.4 UMEC/VI 500/25,1,51,"Odds Ratio (M‐H, Fixed, 95% CI)","2.84 [0.32, 25.36]",LABA/LAMA versus placebo,1,2.84,0.32,25.36,11,4,AEs,UMEC/VI 500/25
+11.5 TIO/OLO 2.5/5,4,1011,"Odds Ratio (M‐H, Fixed, 95% CI)","0.85 [0.66, 1.11]",LABA/LAMA versus placebo,1,0.85,0.66,1.11,11,5,AEs,TIO/OLO 2.5/5
+11.6 TIO/OLO 5/5,4,1021,"Odds Ratio (M‐H, Fixed, 95% CI)","0.78 [0.60, 1.01]",LABA/LAMA versus placebo,1,0.78,0.6,1.01,11,6,AEs,TIO/OLO 5/5
+1 All‐cause mortality Show forest plot,16,7708,"Odds Ratio (M‐H, Fixed, 95% CI)","1.86 [0.75, 4.60]",LABA/LAMA versus placebo < 6 months,2,1.86,0.75,4.6,1,,All‐cause mortality,
+1.1 IND/GLY 110/50,3,976,"Odds Ratio (M‐H, Fixed, 95% CI)","2.97 [0.47, 18.97]",LABA/LAMA versus placebo < 6 months,2,2.97,0.47,18.97,1,1,All‐cause mortality,IND/GLY 110/50
+1.2 UMEC/VI 62.5/25,5,1921,"Odds Ratio (M‐H, Fixed, 95% CI)","3.12 [0.68, 14.36]",LABA/LAMA versus placebo < 6 months,2,3.12,0.68,14.36,1,2,All‐cause mortality,UMEC/VI 62.5/25
+1.3 UMEC/VI 125/25,4,1401,"Odds Ratio (M‐H, Fixed, 95% CI)","0.14 [0.01, 2.83]",LABA/LAMA versus placebo < 6 months,2,0.14,0.01,2.83,1,3,All‐cause mortality,UMEC/VI 125/25
+1.4 UMEC/VI 500/25,1,51,"Odds Ratio (M‐H, Fixed, 95% CI)","0.0 [0.0, 0.0]",LABA/LAMA versus placebo < 6 months,2,0.0,0.0,0.0,1,4,All‐cause mortality,UMEC/VI 500/25
+1.5 TIO/OLO 2.5/5,6,1670,"Odds Ratio (M‐H, Fixed, 95% CI)","2.53 [0.12, 53.43]",LABA/LAMA versus placebo < 6 months,2,2.53,0.12,53.43,1,5,All‐cause mortality,TIO/OLO 2.5/5
+1.6 TIO/OLO 5/5,6,1689,"Odds Ratio (M‐H, Fixed, 95% CI)","0.0 [0.0, 0.0]",LABA/LAMA versus placebo < 6 months,2,0.0,0.0,0.0,1,6,All‐cause mortality,TIO/OLO 5/5
+2 SAEs Show forest plot,19,8682,"Odds Ratio (M‐H, Fixed, 95% CI)","1.02 [0.80, 1.29]",LABA/LAMA versus placebo < 6 months,2,1.02,0.8,1.29,2,,SAEs,
+2.1 IND/GLY 110/50,3,976,"Odds Ratio (M‐H, Fixed, 95% CI)","1.35 [0.54, 3.40]",LABA/LAMA versus placebo < 6 months,2,1.35,0.54,3.4,2,1,SAEs,IND/GLY 110/50
+2.2 UMEC/VI 62.5/25,6,2317,"Odds Ratio (M‐H, Fixed, 95% CI)","1.29 [0.86, 1.93]",LABA/LAMA versus placebo < 6 months,2,1.29,0.86,1.93,2,2,SAEs,UMEC/VI 62.5/25
+2.3 UMEC/VI 125/25,4,1403,"Odds Ratio (M‐H, Fixed, 95% CI)","0.75 [0.46, 1.22]",LABA/LAMA versus placebo < 6 months,2,0.75,0.46,1.22,2,3,SAEs,UMEC/VI 125/25
+2.4 UMEC/VI 500/25,1,51,"Odds Ratio (M‐H, Fixed, 95% CI)","0.0 [0.0, 0.0]",LABA/LAMA versus placebo < 6 months,2,0.0,0.0,0.0,2,4,SAEs,UMEC/VI 500/25
+2.5 TIO/OLO 2.5/5,6,1670,"Odds Ratio (M‐H, Fixed, 95% CI)","0.90 [0.49, 1.68]",LABA/LAMA versus placebo < 6 months,2,0.9,0.49,1.68,2,5,SAEs,TIO/OLO 2.5/5
+2.6 TIO/OLO 5/5,7,1840,"Odds Ratio (M‐H, Fixed, 95% CI)","0.97 [0.55, 1.73]",LABA/LAMA versus placebo < 6 months,2,0.97,0.55,1.73,2,6,SAEs,TIO/OLO 5/5
+2.7 ACM/FOR 200/6,1,141,"Odds Ratio (M‐H, Fixed, 95% CI)","0.51 [0.02, 12.96]",LABA/LAMA versus placebo < 6 months,2,0.51,0.02,12.96,2,7,SAEs,ACM/FOR 200/6
+2.8 ACM/FOR 200/12,1,140,"Odds Ratio (M‐H, Fixed, 95% CI)","0.51 [0.02, 13.07]",LABA/LAMA versus placebo < 6 months,2,0.51,0.02,13.07,2,8,SAEs,ACM/FOR 200/12
+2.9 ACM/FOR 200/18,1,144,"Odds Ratio (M‐H, Fixed, 95% CI)","1.11 [0.06, 22.41]",LABA/LAMA versus placebo < 6 months,2,1.11,0.06,22.41,2,9,SAEs,ACM/FOR 200/18
+3 AECOPD Show forest plot,3,1127,"Odds Ratio (M‐H, Fixed, 95% CI)","0.53 [0.36, 0.78]",LABA/LAMA versus placebo < 6 months,2,0.53,0.36,0.78,3,,AECOPD,
+3.1 UMEC/VI 62.5/25,2,786,"Odds Ratio (M‐H, Fixed, 95% CI)","0.58 [0.37, 0.93]",LABA/LAMA versus placebo < 6 months,2,0.58,0.37,0.93,3,1,AECOPD,UMEC/VI 62.5/25
+3.2 UMEC/VI 125/25,1,290,"Odds Ratio (M‐H, Fixed, 95% CI)","0.37 [0.17, 0.78]",LABA/LAMA versus placebo < 6 months,2,0.37,0.17,0.78,3,2,AECOPD,UMEC/VI 125/25
+3.3 UMEC/VI 500/25,1,51,"Odds Ratio (M‐H, Fixed, 95% CI)","1.68 [0.08, 35.43]",LABA/LAMA versus placebo < 6 months,2,1.68,0.08,35.43,3,3,AECOPD,UMEC/VI 500/25
+4 Time to first AECOPD Show forest plot,2,,"Hazard Ratio (Fixed, 95% CI)","0.44 [0.31, 0.63]",LABA/LAMA versus placebo < 6 months,2,0.44,0.31,0.63,4,,Time to first AECOPD,
+4.1 UMEC/VI 125/25,2,,"Hazard Ratio (Fixed, 95% CI)","0.44 [0.31, 0.63]",LABA/LAMA versus placebo < 6 months,2,0.44,0.31,0.63,4,1,Time to first AECOPD,UMEC/VI 125/25
+5 Difference vs placebo in adjusted SGRQ score (HRQoL) Show forest plot,6,,"Mean Difference (Fixed, 95% CI)","‐4.15 [‐4.99, ‐3.32]",LABA/LAMA versus placebo < 6 months,2,-4.15,-4.99,-3.32,5,,Difference vs placebo in adjusted SGRQ score (HRQoL),
+5.1 UMEC/VI 62.5/25,3,,"Mean Difference (Fixed, 95% CI)","‐4.25 [‐5.73, ‐2.77]",LABA/LAMA versus placebo < 6 months,2,-4.25,-5.73,-2.77,5,1,Difference vs placebo in adjusted SGRQ score (HRQoL),UMEC/VI 62.5/25
+5.2 UMEC/VI 125/25,2,,"Mean Difference (Fixed, 95% CI)","‐3.64 [‐5.48, ‐1.80]",LABA/LAMA versus placebo < 6 months,2,-3.64,-5.48,-1.8,5,2,Difference vs placebo in adjusted SGRQ score (HRQoL),UMEC/VI 125/25
+5.3 TIO/OLO 2.5/5,2,,"Mean Difference (Fixed, 95% CI)","‐3.89 [‐5.60, ‐2.17]",LABA/LAMA versus placebo < 6 months,2,-3.89,-5.6,-2.17,5,3,Difference vs placebo in adjusted SGRQ score (HRQoL),TIO/OLO 2.5/5
+5.4 TIO/OLO 5/5,2,,"Mean Difference (Fixed, 95% CI)","‐4.72 [‐6.43, ‐3.01]",LABA/LAMA versus placebo < 6 months,2,-4.72,-6.43,-3.01,5,4,Difference vs placebo in adjusted SGRQ score (HRQoL),TIO/OLO 5/5
+6 SGRQ responder analysis Show forest plot,6,3552,"Odds Ratio (M‐H, Fixed, 95% CI)","1.84 [1.59, 2.12]",LABA/LAMA versus placebo < 6 months,2,1.84,1.59,2.12,6,,SGRQ responder analysis,
+6.1 TIO/OLO 2.5/5,2,579,"Odds Ratio (M‐H, Fixed, 95% CI)","1.87 [1.30, 2.70]",LABA/LAMA versus placebo < 6 months,2,1.87,1.3,2.7,6,1,SGRQ responder analysis,TIO/OLO 2.5/5
+6.2 TIO/OLO 5/5,2,578,"Odds Ratio (M‐H, Fixed, 95% CI)","2.35 [1.63, 3.40]",LABA/LAMA versus placebo < 6 months,2,2.35,1.63,3.4,6,2,SGRQ responder analysis,TIO/OLO 5/5
+6.3 UMEC/VI 62.5/25,3,1441,"Odds Ratio (M‐H, Fixed, 95% CI)","1.70 [1.37, 2.12]",LABA/LAMA versus placebo < 6 months,2,1.7,1.37,2.12,6,3,SGRQ responder analysis,UMEC/VI 62.5/25
+6.4 UMEC/VI 125/25,2,954,"Odds Ratio (M‐H, Fixed, 95% CI)","1.78 [1.35, 2.34]",LABA/LAMA versus placebo < 6 months,2,1.78,1.35,2.34,6,4,SGRQ responder analysis,UMEC/VI 125/25
+1 All‐cause mortality Show forest plot,2,1044,"Odds Ratio (M‐H, Fixed, 95% CI)","2.03 [0.22, 18.35]",LABA/LAMA versus placebo ≥ 6 months,3,2.03,0.22,18.35,1,,All‐cause mortality,
+1.1 IND/GLY 110/50,2,1044,"Odds Ratio (M‐H, Fixed, 95% CI)","2.03 [0.22, 18.35]",LABA/LAMA versus placebo ≥ 6 months,3,2.03,0.22,18.35,1,1,All‐cause mortality,IND/GLY 110/50
+2 SAEs Show forest plot,3,1854,"Odds Ratio (M‐H, Fixed, 95% CI)","1.14 [0.83, 1.56]",LABA/LAMA versus placebo ≥ 6 months,3,1.14,0.83,1.56,2,,SAEs,
+2.1 IND/GLY 110/50,3,1854,"Odds Ratio (M‐H, Fixed, 95% CI)","1.14 [0.83, 1.56]",LABA/LAMA versus placebo ≥ 6 months,3,1.14,0.83,1.56,2,1,SAEs,IND/GLY 110/50
+3 Difference vs placebo in adjusted SGRQ score (HRQoL) Show forest plot,2,,"Mean Difference (Fixed, 95% CI)","‐3.88 [‐5.30, ‐2.45]",LABA/LAMA versus placebo ≥ 6 months,3,-3.88,-5.3,-2.45,3,,Difference vs placebo in adjusted SGRQ score (HRQoL),
+3.1 IND/GLY 110/50,2,,"Mean Difference (Fixed, 95% CI)","‐3.88 [‐5.30, ‐2.45]",LABA/LAMA versus placebo ≥ 6 months,3,-3.88,-5.3,-2.45,3,1,Difference vs placebo in adjusted SGRQ score (HRQoL),IND/GLY 110/50
+4 SGRQ responder analysis Show forest plot,1,706,"Odds Ratio (M‐H, Fixed, 95% CI)","1.35 [0.98, 1.86]",LABA/LAMA versus placebo ≥ 6 months,3,1.35,0.98,1.86,4,,SGRQ responder analysis,
+4.1 IND/GLY 110/50,1,706,"Odds Ratio (M‐H, Fixed, 95% CI)","1.35 [0.98, 1.86]",LABA/LAMA versus placebo ≥ 6 months,3,1.35,0.98,1.86,4,1,SGRQ responder analysis,IND/GLY 110/50
+1 All‐cause mortality Show forest plot,18,8752,"Odds Ratio (M‐H, Random, 95% CI)","2.02 [0.79, 5.17]",Sensitivity analysis ‐ random‐effects model,4,2.02,0.79,5.17,1,,All‐cause mortality,
+1.1 IND/GLY 110/50,5,2020,"Odds Ratio (M‐H, Random, 95% CI)","2.54 [0.61, 10.48]",Sensitivity analysis ‐ random‐effects model,4,2.54,0.61,10.48,1,1,All‐cause mortality,IND/GLY 110/50
+1.2 TIO/OLO 2.5/5,6,1670,"Odds Ratio (M‐H, Random, 95% CI)","2.53 [0.12, 53.43]",Sensitivity analysis ‐ random‐effects model,4,2.53,0.12,53.43,1,2,All‐cause mortality,TIO/OLO 2.5/5
+1.3 TIO/OLO 5/5,6,1689,"Odds Ratio (M‐H, Random, 95% CI)","0.0 [0.0, 0.0]",Sensitivity analysis ‐ random‐effects model,4,0.0,0.0,0.0,1,3,All‐cause mortality,TIO/OLO 5/5
+1.4 UMEC/VI 62.5/25,5,1921,"Odds Ratio (M‐H, Random, 95% CI)","2.92 [0.62, 13.79]",Sensitivity analysis ‐ random‐effects model,4,2.92,0.62,13.79,1,4,All‐cause mortality,UMEC/VI 62.5/25
+1.5 UMEC/VI 125/25,4,1401,"Odds Ratio (M‐H, Random, 95% CI)","0.14 [0.01, 2.83]",Sensitivity analysis ‐ random‐effects model,4,0.14,0.01,2.83,1,5,All‐cause mortality,UMEC/VI 125/25
+1.6 UMEC/VI 500/25,1,51,"Odds Ratio (M‐H, Random, 95% CI)","0.0 [0.0, 0.0]",Sensitivity analysis ‐ random‐effects model,4,0.0,0.0,0.0,1,6,All‐cause mortality,UMEC/VI 500/25
+2 SAEs Show forest plot,22,10536,"Odds Ratio (M‐H, Random, 95% CI)","1.05 [0.87, 1.27]",Sensitivity analysis ‐ random‐effects model,4,1.05,0.87,1.27,2,,SAEs,
+2.1 IND/GLY 110/50,6,2830,"Odds Ratio (M‐H, Random, 95% CI)","1.15 [0.85, 1.55]",Sensitivity analysis ‐ random‐effects model,4,1.15,0.85,1.55,2,1,SAEs,IND/GLY 110/50
+2.2 TIO/OLO 2.5/5,6,1670,"Odds Ratio (M‐H, Random, 95% CI)","0.89 [0.47, 1.68]",Sensitivity analysis ‐ random‐effects model,4,0.89,0.47,1.68,2,2,SAEs,TIO/OLO 2.5/5
+2.3 TIO/OLO 5/5,7,1840,"Odds Ratio (M‐H, Random, 95% CI)","0.96 [0.53, 1.74]",Sensitivity analysis ‐ random‐effects model,4,0.96,0.53,1.74,2,3,SAEs,TIO/OLO 5/5
+2.4 UMEC/VI 62.5/25,6,2317,"Odds Ratio (M‐H, Random, 95% CI)","1.28 [0.85, 1.92]",Sensitivity analysis ‐ random‐effects model,4,1.28,0.85,1.92,2,4,SAEs,UMEC/VI 62.5/25
+2.5 UMEC/VI 125/25,4,1403,"Odds Ratio (M‐H, Random, 95% CI)","0.73 [0.41, 1.30]",Sensitivity analysis ‐ random‐effects model,4,0.73,0.41,1.3,2,5,SAEs,UMEC/VI 125/25
+2.6 UMEC/VI 500/25,1,51,"Odds Ratio (M‐H, Random, 95% CI)","0.0 [0.0, 0.0]",Sensitivity analysis ‐ random‐effects model,4,0.0,0.0,0.0,2,6,SAEs,UMEC/VI 500/25
+2.7 ACM/FOR 200/6,1,141,"Odds Ratio (M‐H, Random, 95% CI)","0.51 [0.02, 12.96]",Sensitivity analysis ‐ random‐effects model,4,0.51,0.02,12.96,2,7,SAEs,ACM/FOR 200/6
+2.8 ACM/FOR 200/12,1,140,"Odds Ratio (M‐H, Random, 95% CI)","0.51 [0.02, 13.07]",Sensitivity analysis ‐ random‐effects model,4,0.51,0.02,13.07,2,8,SAEs,ACM/FOR 200/12
+2.9 ACM/FOR 200/18,1,144,"Odds Ratio (M‐H, Random, 95% CI)","1.11 [0.06, 22.41]",Sensitivity analysis ‐ random‐effects model,4,1.11,0.06,22.41,2,9,SAEs,ACM/FOR 200/18
+3 AECOPD Show forest plot,3,1127,"Odds Ratio (M‐H, Random, 95% CI)","0.52 [0.35, 0.78]",Sensitivity analysis ‐ random‐effects model,4,0.52,0.35,0.78,3,,AECOPD,
+3.1 UMEC/VI 62.5/25,2,786,"Odds Ratio (M‐H, Random, 95% CI)","0.58 [0.36, 0.93]",Sensitivity analysis ‐ random‐effects model,4,0.58,0.36,0.93,3,1,AECOPD,UMEC/VI 62.5/25
+3.2 UMEC/VI 125/25,1,290,"Odds Ratio (M‐H, Random, 95% CI)","0.37 [0.17, 0.78]",Sensitivity analysis ‐ random‐effects model,4,0.37,0.17,0.78,3,2,AECOPD,UMEC/VI 125/25
+3.3 UMEC/VI 500/25,1,51,"Odds Ratio (M‐H, Random, 95% CI)","1.68 [0.08, 35.43]",Sensitivity analysis ‐ random‐effects model,4,1.68,0.08,35.43,3,3,AECOPD,UMEC/VI 500/25
+4 Time to first AECOPD Show forest plot,2,,"Hazard Ratio (Random, 95% CI)","0.44 [0.31, 0.63]",Sensitivity analysis ‐ random‐effects model,4,0.44,0.31,0.63,4,,Time to first AECOPD,
+4.1 UMEC/VI 125/25,2,,"Hazard Ratio (Random, 95% CI)","0.44 [0.31, 0.63]",Sensitivity analysis ‐ random‐effects model,4,0.44,0.31,0.63,4,1,Time to first AECOPD,UMEC/VI 125/25
+5 Difference vs placebo in adjusted SGRQ score (HRQoL) Show forest plot,8,,"Mean Difference (Random, 95% CI)","‐4.08 [‐4.80, ‐3.36]",Sensitivity analysis ‐ random‐effects model,4,-4.08,-4.8,-3.36,5,,Difference vs placebo in adjusted SGRQ score (HRQoL),
+5.1 IND/GLY 110/50,2,,"Mean Difference (Random, 95% CI)","‐3.87 [‐5.53, ‐2.22]",Sensitivity analysis ‐ random‐effects model,4,-3.87,-5.53,-2.22,5,1,Difference vs placebo in adjusted SGRQ score (HRQoL),IND/GLY 110/50
+5.2 UMEC/VI 125/25,2,,"Mean Difference (Random, 95% CI)","‐3.64 [‐5.48, ‐1.80]",Sensitivity analysis ‐ random‐effects model,4,-3.64,-5.48,-1.8,5,2,Difference vs placebo in adjusted SGRQ score (HRQoL),UMEC/VI 125/25
+5.3 UMEC/VI 62.5/25,3,,"Mean Difference (Random, 95% CI)","‐4.18 [‐5.92, ‐2.44]",Sensitivity analysis ‐ random‐effects model,4,-4.18,-5.92,-2.44,5,3,Difference vs placebo in adjusted SGRQ score (HRQoL),UMEC/VI 62.5/25
+5.4 TIO/OLO 2.5/5,2,,"Mean Difference (Random, 95% CI)","‐3.89 [‐5.60, ‐2.17]",Sensitivity analysis ‐ random‐effects model,4,-3.89,-5.6,-2.17,5,4,Difference vs placebo in adjusted SGRQ score (HRQoL),TIO/OLO 2.5/5
+5.5 TIO/OLO 5/5,2,,"Mean Difference (Random, 95% CI)","‐4.72 [‐6.43, ‐3.01]",Sensitivity analysis ‐ random‐effects model,4,-4.72,-6.43,-3.01,5,5,Difference vs placebo in adjusted SGRQ score (HRQoL),TIO/OLO 5/5
+6 SGRQ responder analysis Show forest plot,7,4258,"Odds Ratio (M‐H, Random, 95% CI)","1.74 [1.53, 1.99]",Sensitivity analysis ‐ random‐effects model,4,1.74,1.53,1.99,6,,SGRQ responder analysis,
+6.1 IND/GLY 110/50,1,706,"Odds Ratio (M‐H, Random, 95% CI)","1.35 [0.98, 1.86]",Sensitivity analysis ‐ random‐effects model,4,1.35,0.98,1.86,6,1,SGRQ responder analysis,IND/GLY 110/50
+6.2 TIO/OLO 2.5/5,2,579,"Odds Ratio (M‐H, Random, 95% CI)","1.87 [1.30, 2.70]",Sensitivity analysis ‐ random‐effects model,4,1.87,1.3,2.7,6,2,SGRQ responder analysis,TIO/OLO 2.5/5
+6.3 TIO/OLO 5/5,2,578,"Odds Ratio (M‐H, Random, 95% CI)","2.35 [1.63, 3.40]",Sensitivity analysis ‐ random‐effects model,4,2.35,1.63,3.4,6,3,SGRQ responder analysis,TIO/OLO 5/5
+6.4 UMEC/VI 62.5/25,3,1441,"Odds Ratio (M‐H, Random, 95% CI)","1.70 [1.37, 2.12]",Sensitivity analysis ‐ random‐effects model,4,1.7,1.37,2.12,6,4,SGRQ responder analysis,UMEC/VI 62.5/25
+6.5 UMEC/VI 125/25,2,954,"Odds Ratio (M‐H, Random, 95% CI)","1.78 [1.35, 2.34]",Sensitivity analysis ‐ random‐effects model,4,1.78,1.35,2.34,6,5,SGRQ responder analysis,UMEC/VI 125/25
+7 Difference vs placebo in adjusted trough FEV1 at EOT Show forest plot,13,,"Mean Difference (Random, 95% CI)","0.20 [0.18, 0.21]",Sensitivity analysis ‐ random‐effects model,4,0.2,0.18,0.21,7,,Difference vs placebo in adjusted trough FEV1 at EOT,
+7.1 IND/GLY 110/50,2,,"Mean Difference (Random, 95% CI)","0.25 [0.20, 0.30]",Sensitivity analysis ‐ random‐effects model,4,0.25,0.2,0.3,7,1,Difference vs placebo in adjusted trough FEV1 at EOT,IND/GLY 110/50
+7.2 UMEC/VI 125/25,4,,"Mean Difference (Random, 95% CI)","0.22 [0.18, 0.26]",Sensitivity analysis ‐ random‐effects model,4,0.22,0.18,0.26,7,2,Difference vs placebo in adjusted trough FEV1 at EOT,UMEC/VI 125/25
+7.3 UMEC/VI 62.5/25,6,,"Mean Difference (Random, 95% CI)","0.18 [0.15, 0.22]",Sensitivity analysis ‐ random‐effects model,4,0.18,0.15,0.22,7,3,Difference vs placebo in adjusted trough FEV1 at EOT,UMEC/VI 62.5/25
+7.4 TIO/OLO 2.5/5,3,,"Mean Difference (Random, 95% CI)","0.18 [0.15, 0.20]",Sensitivity analysis ‐ random‐effects model,4,0.18,0.15,0.2,7,4,Difference vs placebo in adjusted trough FEV1 at EOT,TIO/OLO 2.5/5
+7.5 TIO/OLO 5/5,3,,"Mean Difference (Random, 95% CI)","0.21 [0.18, 0.23]",Sensitivity analysis ‐ random‐effects model,4,0.21,0.18,0.23,7,5,Difference vs placebo in adjusted trough FEV1 at EOT,TIO/OLO 5/5
+7.6 ACLID/FORM 200/6,1,,"Mean Difference (Random, 95% CI)","0.07 [‐0.04, 0.18]",Sensitivity analysis ‐ random‐effects model,4,0.07,-0.04,0.18,7,6,Difference vs placebo in adjusted trough FEV1 at EOT,ACLID/FORM 200/6
+7.7 ACLID/FORM 200/12,1,,"Mean Difference (Random, 95% CI)","0.12 [0.01, 0.22]",Sensitivity analysis ‐ random‐effects model,4,0.12,0.01,0.22,7,7,Difference vs placebo in adjusted trough FEV1 at EOT,ACLID/FORM 200/12
+7.8 ACLID/FORM 200/18,1,,"Mean Difference (Random, 95% CI)","0.08 [‐0.04, 0.19]",Sensitivity analysis ‐ random‐effects model,4,0.08,-0.04,0.19,7,8,Difference vs placebo in adjusted trough FEV1 at EOT,ACLID/FORM 200/18
+8 Difference vs placebo in trough FEV1 at EOT Show forest plot,5,,"Mean Difference (Random, 95% CI)","0.18 [0.16, 0.20]",Sensitivity analysis ‐ random‐effects model,4,0.18,0.16,0.2,8,,Difference vs placebo in trough FEV1 at EOT,
+8.1 IND/GLY 110/50,3,,"Mean Difference (Random, 95% CI)","0.20 [0.17, 0.22]",Sensitivity analysis ‐ random‐effects model,4,0.2,0.17,0.22,8,1,Difference vs placebo in trough FEV1 at EOT,IND/GLY 110/50
+8.2 TIO/OLO 2.5/5,2,,"Mean Difference (Random, 95% CI)","0.16 [0.13, 0.19]",Sensitivity analysis ‐ random‐effects model,4,0.16,0.13,0.19,8,2,Difference vs placebo in trough FEV1 at EOT,TIO/OLO 2.5/5
+8.3 TIO/OLO 5/5,2,,"Mean Difference (Random, 95% CI)","0.16 [0.13, 0.20]",Sensitivity analysis ‐ random‐effects model,4,0.16,0.13,0.2,8,3,Difference vs placebo in trough FEV1 at EOT,TIO/OLO 5/5
+9 Difference vs placebo in adjusted peak FEV1 Show forest plot,7,,"Mean Difference (Random, 95% CI)","0.30 [0.28, 0.33]",Sensitivity analysis ‐ random‐effects model,4,0.3,0.28,0.33,9,,Difference vs placebo in adjusted peak FEV1,
+9.1 IND/GLY 110/50,2,,"Mean Difference (Random, 95% CI)","0.35 [0.31, 0.39]",Sensitivity analysis ‐ random‐effects model,4,0.35,0.31,0.39,9,1,Difference vs placebo in adjusted peak FEV1,IND/GLY 110/50
+9.2 UMEC/VI 125/25,1,,"Mean Difference (Random, 95% CI)","0.28 [0.24, 0.32]",Sensitivity analysis ‐ random‐effects model,4,0.28,0.24,0.32,9,2,Difference vs placebo in adjusted peak FEV1,UMEC/VI 125/25
+9.3 UMEC/VI 62.5/25,1,,"Mean Difference (Random, 95% CI)","0.22 [0.18, 0.27]",Sensitivity analysis ‐ random‐effects model,4,0.22,0.18,0.27,9,3,Difference vs placebo in adjusted peak FEV1,UMEC/VI 62.5/25
+9.4 TIO/OLO 2.5/5,2,,"Mean Difference (Random, 95% CI)","0.29 [0.27, 0.32]",Sensitivity analysis ‐ random‐effects model,4,0.29,0.27,0.32,9,4,Difference vs placebo in adjusted peak FEV1,TIO/OLO 2.5/5
+9.5 TIO/OLO 5/5,2,,"Mean Difference (Random, 95% CI)","0.33 [0.30, 0.35]",Sensitivity analysis ‐ random‐effects model,4,0.33,0.3,0.35,9,5,Difference vs placebo in adjusted peak FEV1,TIO/OLO 5/5
+9.6 ACLID/FORM 200/6,1,,"Mean Difference (Random, 95% CI)","0.25 [0.13, 0.37]",Sensitivity analysis ‐ random‐effects model,4,0.25,0.13,0.37,9,6,Difference vs placebo in adjusted peak FEV1,ACLID/FORM 200/6
+9.7 ACLID/FORM 200/12,1,,"Mean Difference (Random, 95% CI)","0.31 [0.20, 0.43]",Sensitivity analysis ‐ random‐effects model,4,0.31,0.2,0.43,9,7,Difference vs placebo in adjusted peak FEV1,ACLID/FORM 200/12
+9.8 ACLID/FORM 200/18,1,,"Mean Difference (Random, 95% CI)","0.31 [0.19, 0.42]",Sensitivity analysis ‐ random‐effects model,4,0.31,0.19,0.42,9,8,Difference vs placebo in adjusted peak FEV1,ACLID/FORM 200/18
+10 AEs Show forest plot,17,8235,"Odds Ratio (M‐H, Random, 95% CI)","0.95 [0.86, 1.04]",Sensitivity analysis ‐ random‐effects model,4,0.95,0.86,1.04,10,,AEs,
+10.1 IND/GLY 110/50,6,2830,"Odds Ratio (M‐H, Random, 95% CI)","0.90 [0.76, 1.07]",Sensitivity analysis ‐ random‐effects model,4,0.9,0.76,1.07,10,1,AEs,IND/GLY 110/50
+10.2 TIO/OLO 2.5/5,4,1011,"Odds Ratio (M‐H, Random, 95% CI)","0.85 [0.65, 1.11]",Sensitivity analysis ‐ random‐effects model,4,0.85,0.65,1.11,10,2,AEs,TIO/OLO 2.5/5
+10.3 TIO/OLO 5/5,4,1021,"Odds Ratio (M‐H, Random, 95% CI)","0.78 [0.60, 1.01]",Sensitivity analysis ‐ random‐effects model,4,0.78,0.6,1.01,10,3,AEs,TIO/OLO 5/5
+10.4 UMEC/VI 62.5/25,5,1921,"Odds Ratio (M‐H, Random, 95% CI)","1.07 [0.88, 1.29]",Sensitivity analysis ‐ random‐effects model,4,1.07,0.88,1.29,10,4,AEs,UMEC/VI 62.5/25
+10.5 UMEC/VI 125/25,4,1401,"Odds Ratio (M‐H, Random, 95% CI)","1.08 [0.86, 1.34]",Sensitivity analysis ‐ random‐effects model,4,1.08,0.86,1.34,10,5,AEs,UMEC/VI 125/25
+10.6 UMEC/VI 500/25,1,51,"Odds Ratio (M‐H, Random, 95% CI)","2.84 [0.32, 25.36]",Sensitivity analysis ‐ random‐effects model,4,2.84,0.32,25.36,10,6,AEs,UMEC/VI 500/25
+11 Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses Show forest plot,18,,"Mean Difference (Random, 95% CI)","0.20 [0.19, 0.21]",Sensitivity analysis ‐ random‐effects model,4,0.2,0.19,0.21,11,,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,
+11.1 IND/GLY 110/50,5,,"Mean Difference (Random, 95% CI)","0.22 [0.19, 0.26]",Sensitivity analysis ‐ random‐effects model,4,0.22,0.19,0.26,11,1,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,IND/GLY 110/50
+11.2 UMEC/VI 125/25,4,,"Mean Difference (Random, 95% CI)","0.22 [0.18, 0.26]",Sensitivity analysis ‐ random‐effects model,4,0.22,0.18,0.26,11,2,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,UMEC/VI 125/25
+11.3 UMEC/VI 62.5/25,6,,"Mean Difference (Random, 95% CI)","0.18 [0.15, 0.22]",Sensitivity analysis ‐ random‐effects model,4,0.18,0.15,0.22,11,3,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,UMEC/VI 62.5/25
+11.4 TIO/OLO 2.5/5,5,,"Mean Difference (Random, 95% CI)","0.18 [0.15, 0.20]",Sensitivity analysis ‐ random‐effects model,4,0.18,0.15,0.2,11,4,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,TIO/OLO 2.5/5
+11.5 TIO/OLO 5/5,5,,"Mean Difference (Random, 95% CI)","0.20 [0.18, 0.21]",Sensitivity analysis ‐ random‐effects model,4,0.2,0.18,0.21,11,5,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,TIO/OLO 5/5
+11.6 ACLID/FORM 200/6,1,,"Mean Difference (Random, 95% CI)","0.07 [‐0.04, 0.18]",Sensitivity analysis ‐ random‐effects model,4,0.07,-0.04,0.18,11,6,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,ACLID/FORM 200/6
+11.7 ACLID/FORM 200/12,1,,"Mean Difference (Random, 95% CI)","0.12 [0.01, 0.22]",Sensitivity analysis ‐ random‐effects model,4,0.12,0.01,0.22,11,7,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,ACLID/FORM 200/12
+11.8 ACLID/FORM 200/18,1,,"Mean Difference (Random, 95% CI)","0.08 [‐0.04, 0.19]",Sensitivity analysis ‐ random‐effects model,4,0.08,-0.04,0.19,11,8,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,ACLID/FORM 200/18
+1 All‐cause mortality Show forest plot,14,7287,"Odds Ratio (M‐H, Fixed, 95% CI)","1.65 [0.60, 4.50]",Sensitivity analysis ‐ RoB,5,1.65,0.6,4.5,1,,All‐cause mortality,
+1.1 IND/GLY 110/50,4,1682,"Odds Ratio (M‐H, Fixed, 95% CI)","2.97 [0.47, 18.97]",Sensitivity analysis ‐ RoB,5,2.97,0.47,18.97,1,1,All‐cause mortality,IND/GLY 110/50
+1.2 TIO/OLO 2.5/5,6,1670,"Odds Ratio (M‐H, Fixed, 95% CI)","2.53 [0.12, 53.43]",Sensitivity analysis ‐ RoB,5,2.53,0.12,53.43,1,2,All‐cause mortality,TIO/OLO 2.5/5
+1.3 TIO/OLO 5/5,6,1689,"Odds Ratio (M‐H, Fixed, 95% CI)","0.0 [0.0, 0.0]",Sensitivity analysis ‐ RoB,5,0.0,0.0,0.0,1,3,All‐cause mortality,TIO/OLO 5/5
+1.4 UMEC/VI 62.5/25,3,1135,"Odds Ratio (M‐H, Fixed, 95% CI)","3.22 [0.38, 27.52]",Sensitivity analysis ‐ RoB,5,3.22,0.38,27.52,1,4,All‐cause mortality,UMEC/VI 62.5/25
+1.5 UMEC/VI 125/25,3,1111,"Odds Ratio (M‐H, Fixed, 95% CI)","0.14 [0.01, 2.83]",Sensitivity analysis ‐ RoB,5,0.14,0.01,2.83,1,5,All‐cause mortality,UMEC/VI 125/25
+2 SAEs Show forest plot,17,8448,"Odds Ratio (M‐H, Fixed, 95% CI)","1.09 [0.86, 1.40]",Sensitivity analysis ‐ RoB,5,1.09,0.86,1.4,2,,SAEs,
+2.1 IND/GLY 110/50,5,2020,"Odds Ratio (M‐H, Fixed, 95% CI)","1.23 [0.79, 1.89]",Sensitivity analysis ‐ RoB,5,1.23,0.79,1.89,2,1,SAEs,IND/GLY 110/50
+2.2 TIO/OLO 2.5/5,6,1670,"Odds Ratio (M‐H, Fixed, 95% CI)","0.90 [0.49, 1.68]",Sensitivity analysis ‐ RoB,5,0.9,0.49,1.68,2,2,SAEs,TIO/OLO 2.5/5
+2.3 TIO/OLO 5/5,6,1689,"Odds Ratio (M‐H, Fixed, 95% CI)","1.02 [0.54, 1.91]",Sensitivity analysis ‐ RoB,5,1.02,0.54,1.91,2,3,SAEs,TIO/OLO 5/5
+2.4 UMEC/VI 62.5/25,4,1531,"Odds Ratio (M‐H, Fixed, 95% CI)","1.34 [0.75, 2.40]",Sensitivity analysis ‐ RoB,5,1.34,0.75,2.4,2,4,SAEs,UMEC/VI 62.5/25
+2.5 UMEC/VI 125/25,3,1113,"Odds Ratio (M‐H, Fixed, 95% CI)","0.95 [0.55, 1.66]",Sensitivity analysis ‐ RoB,5,0.95,0.55,1.66,2,5,SAEs,UMEC/VI 125/25
+2.6 ACM/FOR 200/6,1,141,"Odds Ratio (M‐H, Fixed, 95% CI)","0.51 [0.02, 12.96]",Sensitivity analysis ‐ RoB,5,0.51,0.02,12.96,2,6,SAEs,ACM/FOR 200/6
+2.7 ACM/FOR 200/12,1,140,"Odds Ratio (M‐H, Fixed, 95% CI)","0.51 [0.02, 13.07]",Sensitivity analysis ‐ RoB,5,0.51,0.02,13.07,2,7,SAEs,ACM/FOR 200/12
+2.8 ACM/FOR 200/18,1,144,"Odds Ratio (M‐H, Fixed, 95% CI)","1.11 [0.06, 22.41]",Sensitivity analysis ‐ RoB,5,1.11,0.06,22.41,2,8,SAEs,ACM/FOR 200/18
+3 Time to first AECOPD Show forest plot,2,,"Hazard Ratio (Fixed, 95% CI)","0.44 [0.31, 0.63]",Sensitivity analysis ‐ RoB,5,0.44,0.31,0.63,3,,Time to first AECOPD,
+3.1 UMEC/VI 125/25,2,,"Hazard Ratio (Fixed, 95% CI)","0.44 [0.31, 0.63]",Sensitivity analysis ‐ RoB,5,0.44,0.31,0.63,3,1,Time to first AECOPD,UMEC/VI 125/25
+4 Difference vs placebo in adjusted SGRQ score (HRQoL) Show forest plot,5,,"Mean Difference (Fixed, 95% CI)","‐4.12 [‐4.99, ‐3.24]",Sensitivity analysis ‐ RoB,5,-4.12,-4.99,-3.24,4,,Difference vs placebo in adjusted SGRQ score (HRQoL),
+4.1 IND/GLY 110/50,1,,"Mean Difference (Fixed, 95% CI)","‐3.01 [‐5.05, ‐0.97]",Sensitivity analysis ‐ RoB,5,-3.01,-5.05,-0.97,4,1,Difference vs placebo in adjusted SGRQ score (HRQoL),IND/GLY 110/50
+4.2 UMEC/VI 125/25,1,,"Mean Difference (Fixed, 95% CI)","‐3.60 [‐5.76, ‐1.44]",Sensitivity analysis ‐ RoB,5,-3.6,-5.76,-1.44,4,2,Difference vs placebo in adjusted SGRQ score (HRQoL),UMEC/VI 125/25
+4.3 UMEC/VI 62.5/25,1,,"Mean Difference (Fixed, 95% CI)","‐5.51 [‐7.88, ‐3.14]",Sensitivity analysis ‐ RoB,5,-5.51,-7.88,-3.14,4,3,Difference vs placebo in adjusted SGRQ score (HRQoL),UMEC/VI 62.5/25
+4.4 TIO/OLO 2.5/5,2,,"Mean Difference (Fixed, 95% CI)","‐3.89 [‐5.60, ‐2.17]",Sensitivity analysis ‐ RoB,5,-3.89,-5.6,-2.17,4,4,Difference vs placebo in adjusted SGRQ score (HRQoL),TIO/OLO 2.5/5
+4.5 TIO/OLO 5/5,2,,"Mean Difference (Fixed, 95% CI)","‐4.72 [‐6.43, ‐3.01]",Sensitivity analysis ‐ RoB,5,-4.72,-6.43,-3.01,4,5,Difference vs placebo in adjusted SGRQ score (HRQoL),TIO/OLO 5/5
+5 SGRQ responder analysis Show forest plot,5,3234,"Odds Ratio (M‐H, Fixed, 95% CI)","1.81 [1.56, 2.10]",Sensitivity analysis ‐ RoB,5,1.81,1.56,2.1,5,,SGRQ responder analysis,
+5.1 IND/GLY 110/50,1,706,"Odds Ratio (M‐H, Fixed, 95% CI)","1.35 [0.98, 1.86]",Sensitivity analysis ‐ RoB,5,1.35,0.98,1.86,5,1,SGRQ responder analysis,IND/GLY 110/50
+5.2 TIO/OLO 2.5/5,2,579,"Odds Ratio (M‐H, Fixed, 95% CI)","1.87 [1.30, 2.70]",Sensitivity analysis ‐ RoB,5,1.87,1.3,2.7,5,2,SGRQ responder analysis,TIO/OLO 2.5/5
+5.3 TIO/OLO 5/5,2,578,"Odds Ratio (M‐H, Fixed, 95% CI)","2.35 [1.63, 3.40]",Sensitivity analysis ‐ RoB,5,2.35,1.63,3.4,5,3,SGRQ responder analysis,TIO/OLO 5/5
+5.4 UMEC/VI 62.5/25,1,693,"Odds Ratio (M‐H, Fixed, 95% CI)","1.88 [1.37, 2.59]",Sensitivity analysis ‐ RoB,5,1.88,1.37,2.59,5,4,SGRQ responder analysis,UMEC/VI 62.5/25
+5.5 UMEC/VI 125/25,1,678,"Odds Ratio (M‐H, Fixed, 95% CI)","1.83 [1.32, 2.54]",Sensitivity analysis ‐ RoB,5,1.83,1.32,2.54,5,5,SGRQ responder analysis,UMEC/VI 125/25
+6 Difference vs placebo in adjusted trough FEV1 at EOT Show forest plot,10,,"Mean Difference (Fixed, 95% CI)","0.20 [0.19, 0.22]",Sensitivity analysis ‐ RoB,5,0.2,0.19,0.22,6,,Difference vs placebo in adjusted trough FEV1 at EOT,
+6.1 IND/GLY 110/50,1,,"Mean Difference (Fixed, 95% CI)","0.28 [0.24, 0.32]",Sensitivity analysis ‐ RoB,5,0.28,0.24,0.32,6,1,Difference vs placebo in adjusted trough FEV1 at EOT,IND/GLY 110/50
+6.2 UMEC/VI 125/25,3,,"Mean Difference (Fixed, 95% CI)","0.22 [0.20, 0.25]",Sensitivity analysis ‐ RoB,5,0.22,0.2,0.25,6,2,Difference vs placebo in adjusted trough FEV1 at EOT,UMEC/VI 125/25
+6.3 UMEC/VI 62.5/25,4,,"Mean Difference (Fixed, 95% CI)","0.20 [0.18, 0.22]",Sensitivity analysis ‐ RoB,5,0.2,0.18,0.22,6,3,Difference vs placebo in adjusted trough FEV1 at EOT,UMEC/VI 62.5/25
+6.4 TIO/OLO 2.5/5,3,,"Mean Difference (Fixed, 95% CI)","0.18 [0.15, 0.20]",Sensitivity analysis ‐ RoB,5,0.18,0.15,0.2,6,4,Difference vs placebo in adjusted trough FEV1 at EOT,TIO/OLO 2.5/5
+6.5 TIO/OLO 5/5,3,,"Mean Difference (Fixed, 95% CI)","0.21 [0.18, 0.23]",Sensitivity analysis ‐ RoB,5,0.21,0.18,0.23,6,5,Difference vs placebo in adjusted trough FEV1 at EOT,TIO/OLO 5/5
+6.6 ACLID/FORM 200/6,1,,"Mean Difference (Fixed, 95% CI)","0.07 [‐0.04, 0.18]",Sensitivity analysis ‐ RoB,5,0.07,-0.04,0.18,6,6,Difference vs placebo in adjusted trough FEV1 at EOT,ACLID/FORM 200/6
+6.7 ACLID/FORM 200/12,1,,"Mean Difference (Fixed, 95% CI)","0.12 [0.01, 0.22]",Sensitivity analysis ‐ RoB,5,0.12,0.01,0.22,6,7,Difference vs placebo in adjusted trough FEV1 at EOT,ACLID/FORM 200/12
+6.8 ACLID/FORM 200/18,1,,"Mean Difference (Fixed, 95% CI)","0.08 [‐0.04, 0.19]",Sensitivity analysis ‐ RoB,5,0.08,-0.04,0.19,6,8,Difference vs placebo in adjusted trough FEV1 at EOT,ACLID/FORM 200/18
+7 Difference vs placebo in trough FEV1 at EOT Show forest plot,4,,"Mean Difference (Fixed, 95% CI)","0.18 [0.16, 0.20]",Sensitivity analysis ‐ RoB,5,0.18,0.16,0.2,7,,Difference vs placebo in trough FEV1 at EOT,
+7.1 IND/GLY 110/50,2,,"Mean Difference (Fixed, 95% CI)","0.2 [0.17, 0.23]",Sensitivity analysis ‐ RoB,5,0.2,0.17,0.23,7,1,Difference vs placebo in trough FEV1 at EOT,IND/GLY 110/50
+7.2 TIO/OLO 2.5/5,2,,"Mean Difference (Fixed, 95% CI)","0.16 [0.13, 0.19]",Sensitivity analysis ‐ RoB,5,0.16,0.13,0.19,7,2,Difference vs placebo in trough FEV1 at EOT,TIO/OLO 2.5/5
+7.3 TIO/OLO 5/5,2,,"Mean Difference (Fixed, 95% CI)","0.16 [0.13, 0.20]",Sensitivity analysis ‐ RoB,5,0.16,0.13,0.2,7,3,Difference vs placebo in trough FEV1 at EOT,TIO/OLO 5/5
+8 Difference vs placebo in adjusted peak FEV1 Show forest plot,7,,"Mean Difference (Fixed, 95% CI)","0.31 [0.29, 0.32]",Sensitivity analysis ‐ RoB,5,0.31,0.29,0.32,8,,Difference vs placebo in adjusted peak FEV1,
+8.1 IND/GLY 110/50,2,,"Mean Difference (Fixed, 95% CI)","0.35 [0.32, 0.38]",Sensitivity analysis ‐ RoB,5,0.35,0.32,0.38,8,1,Difference vs placebo in adjusted peak FEV1,IND/GLY 110/50
+8.2 UMEC/VI 125/25,1,,"Mean Difference (Fixed, 95% CI)","0.28 [0.24, 0.32]",Sensitivity analysis ‐ RoB,5,0.28,0.24,0.32,8,2,Difference vs placebo in adjusted peak FEV1,UMEC/VI 125/25
+8.3 UMEC/VI 62.5/25,1,,"Mean Difference (Fixed, 95% CI)","0.22 [0.18, 0.27]",Sensitivity analysis ‐ RoB,5,0.22,0.18,0.27,8,3,Difference vs placebo in adjusted peak FEV1,UMEC/VI 62.5/25
+8.4 TIO/OLO 2.5/5,2,,"Mean Difference (Fixed, 95% CI)","0.29 [0.27, 0.32]",Sensitivity analysis ‐ RoB,5,0.29,0.27,0.32,8,4,Difference vs placebo in adjusted peak FEV1,TIO/OLO 2.5/5
+8.5 TIO/OLO 5/5,2,,"Mean Difference (Fixed, 95% CI)","0.33 [0.30, 0.35]",Sensitivity analysis ‐ RoB,5,0.33,0.3,0.35,8,5,Difference vs placebo in adjusted peak FEV1,TIO/OLO 5/5
+8.6 ACLID/FORM 200/6,1,,"Mean Difference (Fixed, 95% CI)","0.25 [0.13, 0.37]",Sensitivity analysis ‐ RoB,5,0.25,0.13,0.37,8,6,Difference vs placebo in adjusted peak FEV1,ACLID/FORM 200/6
+8.7 ACLID/FORM 200/12,1,,"Mean Difference (Fixed, 95% CI)","0.31 [0.20, 0.43]",Sensitivity analysis ‐ RoB,5,0.31,0.2,0.43,8,7,Difference vs placebo in adjusted peak FEV1,ACLID/FORM 200/12
+8.8 ACLID/FORM 200/18,1,,"Mean Difference (Fixed, 95% CI)","0.31 [0.19, 0.42]",Sensitivity analysis ‐ RoB,5,0.31,0.19,0.42,8,8,Difference vs placebo in adjusted peak FEV1,ACLID/FORM 200/18
+9 AEs Show forest plot,11,5579,"Odds Ratio (M‐H, Fixed, 95% CI)","0.97 [0.86, 1.08]",Sensitivity analysis ‐ RoB,5,0.97,0.86,1.08,9,,AEs,
+9.1 IND/GLY 110/50,3,1301,"Odds Ratio (M‐H, Fixed, 95% CI)","0.92 [0.70, 1.19]",Sensitivity analysis ‐ RoB,5,0.92,0.7,1.19,9,1,AEs,IND/GLY 110/50
+9.2 TIO/OLO 2.5/5,4,1011,"Odds Ratio (M‐H, Fixed, 95% CI)","0.85 [0.66, 1.11]",Sensitivity analysis ‐ RoB,5,0.85,0.66,1.11,9,2,AEs,TIO/OLO 2.5/5
+9.3 TIO/OLO 5/5,4,1021,"Odds Ratio (M‐H, Fixed, 95% CI)","0.78 [0.60, 1.01]",Sensitivity analysis ‐ RoB,5,0.78,0.6,1.01,9,3,AEs,TIO/OLO 5/5
+9.4 UMEC/VI 62.5/25,3,1135,"Odds Ratio (M‐H, Fixed, 95% CI)","1.14 [0.89, 1.46]",Sensitivity analysis ‐ RoB,5,1.14,0.89,1.46,9,4,AEs,UMEC/VI 62.5/25
+9.5 UMEC/VI 125/25,3,1111,"Odds Ratio (M‐H, Fixed, 95% CI)","1.15 [0.90, 1.48]",Sensitivity analysis ‐ RoB,5,1.15,0.9,1.48,9,5,AEs,UMEC/VI 125/25
+10 Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses Show forest plot,14,,"Mean Difference (Fixed, 95% CI)","0.20 [0.20, 0.21]",Sensitivity analysis ‐ RoB,5,0.2,0.2,0.21,10,,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,
+10.1 IND/GLY 110/50,3,,"Mean Difference (Fixed, 95% CI)","0.22 [0.20, 0.25]",Sensitivity analysis ‐ RoB,5,0.22,0.2,0.25,10,1,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,IND/GLY 110/50
+10.2 UMEC/VI 125/25,3,,"Mean Difference (Fixed, 95% CI)","0.22 [0.20, 0.25]",Sensitivity analysis ‐ RoB,5,0.22,0.2,0.25,10,2,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,UMEC/VI 125/25
+10.3 UMEC/VI 62.5/25,4,,"Mean Difference (Fixed, 95% CI)","0.20 [0.18, 0.22]",Sensitivity analysis ‐ RoB,5,0.2,0.18,0.22,10,3,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,UMEC/VI 62.5/25
+10.4 TIO/OLO 2.5/5,5,,"Mean Difference (Fixed, 95% CI)","0.20 [0.20, 0.20]",Sensitivity analysis ‐ RoB,5,0.2,0.2,0.2,10,4,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,TIO/OLO 2.5/5
+10.5 TIO/OLO 5/5,5,,"Mean Difference (Fixed, 95% CI)","0.21 [0.20, 0.21]",Sensitivity analysis ‐ RoB,5,0.21,0.2,0.21,10,5,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,TIO/OLO 5/5
+10.6 ACLID/FORM 200/6,1,,"Mean Difference (Fixed, 95% CI)","0.07 [‐0.04, 0.18]",Sensitivity analysis ‐ RoB,5,0.07,-0.04,0.18,10,6,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,ACLID/FORM 200/6
+10.7 ACLID/FORM 200/12,1,,"Mean Difference (Fixed, 95% CI)","0.12 [0.01, 0.22]",Sensitivity analysis ‐ RoB,5,0.12,0.01,0.22,10,7,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,ACLID/FORM 200/12
+10.8 ACLID/FORM 200/18,1,,"Mean Difference (Fixed, 95% CI)","0.08 [‐0.04, 0.19]",Sensitivity analysis ‐ RoB,5,0.08,-0.04,0.19,10,8,Difference vs placebo in trough FEV1 ‐ pooled adjusted and EOT analyses,ACLID/FORM 200/18

@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COCHRANE_REVIEW TYPE="DIAGNOSTIC" REVMAN_VERSION="5" ID="000000000000000000" VERSION_NO="2.0" STAGE="R" STATUS="A">
+<COVER_SHEET>
+<TITLE>Amylase in drain fluid for the diagnosis of pancreatic leak in post-pancreatic resection [Data only. When citing this record quote "Cochrane Database of Systematic Reviews 2017, Issue 4".]</TITLE>
+<CONTACT>
+<PERSON ID="EDD1B9F582E26AA20135ECF1AB0B3200" ROLE="AUTHOR">
+<PREFIX>Mr</PREFIX>
+<FIRST_NAME>Kurinchi Selvan</FIRST_NAME>
+<MIDDLE_INITIALS />
+<LAST_NAME>Gurusamy</LAST_NAME>
+<SUFFIX>MBBS MRCS PhD</SUFFIX>
+<POSITION>Reader in Surgery/ Course tutor in MSc in Evidence-based Healthcare/Short-course in Systematic reviews</POSITION>
+<EMAIL_1>k.gurusamy@ucl.ac.uk</EMAIL_1>
+<EMAIL_2 />
+<URL />
+<MOBILE_PHONE>+44 (0)7545075003</MOBILE_PHONE>
+<ADDRESS>
+<DEPARTMENT>Department of Surgery</DEPARTMENT>
+<ORGANISATION>Royal Free Campus, UCL Medical School</ORGANISATION>
+<ADDRESS_1>Royal Free Hospital</ADDRESS_1>
+<ADDRESS_2>Rowland Hill Street</ADDRESS_2>
+<CITY>London</CITY>
+<ZIP>NW3 2PF</ZIP>
+<REGION />
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 207 794 0500 ext 33943</PHONE_1>
+<PHONE_2 />
+<FAX_1 />
+<FAX_2 />
+</ADDRESS>
+<FOOTNOTE />
+</PERSON>
+</CONTACT>
+<CREATORS>
+<PERSON ID="z1605311627255372140588266354078" ROLE="AUTHOR">
+<PREFIX>Mrs</PREFIX>
+<FIRST_NAME>Tsetsegdemberel Bat-Ulzii</FIRST_NAME>
+<MIDDLE_INITIALS />
+<LAST_NAME>Davidson</LAST_NAME>
+<SUFFIX />
+<POSITION />
+<EMAIL_1>tsetsegdemberel.davidson.11@ucl.ac.uk</EMAIL_1>
+<EMAIL_2 />
+<URL />
+<MOBILE_PHONE />
+<ADDRESS>
+<DEPARTMENT />
+<ORGANISATION>University College London</ORGANISATION>
+<ADDRESS_1 />
+<ADDRESS_2 />
+<CITY>London</CITY>
+<ZIP />
+<REGION />
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1 />
+<PHONE_2 />
+<FAX_1 />
+<FAX_2 />
+</ADDRESS>
+<FOOTNOTE />
+</PERSON>
+<PERSON ID="z1402131520384474725014224963963" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Mohammad</FIRST_NAME>
+<MIDDLE_INITIALS />
+<LAST_NAME>Yaghoobi</LAST_NAME>
+<SUFFIX>MD, MSc(Clin Epi), AFS, FRCPC</SUFFIX>
+<POSITION>Assistant Professor</POSITION>
+<EMAIL_1>yaghoob@mcmaster.ca</EMAIL_1>
+<EMAIL_2 />
+<URL />
+<MOBILE_PHONE />
+<ADDRESS>
+<DEPARTMENT>Division of Gastroenterology</DEPARTMENT>
+<ORGANISATION>McMaster University and McMaster University Health Sciences Centre</ORGANISATION>
+<ADDRESS_1>1200 Main Street West</ADDRESS_1>
+<ADDRESS_2 />
+<CITY>Hamilton</CITY>
+<ZIP />
+<REGION>ON</REGION>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<PHONE_1>+1 843 876 4281</PHONE_1>
+<PHONE_2 />
+<FAX_1>+1 843 876 7232</FAX_1>
+<FAX_2 />
+</ADDRESS>
+<FOOTNOTE />
+</PERSON>
+<PERSON ID="0BFE5DB682E26AA200426E053932D8DE" ROLE="AUTHOR">
+<PREFIX>Prof</PREFIX>
+<FIRST_NAME>Brian</FIRST_NAME>
+<MIDDLE_INITIALS>R</MIDDLE_INITIALS>
+<LAST_NAME>Davidson</LAST_NAME>
+<SUFFIX />
+<POSITION>Professor of HPB and Liver Transplant Surgery</POSITION>
+<EMAIL_1>b.davidson@ucl.ac.uk</EMAIL_1>
+<EMAIL_2 />
+<URL />
+<MOBILE_PHONE />
+<ADDRESS>
+<DEPARTMENT>Department of Surgery</DEPARTMENT>
+<ORGANISATION>Royal Free Campus, UCL Medical School</ORGANISATION>
+<ADDRESS_1>Pond Street</ADDRESS_1>
+<ADDRESS_2 />
+<CITY>London</CITY>
+<ZIP>NW3 2QG</ZIP>
+<REGION />
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 207 830 2757</PHONE_1>
+<PHONE_2 />
+<FAX_1>+44 207 830 2688</FAX_1>
+<FAX_2 />
+</ADDRESS>
+<FOOTNOTE />
+</PERSON>
+<PERSON ID="EDD1B9F582E26AA20135ECF1AB0B3200" ROLE="AUTHOR">
+<PREFIX>Mr</PREFIX>
+<FIRST_NAME>Kurinchi Selvan</FIRST_NAME>
+<MIDDLE_INITIALS />
+<LAST_NAME>Gurusamy</LAST_NAME>
+<SUFFIX>MBBS MRCS PhD</SUFFIX>
+<POSITION>Reader in Surgery/ Course tutor in MSc in Evidence-based Healthcare/Short-course in Systematic reviews</POSITION>
+<EMAIL_1>k.gurusamy@ucl.ac.uk</EMAIL_1>
+<EMAIL_2 />
+<URL />
+<MOBILE_PHONE>+44 (0)7545075003</MOBILE_PHONE>
+<ADDRESS>
+<DEPARTMENT>Department of Surgery</DEPARTMENT>
+<ORGANISATION>Royal Free Campus, UCL Medical School</ORGANISATION>
+<ADDRESS_1>Royal Free Hospital</ADDRESS_1>
+<ADDRESS_2>Rowland Hill Street</ADDRESS_2>
+<CITY>London</CITY>
+<ZIP>NW3 2PF</ZIP>
+<REGION />
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 207 794 0500 ext 33943</PHONE_1>
+<PHONE_2 />
+<FAX_1 />
+<FAX_2 />
+</ADDRESS>
+<FOOTNOTE />
+</PERSON>
+</CREATORS>
+<DATES>
+<UP_TO_DATE>
+<DATE DAY="" MONTH="" YEAR="" />
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="" MONTH="" YEAR="" />
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="" MONTH="" YEAR="" />
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="" YEAR="" />
+<REVIEW_PUBLISHED ISSUE="" YEAR="" />
+<LAST_CITATION_ISSUE ISSUE="" YEAR="" />
+</DATES>
+<WHATS_NEW />
+<HISTORY />
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES />
+<EXTERNAL_SOURCES />
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO" />
+<KEYWORDS />
+</COVER_SHEET>
+<MAIN_TEXT>
+<SUMMARY>
+<TITLE>Amylase in drain fluid for the diagnosis of pancreatic leak after partial removal of the pancreas</TITLE>
+<SUMMARY_BODY>
+<P>
+<B>Background</B>
+</P>
+<P>The pancreas is an organ in the abdomen that secretes pancreatic juice that aids digestion; and it contains cells that produce important hormones such as insulin. Partial removal of the pancreas (pancreatic resection) is performed to remove cancerous and non-cancerous growths in the pancreas. During this process, new connections (anastomoses) are made between the pancreas and intestines and bile duct (a tube that transports bile from the liver to the intestines). These connections may break down and result in leakage of pancreatic content into the abdomen; this can lead to severe infections within the abdomen and in the blood stream, which can even lead to the death of the patient.</P>
+<P>At the end of the operation, a drainage tube is inserted into the abdomen for two purposes: firstly, the detection of any fluid collections within the abdomen (intra-abdominal collections), usually resulting from the pancreatic leaks; and secondly, as the treatment of intra-abdominal collections, so that fluid collection decreases or, at least, does not worsen within the abdomen. The fluids from the drain can be tested for amylase (one of the contents of the pancreatic juice which digests carbohydrates) to find out whether the fluid in the drain is because of a pancreatic leak. If there is a high suspicion of a pancreatic leak, further scans are performed to confirm it or to rule it out. If the leak is major and the patient is unwell, urgent reoperation may be required. Moderate leaks can lead to intra-abdominal infections: patients may need antibiotics, drugs that decrease pancreatic secretion, insertion of a new drainage tube or repositioning of the existing drainage tube to drain the infected collection, and supportive care to recover. Currently, it is unclear whether measuring the amylase content in the fluid from the drain inserted after pancreatic resection is useful in identifying pancreatic leaks.</P>
+<P>
+<B>Study characteristics</B>
+</P>
+<P>We performed a thorough literature search for studies reporting the accuracy of drain fluid amylase in identifying pancreatic leaks. We included studies reported up to 20 February 2017. We identified five studies reporting information on 868 people who underwent pancreatic resections for cancer and non-cancerous growths. Most studies included only people in whom the head of the pancreas (right side of the pancreas) was removed.</P>
+<P>
+<B>Key results</B>
+</P>
+<P>Variations in when the studies measured the amylase content in the drain and what level was considered abnormal meant that we were not able to combine the data to provide the overall results. We are uncertain whether drain fluid amylase is useful in identifying pancreatic leaks because of the following reasons.</P>
+<P>1. The way that study authors confirmed that a participant had or did not have pancreatic leak was itself subject to error (i.e. there was no true 'gold standard').</P>
+<P>2. The studies included few participants. As a result, there was significant uncertainty in the results.</P>
+<P>3. The studies were of poor methodological quality. This introduced additional uncertainty in the results.</P>
+<P>
+<B>Quality of evidence</B>
+</P>
+<P>All of the studies were of unclear or low methodological quality, which may result in arriving at false conclusions.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P />
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P />
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P />
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P />
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P />
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P />
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P />
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY>
+<BACKGROUND>
+<P />
+<CONDITION>
+<P />
+</CONDITION>
+<INTERVENTION>
+<P />
+</INTERVENTION>
+<THEORY>
+<P />
+</THEORY>
+<IMPORTANCE>
+<P />
+</IMPORTANCE>
+</BACKGROUND>
+<OBJECTIVES>
+<P />
+</OBJECTIVES>
+<METHODS>
+<SELECTION_CRITERIA>
+<CRIT_STUDIES>
+<P />
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P />
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P />
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES>
+<P />
+<CRIT_OUTCOMES_PRIMARY>
+<P />
+</CRIT_OUTCOMES_PRIMARY>
+<CRIT_OUTCOMES_SECONDARY>
+<P />
+</CRIT_OUTCOMES_SECONDARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS>
+<P />
+<ELECTRONIC_SEARCHES>
+<P />
+</ELECTRONIC_SEARCHES>
+<OTHER_SEARCHES>
+<P />
+</OTHER_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION>
+<P />
+<STUDY_SELECTION>
+<P />
+</STUDY_SELECTION>
+<DATA_EXTRACTION>
+<P />
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT>
+<P />
+</QUALITY_ASSESSMENT>
+<EFFECT_MEASURES>
+<P />
+</EFFECT_MEASURES>
+<UNIT_OF_ANALYSIS>
+<P />
+</UNIT_OF_ANALYSIS>
+<MISSING_DATA>
+<P />
+</MISSING_DATA>
+<HETEROGENEITY_ASSESSMENT>
+<P />
+</HETEROGENEITY_ASSESSMENT>
+<BIAS_ASSESSMENT>
+<P />
+</BIAS_ASSESSMENT>
+<DATA_SYNTHESIS>
+<P />
+</DATA_SYNTHESIS>
+<SUBGROUP_ANALYSIS>
+<P />
+</SUBGROUP_ANALYSIS>
+<SENSITIVITY_ANALYSIS>
+<P />
+</SENSITIVITY_ANALYSIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS>
+<STUDY_DESCRIPTION>
+<P />
+<SEARCH_RESULTS>
+<P />
+</SEARCH_RESULTS>
+<INCLUDED_STUDIES_DESCR>
+<P />
+</INCLUDED_STUDIES_DESCR>
+<EXCLUDED_STUDIES_DESCR>
+<P />
+</EXCLUDED_STUDIES_DESCR>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P />
+<ALLOCATION>
+<P />
+</ALLOCATION>
+<BLINDING>
+<P />
+</BLINDING>
+<EXCLUSIONS>
+<P />
+</EXCLUSIONS>
+<SELECTIVE_REPORTING>
+<P />
+</SELECTIVE_REPORTING>
+<OTHER_BIAS_SOURCES>
+<P />
+</OTHER_BIAS_SOURCES>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS>
+<P />
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P />
+<SUMMARY_OF_RESULTS>
+<P />
+</SUMMARY_OF_RESULTS>
+<APPLICABILITY_OF_FINDINGS>
+<P />
+</APPLICABILITY_OF_FINDINGS>
+<QUALITY_OF_EVIDENCE>
+<P />
+</QUALITY_OF_EVIDENCE>
+<POTENTIAL_BIASES>
+<P />
+</POTENTIAL_BIASES>
+<AGREEMENT>
+<P />
+</AGREEMENT>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P />
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P />
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P />
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P />
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P />
+</CONTRIBUTIONS>
+<PRO_REV_DIFF>
+<P />
+</PRO_REV_DIFF>
+<PUBLIC_NOTES>
+<P />
+</PUBLIC_NOTES>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES>
+<STUDIES>
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Araki-2012" NAME="Araki 2012" YEAR="2012">
+<IDENTIFIERS />
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-El-Nakeeb-2013" NAME="El Nakeeb 2013" YEAR="2013">
+<IDENTIFIERS />
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Facy-2012" NAME="Facy 2012" YEAR="2012">
+<IDENTIFIERS />
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kong-2008" NAME="Kong 2008" YEAR="2008">
+<IDENTIFIERS />
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kosaka-2014" NAME="Kosaka 2014" YEAR="2014">
+<IDENTIFIERS />
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES />
+<AWAITING_STUDIES />
+<ONGOING_STUDIES />
+</STUDIES>
+<OTHER_REFERENCES>
+<ADDITIONAL_REFERENCES />
+<OTHER_VERSIONS_REFERENCES />
+<PENDING_REFERENCES />
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES>
+<CHARACTERISTICS_OF_INCLUDED_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR STUDY_ID="STD-Araki-2012">
+<CHAR_METHODS><P /></CHAR_METHODS>
+<CHAR_PARTICIPANTS><P /></CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS><P /></CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES><P /></CHAR_OUTCOMES>
+<CHAR_NOTES><P /></CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-El-Nakeeb-2013">
+<CHAR_METHODS><P /></CHAR_METHODS>
+<CHAR_PARTICIPANTS><P /></CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS><P /></CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES><P /></CHAR_OUTCOMES>
+<CHAR_NOTES><P /></CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Facy-2012">
+<CHAR_METHODS><P /></CHAR_METHODS>
+<CHAR_PARTICIPANTS><P /></CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS><P /></CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES><P /></CHAR_OUTCOMES>
+<CHAR_NOTES><P /></CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Kong-2008">
+<CHAR_METHODS><P /></CHAR_METHODS>
+<CHAR_PARTICIPANTS><P /></CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS><P /></CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES><P /></CHAR_OUTCOMES>
+<CHAR_NOTES><P /></CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Kosaka-2014">
+<CHAR_METHODS><P /></CHAR_METHODS>
+<CHAR_PARTICIPANTS><P /></CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS><P /></CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES><P /></CHAR_OUTCOMES>
+<CHAR_NOTES><P /></CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS />
+<SOF_TABLES />
+<ADDITIONAL_TABLES />
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<TESTS>
+<TEST ID="TST-001" NO="1" STUDIES="1" TOTAL="182">
+<NAME>POD:3 DFA &gt; 600 IU/L</NAME>
+<FULL_NAME>post operative day 3 drain fluid amylase</FULL_NAME>
+<DESCRIPTION />
+<TEST_DATA>
+<TEST_DATA_ENTRY FN="4" FP="41" SENSITIVITY="0.8620689655172413" SENS_CI_END="0.9611050835971175" SENS_CI_START="0.6833590310195397" SPECIFICITY="0.7320261437908496" SPEC_CI_END="0.8003324184542389" SPEC_CI_START="0.654502968382991" STUDY_ID="STD-Araki-2012" TN="112" TP="25" />
+</TEST_DATA>
+</TEST>
+<TEST ID="TST-002" NO="2" STUDIES="1" TOTAL="65">
+<NAME>POD:3 to 5 DFA &gt; 3 times serum amylase</NAME>
+<FULL_NAME>post operative day 3-5 drain fluid amylase 3 times normal limit</FULL_NAME>
+<DESCRIPTION />
+<TEST_DATA>
+<TEST_DATA_ENTRY FN="3" FP="11" SENSITIVITY="0.7857142857142857" SENS_CI_END="0.9534205027988979" SENS_CI_START="0.49202418327331554" SPECIFICITY="0.7843137254901961" SPEC_CI_END="0.8871095320757697" SPEC_CI_START="0.6467860352759267" STUDY_ID="STD-Facy-2012" TN="40" TP="11" />
+</TEST_DATA>
+</TEST>
+<TEST ID="TST-003" NO="3" STUDIES="1" TOTAL="100">
+<NAME>POD:4 DFA &gt; 647 U/L</NAME>
+<FULL_NAME>post operative day 4 drain fluid amylase</FULL_NAME>
+<DESCRIPTION />
+<TEST_DATA>
+<TEST_DATA_ENTRY FN="9" FP="6" SENSITIVITY="0.71875" SENS_CI_END="0.8625429570674896" SENS_CI_START="0.5325291007757187" SPECIFICITY="0.9117647058823529" SPEC_CI_END="0.9669275844798367" SPEC_CI_START="0.8177771428052116" STUDY_ID="STD-Kosaka-2014" TN="62" TP="23" />
+</TEST_DATA>
+</TEST>
+<TEST ID="TST-004" NO="4" STUDIES="1" TOTAL="50">
+<NAME>POD:5 DFA &gt; 3 times serum amylase</NAME>
+<FULL_NAME>post operative day 5 drain fluid amylase</FULL_NAME>
+<DESCRIPTION />
+<TEST_DATA>
+<TEST_DATA_ENTRY FN="0" FP="3" SENSITIVITY="1.0" SENS_CI_END="1.0" SENS_CI_START="0.2924017906188965" SPECIFICITY="0.9361702127659575" SPEC_CI_END="0.9866386575901763" SPEC_CI_START="0.8246079708667511" STUDY_ID="STD-Kong-2008" TN="44" TP="3" />
+</TEST_DATA>
+</TEST>
+<TEST ID="TST-005" NO="5" STUDIES="1" TOTAL="471">
+<NAME>POD:5 DFA &gt; 4000 U/L</NAME>
+<FULL_NAME>post operative day 5 drain fluid amylase</FULL_NAME>
+<DESCRIPTION />
+<TEST_DATA>
+<TEST_DATA_ENTRY FN="9" FP="3" SENSITIVITY="0.75" SENS_CI_END="0.8787970542907715" SENS_CI_START="0.5779706239700317" SPECIFICITY="0.993103448275862" SPEC_CI_END="0.9985751448006466" SPEC_CI_START="0.9799781010068696" STUDY_ID="STD-El-Nakeeb-2013" TN="432" TP="27" />
+</TEST_DATA>
+</TEST>
+</TESTS>
+<COVARIATES>
+<COVARIATE CATEGORIES="Full text,Abstract" DEFAULT_VALUE="Full text" ID="COV-01" NO="1" STUDY_LEVEL="YES" TYPE="CATEGORICAL">
+<NAME>Full text or abstract</NAME>
+<FULL_NAME />
+<COVARIATE_DATA>
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Araki-2012" VALUE="Abstract" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-El-Nakeeb-2013" VALUE="Full text" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Facy-2012" VALUE="Full text" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Kong-2008" VALUE="Full text" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Kosaka-2014" VALUE="Full text" />
+</COVARIATE_DATA>
+</COVARIATE>
+<COVARIATE DEFAULT_VALUE="" ID="COV-02" NO="2" STUDY_LEVEL="YES" TYPE="CONTINUOUS">
+<NAME>Prevalence</NAME>
+<FULL_NAME />
+<COVARIATE_DATA>
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Araki-2012" VALUE="0.159340659" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-El-Nakeeb-2013" VALUE="0.076433" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Facy-2012" VALUE="0.215384615" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Kong-2008" VALUE="0.06" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Kosaka-2014" VALUE="0.32" />
+</COVARIATE_DATA>
+</COVARIATE>
+<COVARIATE CATEGORIES="low risk of bias,unclear or high risk of bias" DEFAULT_VALUE="" ID="COV-03" NO="3" STUDY_LEVEL="YES" TYPE="CATEGORICAL">
+<NAME>Low risk of bias or unclear/high risk of bias</NAME>
+<FULL_NAME />
+<COVARIATE_DATA>
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Araki-2012" VALUE="unclear or high risk of bias" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-El-Nakeeb-2013" VALUE="unclear or high risk of bias" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Facy-2012" VALUE="unclear or high risk of bias" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Kong-2008" VALUE="unclear or high risk of bias" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Kosaka-2014" VALUE="unclear or high risk of bias" />
+</COVARIATE_DATA>
+</COVARIATE>
+<COVARIATE CATEGORIES="prospective,retrospective,not stated" DEFAULT_VALUE="" ID="COV-04" NO="4" STUDY_LEVEL="YES" TYPE="CATEGORICAL">
+<NAME>Prospective studies or Retrospective studies or Not stated</NAME>
+<FULL_NAME />
+<COVARIATE_DATA>
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Araki-2012" VALUE="retrospective" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-El-Nakeeb-2013" VALUE="retrospective" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Facy-2012" VALUE="prospective" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Kong-2008" VALUE="prospective" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Kosaka-2014" VALUE="retrospective" />
+</COVARIATE_DATA>
+</COVARIATE>
+<COVARIATE CATEGORIES="pancreaticoduodenectomy,distal pancreatic resection,both,not stated" DEFAULT_VALUE="" ID="COV-05" NO="5" STUDY_LEVEL="YES" TYPE="CATEGORICAL">
+<NAME>Pancreatoduodenectomy or distal pancreatic resection or both or not stated</NAME>
+<FULL_NAME />
+<COVARIATE_DATA>
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Araki-2012" VALUE="pancreaticoduodenectomy" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-El-Nakeeb-2013" VALUE="pancreaticoduodenectomy" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Facy-2012" VALUE="both" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Kong-2008" VALUE="pancreaticoduodenectomy" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Kosaka-2014" VALUE="pancreaticoduodenectomy" />
+</COVARIATE_DATA>
+</COVARIATE>
+<COVARIATE CATEGORIES="cancer,benign,both,not stated" DEFAULT_VALUE="" ID="COV-06" NO="6" STUDY_LEVEL="YES" TYPE="CATEGORICAL">
+<NAME>Cancer or benign disease or both or not stated</NAME>
+<FULL_NAME />
+<COVARIATE_DATA>
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Araki-2012" VALUE="not stated" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-El-Nakeeb-2013" VALUE="both" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Facy-2012" VALUE="both" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Kong-2008" VALUE="both" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Kosaka-2014" VALUE="both" />
+</COVARIATE_DATA>
+</COVARIATE>
+<COVARIATE CATEGORIES="surgical confirmation in all patients,surgery and follow up,not specified" DEFAULT_VALUE="" ID="COV-07" NO="7" STUDY_LEVEL="YES" TYPE="CATEGORICAL">
+<NAME>Reference standard: Surgical confirmation in all patients or surgical confirmation and follow-up or not specified</NAME>
+<FULL_NAME />
+<COVARIATE_DATA>
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Araki-2012" VALUE="not specified" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-El-Nakeeb-2013" VALUE="not specified" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Facy-2012" VALUE="not specified" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Kong-2008" VALUE="not specified" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Kosaka-2014" VALUE="not specified" />
+</COVARIATE_DATA>
+</COVARIATE>
+<COVARIATE DEFAULT_VALUE="" ID="COV-08" NO="8" STUDY_LEVEL="YES" TYPE="CONTINUOUS">
+<NAME>Proportion of people undergoing pancreatoduodenectomy</NAME>
+<FULL_NAME />
+<COVARIATE_DATA>
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Araki-2012" VALUE="100.0" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-El-Nakeeb-2013" VALUE="100.0" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Facy-2012" VALUE="63.08" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Kong-2008" VALUE="100.0" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Kosaka-2014" VALUE="100.0" />
+</COVARIATE_DATA>
+</COVARIATE>
+<COVARIATE DEFAULT_VALUE="" ID="COV-09" NO="9" STUDY_LEVEL="YES" TYPE="CONTINUOUS">
+<NAME>Proportion of people with pancreatic cancer (adeno, IPMN, neuroendocrine)</NAME>
+<FULL_NAME />
+<COVARIATE_DATA>
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Araki-2012" VALUE="" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-El-Nakeeb-2013" VALUE="12.16" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Facy-2012" VALUE="13.85" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Kong-2008" VALUE="44.0" />
+<COVARIATE_DATA_ENTRY STUDY_ID="STD-Kosaka-2014" VALUE="52.0" />
+</COVARIATE_DATA>
+</COVARIATE>
+</COVARIATES>
+<ANALYSES>
+<ANALYSIS AXIS_OFFSET="NO" CI="CI95" CR_VALUE="CR95" EXTRA_SCALE="100" HETEROGENEITY_TEST="NO" ID="ANL-001" NO="1" PAIRED_DATA_ONLY="NO" PAIRED_LINE_TYPE="DOTTED" PR_VALUE="PR95" SCALE="EQUAL" SHOW_CI_ON_STUDY_POINTS="YES" SPEC_RANGE_HIGH="0.99" SPEC_RANGE_LOW="0.7" SROC_CURVE="NO" STUDY_POINTS="YES" SUBGROUP_ANALYSIS="NONE" SYMMETRY="SYMMETRIC" TESTS="TST-001 TST-002 TST-003 TST-004 TST-005" TYPE="MULTIPLE" WEIGHT="EQUAL">
+<NAME>Amylase in drain fluid</NAME>
+<SORT_ITEM SORT_ASCENDING="YES" SORT_BY="STUDY" />
+</ANALYSIS>
+</ANALYSES>
+</ANALYSES_AND_DATA>
+<FIGURES />
+<FEEDBACK />
+<APPENDICES />
+<EXTENSIONS />
+</COCHRANE_REVIEW>

@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COCHRANE_REVIEW TYPE="INTERVENTION" REVMAN_VERSION="5" ID="000000000000000000" VERSION_NO="2.0" STAGE="R" STATUS="A">
+<COVER_SHEET>
+<TITLE>Comparison of a therapeutic-only versus prophylactic platelet transfusion policy for people with congenital or acquired bone marrow failure disorders [Data only. When citing this record quote "Cochrane Database of Systematic Reviews 2018, Issue 5".]</TITLE>
+<CONTACT>
+<PERSON ID="28121937359491249960090729151941" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Lise</FIRST_NAME>
+<MIDDLE_INITIALS>J</MIDDLE_INITIALS>
+<LAST_NAME>Estcourt</LAST_NAME>
+<SUFFIX />
+<POSITION />
+<EMAIL_1>lise.estcourt@nhsbt.nhs.uk</EMAIL_1>
+<EMAIL_2>lise.estcourt@ndcls.ox.ac.uk</EMAIL_2>
+<URL />
+<MOBILE_PHONE>07734 283875</MOBILE_PHONE>
+<ADDRESS>
+<DEPARTMENT>Haematology/Transfusion Medicine</DEPARTMENT>
+<ORGANISATION>NHS Blood and Transplant</ORGANISATION>
+<ADDRESS_1>Level 2, John Radcliffe Hospital</ADDRESS_1>
+<ADDRESS_2>Headington</ADDRESS_2>
+<CITY>Oxford</CITY>
+<ZIP>OX3 9BQ</ZIP>
+<REGION />
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1 />
+<PHONE_2 />
+<FAX_1 />
+<FAX_2 />
+</ADDRESS>
+<FOOTNOTE />
+</PERSON>
+</CONTACT>
+<CREATORS>
+<PERSON ID="13050" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Reem</FIRST_NAME>
+<MIDDLE_INITIALS />
+<LAST_NAME>Malouf</LAST_NAME>
+<SUFFIX />
+<POSITION>Systematic Reviewer</POSITION>
+<EMAIL_1>reem.malouf@npeu.ox.ac.uk</EMAIL_1>
+<EMAIL_2 />
+<URL />
+<MOBILE_PHONE />
+<ADDRESS>
+<DEPARTMENT>National Perinatal Epidemiology Unit (NPEU)</DEPARTMENT>
+<ORGANISATION>University of Oxford</ORGANISATION>
+<ADDRESS_1>Old Road Campus</ADDRESS_1>
+<ADDRESS_2 />
+<CITY>Oxford</CITY>
+<ZIP>OX3 7LF</ZIP>
+<REGION />
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>01865 289700</PHONE_1>
+<PHONE_2 />
+<FAX_1>01865 289701</FAX_1>
+<FAX_2 />
+</ADDRESS>
+<FOOTNOTE />
+</PERSON>
+<PERSON ID="z1510231250392962839152507577263" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Asma</FIRST_NAME>
+<MIDDLE_INITIALS />
+<LAST_NAME>Ashraf</LAST_NAME>
+<SUFFIX>FRACP; FRCPA</SUFFIX>
+<POSITION>Senior Registrar; Student of M.Phil</POSITION>
+<EMAIL_1>asma.ashraf@uon.edu.au</EMAIL_1>
+<EMAIL_2>asmashraf@live.com</EMAIL_2>
+<URL />
+<MOBILE_PHONE />
+<ADDRESS>
+<DEPARTMENT>Haematology</DEPARTMENT>
+<ORGANISATION>Calvary Mater Hospital; University of Newcastle</ORGANISATION>
+<ADDRESS_1>Crn Edith street &amp; Platt street</ADDRESS_1>
+<ADDRESS_2>Level 4 New Medical building</ADDRESS_2>
+<CITY>Waratah</CITY>
+<ZIP>2298</ZIP>
+<REGION>NSW</REGION>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<PHONE_1>+61249211212</PHONE_1>
+<PHONE_2 />
+<FAX_1 />
+<FAX_2 />
+</ADDRESS>
+<FOOTNOTE />
+</PERSON>
+<PERSON ID="z1505131215232778944487984324652" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Andreas</FIRST_NAME>
+<MIDDLE_INITIALS>V</MIDDLE_INITIALS>
+<LAST_NAME>Hadjinicolaou</LAST_NAME>
+<SUFFIX />
+<POSITION>Clinical Research Fellow</POSITION>
+<EMAIL_1>Andreas.hadjinicolaou@gmail.com</EMAIL_1>
+<EMAIL_2 />
+<URL />
+<MOBILE_PHONE />
+<ADDRESS>
+<DEPARTMENT>Human Immunology Unit, Institute of Molecular Medicine, Radcliffe Department of Medicine</DEPARTMENT>
+<ORGANISATION>University of Oxford</ORGANISATION>
+<ADDRESS_1>Merton College, Merton Street</ADDRESS_1>
+<ADDRESS_2 />
+<CITY>Oxford</CITY>
+<ZIP>OX1 4JD</ZIP>
+<REGION />
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>07588118079</PHONE_1>
+<PHONE_2 />
+<FAX_1 />
+<FAX_2 />
+</ADDRESS>
+<FOOTNOTE />
+</PERSON>
+<PERSON ID="13392" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Carolyn</FIRST_NAME>
+<MIDDLE_INITIALS />
+<LAST_NAME>Doree</LAST_NAME>
+<SUFFIX />
+<POSITION>Information Specialist</POSITION>
+<EMAIL_1>carolyn.doree@ndcls.ox.ac.uk</EMAIL_1>
+<EMAIL_2 />
+<URL />
+<MOBILE_PHONE />
+<ADDRESS>
+<DEPARTMENT>Systematic Review Initiative</DEPARTMENT>
+<ORGANISATION>NHS Blood and Transplant</ORGANISATION>
+<ADDRESS_1>John Radcliffe Hospital</ADDRESS_1>
+<ADDRESS_2 />
+<CITY>Oxford</CITY>
+<ZIP>OX3 9BQ</ZIP>
+<REGION />
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1 />
+<PHONE_2 />
+<FAX_1 />
+<FAX_2 />
+</ADDRESS>
+<FOOTNOTE />
+</PERSON>
+<PERSON ID="7092" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Sally</FIRST_NAME>
+<MIDDLE_INITIALS />
+<LAST_NAME>Hopewell</LAST_NAME>
+<SUFFIX />
+<POSITION>Associate Professor</POSITION>
+<EMAIL_1>sally.hopewell@csm.ox.ac.uk</EMAIL_1>
+<EMAIL_2 />
+<URL />
+<MOBILE_PHONE />
+<ADDRESS>
+<DEPARTMENT>Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences (NDORMS)</DEPARTMENT>
+<ORGANISATION>University of Oxford</ORGANISATION>
+<ADDRESS_1>Botnar Research Centre, Windmill Road</ADDRESS_1>
+<ADDRESS_2 />
+<CITY>Oxford</CITY>
+<ZIP>OX3 7LD</ZIP>
+<REGION>Oxfordshire</REGION>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 1865 223458</PHONE_1>
+<PHONE_2 />
+<FAX_1 />
+<FAX_2 />
+</ADDRESS>
+<FOOTNOTE />
+</PERSON>
+<PERSON ID="28121937359491249960090729151941" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Lise</FIRST_NAME>
+<MIDDLE_INITIALS>J</MIDDLE_INITIALS>
+<LAST_NAME>Estcourt</LAST_NAME>
+<SUFFIX />
+<POSITION />
+<EMAIL_1>lise.estcourt@nhsbt.nhs.uk</EMAIL_1>
+<EMAIL_2>lise.estcourt@ndcls.ox.ac.uk</EMAIL_2>
+<URL />
+<MOBILE_PHONE>07734 283875</MOBILE_PHONE>
+<ADDRESS>
+<DEPARTMENT>Haematology/Transfusion Medicine</DEPARTMENT>
+<ORGANISATION>NHS Blood and Transplant</ORGANISATION>
+<ADDRESS_1>Level 2, John Radcliffe Hospital</ADDRESS_1>
+<ADDRESS_2>Headington</ADDRESS_2>
+<CITY>Oxford</CITY>
+<ZIP>OX3 9BQ</ZIP>
+<REGION />
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1 />
+<PHONE_2 />
+<FAX_1 />
+<FAX_2 />
+</ADDRESS>
+<FOOTNOTE />
+</PERSON>
+</CREATORS>
+<DATES>
+<UP_TO_DATE>
+<DATE DAY="" MONTH="" YEAR="" />
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="" MONTH="" YEAR="" />
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="" MONTH="" YEAR="" />
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="" YEAR="" />
+<REVIEW_PUBLISHED ISSUE="" YEAR="" />
+<LAST_CITATION_ISSUE ISSUE="" YEAR="" />
+</DATES>
+<WHATS_NEW />
+<HISTORY />
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES />
+<EXTERNAL_SOURCES />
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO" />
+<KEYWORDS />
+</COVER_SHEET>
+<MAIN_TEXT>
+<SUMMARY>
+<TITLE>In people with bone marrow disorders, a comparison of giving platelet transfusions only when bleeding occurs to also giving them to prevent bleeding</TITLE>
+<SUMMARY_BODY>
+<P><B>Review aim</B></P>
+<P>In people with bone marrow disorders bleeding can be a problem due to a low platelet count, or because the platelets do not work properly, or both. Platelet transfusions can be given when bleeding occurs in order to stop the bleeding, or before bleeding occurs in order to prevent it.</P>
+<P>In this review we investigated whether transfusions should be given only when bleeding occurs, or in advance as a preventative measure. Our target population was people of any age with bone marrow disorders.</P>
+<P><B>Background</B></P>
+<P>The bone marrow is where many types of blood cells are produced. Red blood cells are needed to bring oxygen to all parts of the body; white blood cells fight against infection; and platelets in the blood help to form clots and prevent bleeding. Bone marrow failure can have different causes and can happen at birth or later in life, and may result in too few of any or all of the three types of blood cells in the body.</P>
+<P>Too few platelets can put a person at risk of serious or life-threatening bleeding. Platelet transfusions have been commonly used to prevent or treat bleeding in people with bone marrow disorders. However, there are risks involved with regular use of platelet transfusions, such as transfusion reactions and transfusion-transmitted infections.</P>
+<P>It is currently unclear if the best transfusion policy is to give platelet transfusions only when bleeding occurs or to give them to prevent bleeding.</P>
+<P><B>Study characteristics</B></P>
+<P>We searched scientific databases for clinical studies (randomised controlled trials and well-designed non-randomised studies) of people of any age with bone marrow disorders and a low platelet count. The evidence is current to 12 October 2017. One study was eligible for inclusion in the review. This study was stopped after recruiting only nine participants because it had taken three years to recruit the nine participants (the study had planned to recruit 60 participants in two years). We found no ongoing studies.</P>
+<P><B>Key results</B></P>
+<P>The only included study in this review did not report any outcomes.</P>
+<P><B>Conclusion</B></P>
+<P>We found no evidence to help us decide whether giving platelet transfusions to treat bleeding is as good as giving platelet transfusions when the platelet count is below a prespecified level. There is an urgent need for good-quality studies to answer the questions of this review.</P>
+<P><B>Quality of evidence</B></P>
+<P>We did not assess the quality of the evidence because no data were available from the one included study.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P />
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P />
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P />
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P />
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P />
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P />
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P />
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY>
+<BACKGROUND>
+<P />
+<CONDITION>
+<P />
+</CONDITION>
+<INTERVENTION>
+<P />
+</INTERVENTION>
+<THEORY>
+<P />
+</THEORY>
+<IMPORTANCE>
+<P />
+</IMPORTANCE>
+</BACKGROUND>
+<OBJECTIVES>
+<P />
+</OBJECTIVES>
+<METHODS>
+<SELECTION_CRITERIA>
+<CRIT_STUDIES>
+<P />
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P />
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P />
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES>
+<P />
+<CRIT_OUTCOMES_PRIMARY>
+<P />
+</CRIT_OUTCOMES_PRIMARY>
+<CRIT_OUTCOMES_SECONDARY>
+<P />
+</CRIT_OUTCOMES_SECONDARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS>
+<P />
+<ELECTRONIC_SEARCHES>
+<P />
+</ELECTRONIC_SEARCHES>
+<OTHER_SEARCHES>
+<P />
+</OTHER_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION>
+<P />
+<STUDY_SELECTION>
+<P />
+</STUDY_SELECTION>
+<DATA_EXTRACTION>
+<P />
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT>
+<P />
+</QUALITY_ASSESSMENT>
+<EFFECT_MEASURES>
+<P />
+</EFFECT_MEASURES>
+<UNIT_OF_ANALYSIS>
+<P />
+</UNIT_OF_ANALYSIS>
+<MISSING_DATA>
+<P />
+</MISSING_DATA>
+<HETEROGENEITY_ASSESSMENT>
+<P />
+</HETEROGENEITY_ASSESSMENT>
+<BIAS_ASSESSMENT>
+<P />
+</BIAS_ASSESSMENT>
+<DATA_SYNTHESIS>
+<P />
+</DATA_SYNTHESIS>
+<SUBGROUP_ANALYSIS>
+<P />
+</SUBGROUP_ANALYSIS>
+<SENSITIVITY_ANALYSIS>
+<P />
+</SENSITIVITY_ANALYSIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS>
+<STUDY_DESCRIPTION>
+<P />
+<SEARCH_RESULTS>
+<P />
+</SEARCH_RESULTS>
+<INCLUDED_STUDIES_DESCR>
+<P />
+</INCLUDED_STUDIES_DESCR>
+<EXCLUDED_STUDIES_DESCR>
+<P />
+</EXCLUDED_STUDIES_DESCR>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P />
+<ALLOCATION>
+<P />
+</ALLOCATION>
+<BLINDING>
+<P />
+</BLINDING>
+<EXCLUSIONS>
+<P />
+</EXCLUSIONS>
+<SELECTIVE_REPORTING>
+<P />
+</SELECTIVE_REPORTING>
+<OTHER_BIAS_SOURCES>
+<P />
+</OTHER_BIAS_SOURCES>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS>
+<P />
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P />
+<SUMMARY_OF_RESULTS>
+<P />
+</SUMMARY_OF_RESULTS>
+<APPLICABILITY_OF_FINDINGS>
+<P />
+</APPLICABILITY_OF_FINDINGS>
+<QUALITY_OF_EVIDENCE>
+<P />
+</QUALITY_OF_EVIDENCE>
+<POTENTIAL_BIASES>
+<P />
+</POTENTIAL_BIASES>
+<AGREEMENT>
+<P />
+</AGREEMENT>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P />
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P />
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P />
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P />
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P />
+</CONTRIBUTIONS>
+<PRO_REV_DIFF>
+<P />
+</PRO_REV_DIFF>
+<PUBLIC_NOTES>
+<P />
+</PUBLIC_NOTES>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES>
+<STUDIES>
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-NCT01615146" NAME="NCT01615146" YEAR="2015">
+<IDENTIFIERS />
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES />
+<AWAITING_STUDIES />
+<ONGOING_STUDIES />
+</STUDIES>
+<OTHER_REFERENCES>
+<ADDITIONAL_REFERENCES />
+<OTHER_VERSIONS_REFERENCES />
+<PENDING_REFERENCES />
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES>
+<CHARACTERISTICS_OF_INCLUDED_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR STUDY_ID="STD-NCT01615146">
+<CHAR_METHODS><P /></CHAR_METHODS>
+<CHAR_PARTICIPANTS><P /></CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS><P /></CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES><P /></CHAR_OUTCOMES>
+<CHAR_NOTES><P /></CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES>
+<P />
+</FOOTNOTES>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS />
+<SOF_TABLES />
+<ADDITIONAL_TABLES />
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+</ANALYSES_AND_DATA>
+<FIGURES />
+<FEEDBACK />
+<APPENDICES />
+<EXTENSIONS />
+</COCHRANE_REVIEW>

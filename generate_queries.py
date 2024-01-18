@@ -116,7 +116,7 @@ def generate_query_mistral(input, model = "mistral_tiny", seed=11777768):
   messages = [
     ChatMessage(role="user", content=input)
   ]
-
+  print(input)
 
   completion = client.chat(
     model=model,
@@ -130,8 +130,8 @@ def generate_query_mistral(input, model = "mistral_tiny", seed=11777768):
 
 
 def main(CSMeD=False, Seed=False, models = ["gpt-3.5-turbo-1106"]):
-
-  seeds = [2426957, 3007195, 4187709, 4366962, 5682402, 5915503, 7486832, 8486927, 8701227, 9143138]
+# 3007195, 9143138 #created an error for mistral
+  seeds = [2426957, 4187709, 4366962, 5682402, 5915503, 7486832, 8486927, 8701227]
   #"gpt-4-1106-preview"]:
   questions = ['q1','q2','q3','q4','q5']
 

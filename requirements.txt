@@ -3,3 +3,4 @@ tqdm~=4.66.1
 openai~=1.7.1
 biopython~=1.83
 ranx~=0.3.19
+streamlit~=1.30.0

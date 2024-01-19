@@ -6,32 +6,18 @@ import pandas as pd
 from tqdm import tqdm
 
 
-def split_filename(filename: str) -> tuple[str, str, str, str]:
-    """Splits a filename into:
-    'collection'_'model'_seed_'query-type'.trec
-
-    :param filename:
-    :return:
-    """
-    parts = filename.split("_")
-    collection = parts[0]
-    model = parts[1]
-    seed = parts[2]
-    query_type = "_".join(parts[3:]).split(".")[0]
-    return collection, model, seed, query_type
-
 def run_trec_eval(
-        trec_eval: str, qrels_file: str, run_file: str, metrics: list[str]
+    trec_eval: str, qrels_file: str, run_file: str, metrics: list[str]
 ) -> dict:
     result_dict = {}
     command = (
-            trec_eval
-            + " "
-            + " ".join([f"-m {metric}" for metric in metrics])
-            + " "
-            + qrels_file
-            + " "
-            + run_file
+        trec_eval
+        + " "
+        + " ".join([f"-m {metric}" for metric in metrics])
+        + " "
+        + qrels_file
+        + " "
+        + run_file
     )
     results = Popen(
         command, stdout=PIPE, stderr=PIPE, universal_newlines=True, shell=True
@@ -168,9 +154,7 @@ if __name__ == "__main__":
                 output_file_dir = os.path.join(args.output_path, relative_path)
                 if not os.path.exists(output_file_dir):
                     os.makedirs(output_file_dir)
-                output_file = os.path.join(
-                    output_file_dir, f"{filename[:-5]}.csv"
-                )
+                output_file = os.path.join(output_file_dir, f"{filename[:-5]}.csv")
                 run_file_path = os.path.join(dirpath, filename)
 
                 evaluate(

@@ -1,3 +1,4 @@
+import argparse
 import os
 from subprocess import Popen, PIPE
 
@@ -5,18 +6,32 @@ import pandas as pd
 from tqdm import tqdm
 
 
+def split_filename(filename: str) -> tuple[str, str, str, str]:
+    """Splits a filename into:
+    'collection'_'model'_seed_'query-type'.trec
+
+    :param filename:
+    :return:
+    """
+    parts = filename.split("_")
+    collection = parts[0]
+    model = parts[1]
+    seed = parts[2]
+    query_type = "_".join(parts[3:]).split(".")[0]
+    return collection, model, seed, query_type
+
 def run_trec_eval(
-    trec_eval: str, qrels_file: str, run_file: str, metrics: list[str]
+        trec_eval: str, qrels_file: str, run_file: str, metrics: list[str]
 ) -> dict:
     result_dict = {}
     command = (
-        trec_eval
-        + " "
-        + " ".join([f"-m {metric}" for metric in metrics])
-        + " "
-        + qrels_file
-        + " "
-        + run_file
+            trec_eval
+            + " "
+            + " ".join([f"-m {metric}" for metric in metrics])
+            + " "
+            + qrels_file
+            + " "
+            + run_file
     )
     results = Popen(
         command, stdout=PIPE, stderr=PIPE, universal_newlines=True, shell=True
@@ -125,11 +140,41 @@ def evaluate(run_file: str, qrels_file: str, output_file: str):
 
 
 if __name__ == "__main__":
-    qrels_file = "../../input/Seed/seed.qrels"
-    output_path = "../../data/evaluated/seed/"
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--run_folder",
+        type=str,
+        default="../../data/2-runs/seed/",
+        help="Input folder path",
+    )
+    parser.add_argument(
+        "--qrels_file",
+        type=str,
+        default="../../data/0-qrels/seed.qrels",
+        help="Qrels file path",
+    )
+    parser.add_argument(
+        "--output_path",
+        type=str,
+        default="../../data/3-evaluated/seed/",
+        help="Output folder path",
+    )
+    args = parser.parse_args()
 
-    for run_file in os.listdir("../../output/seed/"):
-        if run_file.endswith(".trec"):
-            output_file = f"{output_path}/{run_file[:-5]}.csv"
-            run_file = os.path.join("../../output/seed/", run_file)
-            evaluate(run_file, qrels_file, output_file)
+    for dirpath, _, filenames in os.walk(args.run_folder):
+        relative_path = os.path.relpath(dirpath, args.run_folder)
+        for filename in filenames:
+            if filename.endswith(".trec"):
+                output_file_dir = os.path.join(args.output_path, relative_path)
+                if not os.path.exists(output_file_dir):
+                    os.makedirs(output_file_dir)
+                output_file = os.path.join(
+                    output_file_dir, f"{filename[:-5]}.csv"
+                )
+                run_file_path = os.path.join(dirpath, filename)
+
+                evaluate(
+                    run_file=run_file_path,
+                    qrels_file=args.qrels_file,
+                    output_file=output_file,
+                )

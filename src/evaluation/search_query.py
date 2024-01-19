@@ -8,7 +8,7 @@ from tqdm import tqdm
 
 
 def temporal_submission(
-        query: str, email: str, mindate: str, maxdate: str
+    query: str, email: str, mindate: str, maxdate: str
 ) -> tuple[int, list[str]]:
     """
     Return the number of results and the list of IDs for a given query and date range.
@@ -58,12 +58,20 @@ def safe_get_value(_dictionary: dict, column_name: str, default_value: str = "")
 
 
 def process_queries(
-        df: pd.DataFrame, collection_stats: pd.DataFrame, queries, default_dates, email: str,
-        verbose: bool = False
+    df: pd.DataFrame,
+    collection_stats: pd.DataFrame,
+    queries,
+    default_dates,
+    email: str,
+    verbose: bool = False,
 ) -> dict[str, dict[str, dict[str, int]]]:
     output_dicts = {query: {} for query in queries}
 
-    for index, row in tqdm(df.iterrows(), total=len(df), desc=f"Processing topics for {len(queries)} queries"):
+    for index, row in tqdm(
+        df.iterrows(),
+        total=len(df),
+        desc=f"Processing topics for {len(queries)} queries",
+    ):
         collection_stats_row = collection_stats[collection_stats["id"] == row["id"]]
         date_from = format_date(collection_stats_row["Date_from"].to_list()[0])
         if not date_from:
@@ -99,7 +107,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--queries_file",
         type=str,
-        default="../../data/1-queries/seed/Seed_gpt-3.5-turbo-1106_3007195.csv",
+        default="../../data/1-queries/seed/Seed_gpt-3.5-turbo-1106_2426957.csv",
         help="Input file name",
     )
     parser.add_argument(
@@ -152,11 +160,12 @@ if __name__ == "__main__":
     out_filename = f"{run_name}.json"
 
     output_dicts = process_queries(
-        df, collection_stats,
+        df,
+        collection_stats,
         default_dates=args.dates,
         queries=queries,
         email=args.email,
-        verbose=False
+        verbose=False,
     )
 
     runs = [

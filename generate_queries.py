@@ -1,3 +1,4 @@
+from mistralai.exceptions import MistralException
 from openai import OpenAI
 import os
 import json
@@ -28,22 +29,22 @@ def generate_prompt_gpt(type="q1", title="", example_title="", example_query="")
   system_input = ""
   user_input = ""
   if type == "q1":
-    user_input = f"For a systematic review titled “{title}”, can you generate a systematic review Boolean query to find all included studies on PubMed for the review topic? Structure the output as a JSON with the field boolean_query."
+    user_input = f"For a systematic review titled “{title}”, can you generate a systematic review Boolean query to find all included studies on PubMed for the review topic? Structure the output as a JSON with the field boolean_query and create the boolean query without filtering based on the year."
   elif type == "q2":
     system_input = "You are an information specialist who develops Boolean queries for systematic reviews. You have extensive experience developing highly effective queries for searching the medical literature. Your specialty is developing queries that retrieve as few irrelevant documents as possible and retrieve all relevant documents for your information need. "
-    user_input = f"Now you have your information need to conduct research on {title}. Please construct a highly effective systematic review Boolean query that can best serve your information need. Structure the output as a JSON with the field boolean_query."
+    user_input = f"Now you have your information need to conduct research on {title}. Please construct a highly effective systematic review Boolean query that can best serve your information need. Structure the output as a JSON with the field boolean_query and create the boolean query without filtering based on the year."
   elif type == "q3":
-    user_input = f"Imagine you are an expert systematic review information specialist; now you are given a systematic review research topic, with the topic title “{title}”. Your task is to generate a highly effective systematic review Boolean query to search on PubMed (refer to the professionally made ones); the query needs to be as inclusive as possible so that it can retrieve all the relevant studies that can be included in the research topic; on the other hand, the query needs to retrieve fewer irrelevant studies so that researchers can spend less time judging the retrieved documents. Structure the output as a JSON with the field boolean_query"
+    user_input = f"Imagine you are an expert systematic review information specialist; now you are given a systematic review research topic, with the topic title “{title}”. Your task is to generate a highly effective systematic review Boolean query to search on PubMed (refer to the professionally made ones); the query needs to be as inclusive as possible so that it can retrieve all the relevant studies that can be included in the research topic; on the other hand, the query needs to retrieve fewer irrelevant studies so that researchers can spend less time judging the retrieved documents. Structure the output as a JSON with the field boolean_query  and create the boolean query without filtering based on the year."
   elif type == "q4":
     system_input = f"You are an information specialist who develops Boolean queries for systematic reviews. You have extensive experience developing highly effective queries for searching the medical literature. Your specialty is developing queries that retrieve as few irrelevant documents as possible and retrieve all relevant documents for your information need. You are able to take an information need such as: \“{example_title}\” and generate valid pubmed queries such as: \“{example_query}\"."
-    user_input = f"Now you have the information need to conduct research on “{title}”, please generate a highly effective systematic review Boolean query for the information need. Structure the output as a JSON with the field boolean_query."
+    user_input = f"Now you have the information need to conduct research on “{title}”, please generate a highly effective systematic review Boolean query for the information need. Structure the output as a JSON with the field boolean_query and create the boolean query without filtering based on the year."
   elif type == "q5":
     system_input = f"You are an information specialist who develops Boolean queries for systematic reviews. You have extensive experience developing highly effective queries for searching the medical literature. Your specialty is developing queries that retrieve as few irrelevant documents as possible and retrieve all relevant documents for your information need. A professional information specialist will extract PICO elements from information needs in a common practice in constructing a systematic review Boolean query. PICO means Patient/ Problem, Intervention, Comparison and Outcome. PICO is a format for developing a good clinical research question prior to starting one’s research. It is a mnemonic used to describe the four elements of a sound clinical foreground question. You are able to take an information need such as: \“{example_title}\" and you generate valid pubmed queries such as: \“{example_query}\"."
-    user_input = f" Now you have your information need to conduct research on “{title}”. First, extract PICO elements from the information needs and construct a highly effective systematic review Boolean query that can best serve your information need. Structure the output as a JSON with the field boolean_query."
+    user_input = f" Now you have your information need to conduct research on “{title}”. First, extract PICO elements from the information needs and construct a highly effective systematic review Boolean query that can best serve your information need. Structure the output as a JSON with the field boolean_query and create the boolean query without filtering based on the year."
 
   return [system_input,user_input]
 
-def generate_prompt_mistral(type="q1", title="", example_title="", example_query=""):
+def generate_prompt_mistral(type="q1", title="", example_title="", example_query="", initial_query=""):
   system_input = ""
   user_input = ""
   if type == "q1":
@@ -60,6 +61,10 @@ def generate_prompt_mistral(type="q1", title="", example_title="", example_query
   elif type == "q5":
     system_input = f"<s> [INST] You are an information specialist who develops Boolean queries for systematic reviews. You have extensive experience developing highly effective queries for searching the medical literature. Your specialty is developing queries that retrieve as few irrelevant documents as possible and retrieve all relevant documents for your information need. A professional information specialist will extract PICO elements from information needs in a common practice in constructing a systematic review Boolean query. PICO means Patient/ Problem, Intervention, Comparison and Outcome. PICO is a format for developing a good clinical research question prior to starting one’s research. It is a mnemonic used to describe the four elements of a sound clinical foreground question. You are able to take an information need such as: \“{example_title}\" and you generate valid pubmed queries such as: [/INST]\“{example_query}\"</s>"
     user_input = system_input + f"[INST] Now you have your information need to conduct research on “{title}”. First, extract PICO elements from the information needs and construct a highly effective systematic review Boolean query that can best serve your information need. Just generate the Boolean Query without explanations and without filtering based on the year[[/INST]"
+  elif type == "q6":
+    user_input = f'<s>[INST]For a systematic review seed Boolean query: "{initial_query}", This query retrieves too many irrelevant documents and too few relevant documents about the information need: “{title}”, Please correct this query so that it can retrieve fewer irrelevant documents and more relevant documents [/INST]<s>'
+  #elif type == "q7":
+    #user_input = f'For a systematic review seed Boolean query: “{example_initial_query}", This query retrieves too many irrelevant documents and too few relevant documents about the information need: “{example_title}”, therefore it should be corrected to: “{example_refined_query}”. Now your task is to correct a systematic review Boolean query: "{initial_query}" for information need “{title}”, so it can retrieve fewer irrelevant documents and more relevant documents.'
 
   return user_input
 
@@ -87,7 +92,7 @@ def generate_query_gpt(input, model = "gpt-3.5-turbo", seed=11777768):
   client = OpenAI()
   # models = ["gpt-3.5-turbo", "gpt-4"]
   completion = client.chat.completions.create(
-    model="gpt-3.5-turbo-1106",
+    model=model,
     #model="gpt-4",
     seed=11777768,
     response_format= {"type": "json_object"},
@@ -116,22 +121,25 @@ def generate_query_mistral(input, model = "mistral_tiny", seed=11777768):
   messages = [
     ChatMessage(role="user", content=input)
   ]
-  print(input)
 
-  completion = client.chat(
-    model=model,
-    messages=messages,
-    random_seed=seed
-  )
+  try:
+    completion = client.chat(
+      model=model,
+      messages=messages,
+      random_seed=seed
+    )
+    answer = completion.choices[0].message.content.replace("\n", " ")
+  except MistralException as e:
+    answer = f"Error: {e}"
 
-  answer = completion.choices[0].message.content
+  #answer = completion.choices[0].message.content.replace("\n", " ")
   print(answer)
   return answer
 
 
 def main(CSMeD=False, Seed=False, models = ["gpt-3.5-turbo-1106"]):
-# 3007195, 9143138 #created an error for mistral
-  seeds = [2426957, 4187709, 4366962, 5682402, 5915503, 7486832, 8486927, 8701227]
+#  #created an error for mistral
+  seeds = [2426957]#, 3007195, 9143138, 4187709, 4366962, 5682402, 5915503, 7486832, 8486927, 8701227]
   #"gpt-4-1106-preview"]:
   questions = ['q1','q2','q3','q4','q5']
 
@@ -153,7 +161,6 @@ def main(CSMeD=False, Seed=False, models = ["gpt-3.5-turbo-1106"]):
 
   if Seed:
     df = read_Seed()
-
     for seed in seeds:
       for model in models:
         query_dataframe = create_querying_dataset(df, dataset="Seed", model=model, questions=questions)
@@ -161,7 +168,6 @@ def main(CSMeD=False, Seed=False, models = ["gpt-3.5-turbo-1106"]):
           if "mistral" in model:
             query_dataframe[f'{question}_answer'] = query_dataframe.apply(
               lambda row: generate_query_mistral(row[question], model=model, seed=seed), axis=1)
-            break
           else:
             query_dataframe[f'{question}_answer'] = query_dataframe.apply(lambda row: generate_query_gpt(row[question],model=model, seed= seed), axis=1)
           print(f"{question} finished")
@@ -175,5 +181,6 @@ if __name__ == "__main__":
     #parser.add_argument("--email", type=str, default="tester@gmail.com")
     #parser.add_argument("--out_folder", type=str, default="output/")
     args = parser.parse_args()
-    main(False, True, models=['mistral-tiny'])
+    #main(False, True, models=['gpt-3.5-turbo-1106'])
+    main(False, True, models=['gpt-4-1106-preview'])
 

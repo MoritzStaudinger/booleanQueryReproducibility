@@ -42,7 +42,7 @@ if __name__ == '__main__':
 
             tar_collection.append({
                 'id': filename,
-                'title': title_stub[7:]
+                'text': title_stub[7:]
             })
 
     combined_collection = seed_collection + tar_collection

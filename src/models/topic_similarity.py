@@ -69,8 +69,7 @@ if __name__ == '__main__':
             return_docs=False,  # Default value, return the text of the documents
             cutoff=10,  # Default value, number of results to return
         )
-        # cast-> # TypeError: Object of type float32 is not JSON serializable
-        top_similar[item['id']] = {str(result['id']): float(result['score']) for result in results}
+        top_similar[item['id']] = {_id: float(score) for _id, score in results.items()}
 
     with open('../../data/0-qrels/seed-topic-similarity.json', 'w') as f:
         json.dump(top_similar, f)

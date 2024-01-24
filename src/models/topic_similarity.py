@@ -61,7 +61,7 @@ if __name__ == '__main__':
         results = dr.search(
             query=item['text'],  # What to search for
             return_docs=False,  # Default value, return the text of the documents
-            cutoff=10,  # Default value, number of results to return
+            cutoff=30,  # Default value, number of results to return
         )
         top_similar[item['id']] = {_id: float(score) for _id, score in results.items()}
 

@@ -31,9 +31,9 @@ def prepare_seed(seed_collection):
 def create_retriever(documents: list[dict[str, str]]):
     dr = DenseRetriever(
         index_name="topic-similarity",
-        model="sentence-transformers/all-MiniLM-L6-v2",
+        model="pritamdeka/S-PubMedBert-MS-MARCO",
         normalize=True,
-        max_length=128,
+        max_length=258,
         use_ann=True,
     )
 
@@ -63,11 +63,14 @@ if __name__ == '__main__':
         documents, qrels = prepare_seed(copied_collection)
 
         dr = create_retriever(documents=documents)
-        top_similar[item] = dr.search(
+
+        results = dr.search(
             query=documents[0]['text'],  # What to search for
-            return_docs=True,  # Default value, return the text of the documents
+            return_docs=False,  # Default value, return the text of the documents
             cutoff=10,  # Default value, number of results to return
         )
+        # cast-> # TypeError: Object of type float32 is not JSON serializable
+        top_similar[item['id']] = {str(result['id']): float(result['score']) for result in results}
 
-    with open('../../data/2-runs/seed/seed.json', 'w') as f:
+    with open('../../data/0-qrels/seed-topic-similarity.json', 'w') as f:
         json.dump(top_similar, f)

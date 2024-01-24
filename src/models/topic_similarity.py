@@ -1,19 +1,7 @@
 import json
 from copy import copy
-
+import os
 from retriv import DenseRetriever
-
-
-def prepare_data(review_data):
-    collection = [
-        {"id": doc["document_id"], "text": doc["text"]}
-        for doc in review_data["data"]["train"]
-    ]
-    qrels = {
-        doc["document_id"]: int(doc["labels"][0])
-        for doc in review_data["data"]["train"]
-    }
-    return collection, qrels
 
 
 def prepare_seed(seed_collection):
@@ -21,11 +9,7 @@ def prepare_seed(seed_collection):
         {"id": doc["id"], "text": doc["title"]}
         for doc in seed_collection
     ]
-    qrels = {
-        doc["id"]: 1
-        for doc in seed_collection
-    }
-    return collection, qrels
+    return collection
 
 
 def create_retriever(documents: list[dict[str, str]]):
@@ -42,10 +26,6 @@ def create_retriever(documents: list[dict[str, str]]):
         use_gpu=False,  # Default value
         batch_size=512,  # Default value
         show_progress=True,  # Default value
-        # callback=lambda doc: {  # Callback defaults to None.
-        #     "id": doc["id"],
-        #     "text": doc["title"] + ". " + doc["text"],
-        # },
     )
     return dr
 
@@ -53,19 +33,33 @@ def create_retriever(documents: list[dict[str, str]]):
 if __name__ == '__main__':
     with open('../../input/Seed/overall_collection.jsonl', 'r') as f:
         seed_collection = [json.loads(line) for line in f.readlines()]
+    seed_collection = prepare_seed(seed_collection)
+
+    tar_collection = []
+    for filename in os.listdir('../../input/CLEF_TAR/2018'):
+        with open(f'../../input/CLEF_TAR/2018/{filename}', 'r') as f:
+            title_stub = f.readlines()[2]
+
+            tar_collection.append({
+                'id': filename,
+                'title': title_stub[7:]
+            })
+
+    combined_collection = seed_collection + tar_collection
 
     top_similar = {}
-    for item in seed_collection:
-        copied_collection = copy(seed_collection)
+    for item in combined_collection:
+        copied_collection = copy(combined_collection)
 
+        # remove the item from the collection
         copied_collection.remove(item)
 
-        documents, qrels = prepare_seed(copied_collection)
+        # documents = prepare_seed(copied_collection)
 
-        dr = create_retriever(documents=documents)
+        dr = create_retriever(documents=copied_collection)
 
         results = dr.search(
-            query=documents[0]['text'],  # What to search for
+            query=item['text'],  # What to search for
             return_docs=False,  # Default value, return the text of the documents
             cutoff=10,  # Default value, number of results to return
         )
@@ -73,3 +67,4 @@ if __name__ == '__main__':
 
     with open('../../data/0-qrels/seed-topic-similarity.json', 'w') as f:
         json.dump(top_similar, f)
+

@@ -57,4 +57,4 @@ if __name__ == "__main__":
         top_similar[item["id"]] = {_id: float(score) for _id, score in results.items()}
 
     with open("../../data/0-qrels/topic-similarity.json", "w") as f:
-        json.dump(top_similar, f, indent=4, sort_keys=True)
+        json.dump(top_similar, f, indent=4)

@@ -27,7 +27,11 @@ def temporal_submission(
         mindate=mindate,
         maxdate=maxdate,
     )
-    record = Entrez.read(handle)
+    try:
+        record = Entrez.read(handle)
+    except RuntimeError:
+        return 0, []
+
 
     return int(record["Count"]), record["IdList"]
 
@@ -155,6 +159,9 @@ if __name__ == "__main__":
         "q3": "q3_answer",
         "q4": "q4_answer",
         "q5": "q5_answer",
+        "related_q4": "related_q5_answer",
+        "related_q5": "related_q5_answer",
+        "guided_query": "guided_query_answer",
     }
 
     out_filename = f"{run_name}.json"

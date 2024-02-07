@@ -34,7 +34,6 @@ def evaluate_with_trec_eval(trec_eval, qrels_file, run_file) -> dict:
     results = {}
     for metric in metrics:
         results.update(run_trec_eval(trec_eval, qrels_file, run_file, metric))
-
     results["recall"] = results["set_recall"]
     results["precision"] = results["set_P"]
     results["f1"] = results["set_F_1"]
@@ -73,6 +72,10 @@ def evaluate(run_file: str, qrels_file: str, output_file: str):
         else 0,
         axis=1,
     )
+
+    #optimized
+    merged_df = pd.merge(run_df, qrels_df[(qrels_df["relevance"] > 0)], how='left', on=['query_id', 'doc_id'])
+    run_df["relevant"] = merged_df["relevance"].notna().astype(int)
 
     eval_results = []
     for query_id in tqdm(qrels_df["query_id"].unique()):

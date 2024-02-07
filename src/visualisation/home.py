@@ -41,7 +41,7 @@ def write_results_table(df):
 
 
 if __name__ == "__main__":
-    results_path = "data/3-evaluated/seed/"
+    results_path = "data/3-evaluated/"
 
     st.set_page_config(layout="wide")
     st.title("Evaluation of boolean queries reproduction")
@@ -87,6 +87,7 @@ if __name__ == "__main__":
         axes[idx].set_title(f"Box Plot of {metric.capitalize()}")
         axes[idx].set_xlabel("Query Type")
         axes[idx].set_ylabel(metric.capitalize())
+        axes[idx].set_xticklabels(axes[idx].get_xticklabels(), rotation=90)
 
     plt.tight_layout()
     st.pyplot(fig)

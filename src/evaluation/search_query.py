@@ -1,5 +1,6 @@
 import argparse
 import os
+import urllib
 
 import pandas as pd
 from Bio import Entrez
@@ -19,14 +20,17 @@ def temporal_submission(
     :param maxdate: str
     :return:
     """
-    handle = Entrez.esearch(
-        db="pubmed",
-        term=query,
-        retmax=10000,
-        email=email,
-        mindate=mindate,
-        maxdate=maxdate,
-    )
+    try:
+        handle = Entrez.esearch(
+            db="pubmed",
+            term=query.strip(),
+            retmax=10000,
+            email=email,
+            mindate=mindate,
+            maxdate=maxdate,
+        )
+    except urllib.error.HTTPError:
+        return 0, []
     try:
         record = Entrez.read(handle)
     except RuntimeError:
@@ -111,7 +115,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--queries_file",
         type=str,
-        default="../../data/1-queries/seed/Seed_gpt-3.5-turbo-1106_2426957.csv",
+        default="../../data/1-queries/seed/Seed_zephyr_2426957.csv",
         help="Input file name",
     )
     parser.add_argument(
@@ -159,7 +163,7 @@ if __name__ == "__main__":
         "q3": "q3_answer",
         "q4": "q4_answer",
         "q5": "q5_answer",
-        "related_q4": "related_q5_answer",
+        "related_q4": "related_q4_answer",
         "related_q5": "related_q5_answer",
         "guided_query": "guided_query_answer",
     }

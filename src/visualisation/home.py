@@ -58,7 +58,7 @@ if __name__ == "__main__":
         df["query_type"], categories=sorted(df["query_type"].unique())
     )
 
-    metrics = ["precision", "recall", "f1", "f3"]
+    metrics = ["precision", "f1", "f3", 'recall']
     n_metrics = len(metrics)
 
     st.sidebar.header("Filter by collection")

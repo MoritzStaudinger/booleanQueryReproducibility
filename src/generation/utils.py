@@ -184,10 +184,28 @@ def load_and_merge_files(folder_path, output_folder):
         output_path = os.path.join(output_folder, output_filename)
         df.to_csv(output_path, index=False)
 
-def transform_clef(input="../../output/CLEF"):
-    # Replace 'your_file_path.csv' with the actual path to your CSV file
-    input_file_path = 'your_file_path.csv'
+def transform_clef_cleaning_queries(input="../../output_CLEF"):
 
+    def process_csv_file(file_path):
+        # List of ID strings you want to delete
+        ids_to_delete = ['CD010771', 'CD007431', 'CD010772', 'CD010775', 'CD010783', 'CD010860', 'CD010896', 'CD011145']
+        fields_to_fix = ['q1_answer','q2_answer','q3_answer','q4_answer','q5_answer','related_q4_answer','related_q5_answer']
+        df = pd.read_csv(file_path)
+        df = df[~df['id'].isin(ids_to_delete)]
+
+
+        return df
+
+    for folder_name, subfolders, filenames in os.walk(input):
+        for filename in filenames:
+            if filename.endswith('.csv'):
+                file_path = os.path.join(folder_name, filename)
+                df = process_csv_file(file_path)
+                output_file_path = f"{input}/Result/{filename}"
+                df.to_csv(output_file_path, index=False)
+
+def transform_clef(input="output/CLEF"):
+    # Replace 'your_file_path.csv' with the actual path to your CSV file
 
     def process_csv_file(file_path):
         # List of ID strings you want to delete

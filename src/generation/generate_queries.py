@@ -142,15 +142,17 @@ def generate_query_gpt(input, model = "gpt-3.5-turbo", seed=11777768):
     #model="gpt-4",
     seed=11777768,
     response_format= {"type": "json_object"},
+    top_p=0.1,
+    temperature=0,
     messages=[
       {"role": "system", "content": input[0]},
       {"role": "user", "content": input[1]}
     ]
   )
   try:
-    answer = json.loads(completion.choices[0].message.content)
-    print(answer)
-    return answer['boolean_query']
+    answer = completion.choices[0].message.content
+    print(model, answer)
+    return answer
   except json.JSONDecodeError as e:
     print(f'Error decoding JSON: {e}')
     return "Error decoding JSON"
@@ -269,12 +271,12 @@ def generate_query_mistral(input, model = "mistral_tiny", seed=11777768):
 
 def main(CSMeD=False, Seed=False, CLEF=False, models = ["gpt-3.5-turbo-1106"]):
 #  2426957, 3007195, 9143138, 4187709, 4366962, 5682402, 5915503, 7486832, 8486927, 8701227  #created an error for mistral
-  seeds = [3007195, 9143138, 4187709, 4366962, 5682402, 5915503, 7486832, 8486927, 8701227]
+  seeds = [2426957, 3007195, 9143138, 4187709, 4366962]
   #"gpt-4-1106-preview"]:
-  questions = ['q1','q2','q3','q4', 'q5', 'q3_abstract','q4_abstract','q5_abstract']
+  #questions = ['q1','q2','q3','q4','q5']
   #questions = ['q4', 'q5']
   #questions = ['q3_abstract','q4_abstract','q5_abstract']
-  #questions = ['guided_query']
+  questions = ['guided_query']
 
   if CSMeD:
     df = utils.read_CSMed()
@@ -282,7 +284,7 @@ def main(CSMeD=False, Seed=False, CLEF=False, models = ["gpt-3.5-turbo-1106"]):
 
     for seed in seeds:
       for model in models:
-        query_dataframe = create_querying_dataset(df, dataset="CSMeD", model=model, questions=questions, related_example=False)
+        query_dataframe = create_querying_dataset(df, dataset="CSMeD", model=model, questions=questions, related_example=True)
         for question in questions:
           if "mistral" in model:
             query_dataframe[f'{question}_answer'] = query_dataframe.apply(
@@ -296,7 +298,7 @@ def main(CSMeD=False, Seed=False, CLEF=False, models = ["gpt-3.5-turbo-1106"]):
     df = utils.read_Seed()
     for seed in seeds:
       for model in models:
-        query_dataframe = create_querying_dataset(df, dataset="Seed", model=model, questions=questions, related_example=True)
+        query_dataframe = create_querying_dataset(df, dataset="Seed", model=model, questions=questions, related_example=False)
         for question in questions:
           if "mistral" in model:
             if question == 'guided_query':
@@ -343,7 +345,7 @@ def main(CSMeD=False, Seed=False, CLEF=False, models = ["gpt-3.5-turbo-1106"]):
             else:
               query_dataframe[f'{question}_answer'] = query_dataframe.apply(lambda row: generate_query_gpt(row[question],model=model, seed= seed), axis=1)
           print(f"{question} finished")
-      query_dataframe.to_csv(f"../../output/CLEF_{model}_{seed}_{questions[0]}.csv")
+      query_dataframe.to_csv(f"output/CLEF_{model}_{seed}_{questions[0]}.csv")
 
 
 if __name__ == "__main__":
@@ -352,7 +354,7 @@ if __name__ == "__main__":
     #parser.add_argument("--email", type=str, default="tester@gmail.com")
     #parser.add_argument("--out_folder", type=str, default="output/")
     args = parser.parse_args()
-    main(True, False,False, models=['gpt-3.5-turbo-1106'])
+    main(False, True,False, models=['gpt-3.5-turbo-0125'])
     #main(False,False, True, models=['gpt-4-1106-preview'])
     #main(True, False, CLEF=False, models=['mistral-tiny'])
 

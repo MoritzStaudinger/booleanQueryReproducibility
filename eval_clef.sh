@@ -10,7 +10,7 @@ output_path="data/2-runs/clef/"
 stats_file="input/Seed/overall_collection.jsonl"
 
 # Loop through all CSV files in the input folder
-for csv_file in "${input_folder}"CLEF_mistral-tiny_8*.csv; do
+for csv_file in "${input_folder}"CLEF_gpt-3.5-turbo-0125_4*.csv; do
     # Extract the filename without the path
     filename=$(basename -- "$csv_file")
 

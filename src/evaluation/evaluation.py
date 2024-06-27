@@ -62,16 +62,16 @@ def evaluate(run_file: str, qrels_file: str, output_file: str):
     )
     run_name = run_df["run_name"].unique()[0]
 
-    run_df["relevant"] = run_df.apply(
-        lambda x: 1
-        if any(
-            (qrels_df["query_id"] == x["query_id"])
-            & (qrels_df["doc_id"] == x["doc_id"])
-            & (qrels_df["relevance"] > 0)
-        )
-        else 0,
-        axis=1,
-    )
+    #run_df["relevant"] = run_df.apply(
+    #    lambda x: 1
+    #    if any(
+    #        (qrels_df["query_id"] == x["query_id"])
+    #        & (qrels_df["doc_id"] == x["doc_id"])
+   #         & (qrels_df["relevance"] > 0)
+   #     )
+    #    else 0,
+    #    axis=1,
+    #)
 
     #optimized
     merged_df = pd.merge(run_df, qrels_df[(qrels_df["relevance"] > 0)], how='left', on=['query_id', 'doc_id'])

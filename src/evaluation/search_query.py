@@ -1,5 +1,7 @@
 import argparse
 import os
+from http.client import IncompleteRead
+from urllib.error import HTTPError
 
 import pandas as pd
 from Bio import Entrez
@@ -19,15 +21,23 @@ def temporal_submission(
     :param maxdate: str
     :return:
     """
-    handle = Entrez.esearch(
-        db="pubmed",
-        term=query,
-        retmax=10000,
-        email=email,
-        mindate=mindate,
-        maxdate=maxdate,
-    )
-    record = Entrez.read(handle)
+    try:
+        handle = Entrez.esearch(
+            db="pubmed",
+            term=query,
+            retmax=10000,
+            email=email,
+            mindate=mindate,
+            maxdate=maxdate,
+        )
+        record = Entrez.read(handle)
+    except RuntimeError:
+        return -1, []
+    except IncompleteRead:
+        return -2, []
+    except HTTPError:
+        return -3, []
+
 
     return int(record["Count"]), record["IdList"]
 
@@ -72,13 +82,13 @@ def process_queries(
         total=len(df),
         desc=f"Processing topics for {len(queries)} queries",
     ):
-        collection_stats_row = collection_stats[collection_stats["id"] == row["id"]]
-        date_from = format_date(collection_stats_row["Date_from"].to_list()[0])
-        if not date_from:
-            date_from = default_dates[0]
-        date_to = format_date(collection_stats_row["Date_to"].to_list()[0])
-        if not date_to:
-            date_to = default_dates[1]
+        #collection_stats_row = collection_stats[collection_stats["id"] == row["id"]]
+        #date_from = format_date(collection_stats_row["Date_from"].to_list()[0])
+        #if not date_from:
+        date_from = default_dates[0]
+        #date_to = format_date(collection_stats_row["Date_to"].to_list()[0])
+        #if not date_to:
+        date_to = default_dates[1]
 
         if verbose:
             print(f"{row['id']=}")
@@ -148,13 +158,16 @@ if __name__ == "__main__":
     df = pd.read_csv(args.queries_file)
 
     queries = {
-        "query": "query",
-        "edited-search": "edited_search",
-        "q1": "q1_answer",
-        "q2": "q2_answer",
-        "q3": "q3_answer",
-        "q4": "q4_answer",
-        "q5": "q5_answer",
+        #"query": "query",
+        #"edited-search": "edited_search",
+        #"q1": "q1_answer",
+        #"q2": "q2_answer",
+        #"q3": "q3_answer",
+        #"q4": "q4_answer",
+        #"q5": "q5_answer",
+        #"related_q4": "related_q4_answer",
+        #"related_q5": "related_q5_answer",
+        "guided_query": "guided_query_answer",
     }
 
     out_filename = f"{run_name}.json"

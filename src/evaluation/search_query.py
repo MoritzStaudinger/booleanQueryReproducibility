@@ -1,7 +1,8 @@
 import argparse
 import os
+import urllib
 from http.client import IncompleteRead
-from urllib.error import HTTPError
+from urllib.error import HTTPErro
 
 import pandas as pd
 from Bio import Entrez
@@ -117,7 +118,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--queries_file",
         type=str,
-        default="../../data/1-queries/seed/Seed_gpt-3.5-turbo-1106_2426957.csv",
+        default="../../data/1-queries/seed/Seed_zephyr_2426957.csv",
         help="Input file name",
     )
     parser.add_argument(
@@ -158,15 +159,16 @@ if __name__ == "__main__":
     df = pd.read_csv(args.queries_file)
 
     queries = {
-        #"query": "query",
-        #"edited-search": "edited_search",
-        #"q1": "q1_answer",
-        #"q2": "q2_answer",
-        #"q3": "q3_answer",
-        #"q4": "q4_answer",
-        #"q5": "q5_answer",
-        #"related_q4": "related_q4_answer",
-        #"related_q5": "related_q5_answer",
+        "query": "query",
+        "edited-search": "edited_search",
+        "q1": "q1_answer",
+        "q2": "q2_answer",
+        "q3": "q3_answer",
+        "q4": "q4_answer",
+        "q5": "q5_answer",
+        "related_q4": "related_q4_answer",
+        "related_q5": "related_q5_answer",
+
         "guided_query": "guided_query_answer",
     }
 

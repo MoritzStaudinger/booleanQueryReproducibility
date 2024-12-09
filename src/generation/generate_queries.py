@@ -34,13 +34,13 @@ def generate_prompt_gpt(type="q1", title="", abstract="", example_title="", exam
   elif type == "q6":
     user_input = f'For a systematic review seed Boolean query: "{initial_query}", This query retrieves too many irrelevant documents and too few relevant documents about the information need: “{title}”, Please correct this query so that it can retrieve fewer irrelevant documents and more relevant documents<s>'
   elif type == "q3_abstract":
-    user_input = f"Imagine you are an expert systematic review information specialist; now you are given a systematic review research topic, with the topic title “{title}” and the abstract “{abstract}”. Your task is to generate a highly effective systematic review Boolean query to search on PubMed (refer to the professionally made ones); the query needs to be as inclusive as possible so that it can retrieve all the relevant studies that can be included in the research topic; on the other hand, the query needs to retrieve fewer irrelevant studies so that researchers can spend less time judging the retrieved documents. Just generate the Boolean Query without explanations and without filtering based on the year"
+    user_input = f"Imagine you are an expert systematic review information specialist; now you are given a systematic review research topic, with the topic title “{title}” and the abstract “{abstract}”. Your task is to generate a highly effective systematic review Boolean query to search on PubMed (refer to the professionally made ones); the query needs to be as inclusive as possible so that it can retrieve all the relevant studies that can be included in the research topic; on the other hand, the query needs to retrieve fewer irrelevant studies so that researchers can spend less time judging the retrieved documents. Structure the output as a JSON with the field boolean_query and create the boolean query without filtering based on the year."
   elif type == "q4_abstract":
     system_input = f" You are an information specialist who develops Boolean queries for systematic reviews. You have extensive experience developing highly effective queries for searching the medical literature. Your specialty is developing queries that retrieve as few irrelevant documents as possible and retrieve all relevant documents for your information need. You are able to take an information need such as a systematic review with the title: \“{example_title}\” and abstract: \"{example_abstract}\" and generate valid pubmed queries such as: \“{example_query}\""
-    user_input = f" Now you have the information need to conduct research on a review with the title: “{title}” and the following abstract: “{abstract}”, please generate a highly effective systematic review Boolean query for the information need. Just generate the Boolean Query without explanations and without filtering based on the year"
+    user_input = f" Now you have the information need to conduct research on a review with the title: “{title}” and the following abstract: “{abstract}”, please generate a highly effective systematic review Boolean query for the information need. Structure the output as a JSON with the field boolean_query and create the boolean query without filtering based on the year."
   elif type == "q5_abstract":
     system_input = f"You are an information specialist who develops Boolean queries for systematic reviews. You have extensive experience developing highly effective queries for searching the medical literature. Your specialty is developing queries that retrieve as few irrelevant documents as possible and retrieve all relevant documents for your information need. A professional information specialist will extract PICO elements from information needs in a common practice in constructing a systematic review Boolean query. PICO means Patient/ Problem, Intervention, Comparison and Outcome. PICO is a format for developing a good clinical research question prior to starting one’s research. It is a mnemonic used to describe the four elements of a sound clinical foreground question. You are able to take an information need such as a systematic review with the title: \“{example_title}\” and abstract: \"{example_abstract}\"and you generate valid pubmed queries such as: \“{example_query}\""
-    user_input = f"Now you have your information need to conduct research on a review with the title: “{title}” and the following abstract: “{abstract}”. First, extract PICO elements from the information needs and construct a highly effective systematic review Boolean query that can best serve your information need. Just generate the Boolean Query without explanations and without filtering based on the year"
+    user_input = f"Now you have your information need to conduct research on a review with the title: “{title}” and the following abstract: “{abstract}”. First, extract PICO elements from the information needs and construct a highly effective systematic review Boolean query that can best serve your information need. Structure the output as a JSON with the field boolean_query and create the boolean query without filtering based on the year"
 
 
   return [system_input,user_input]
@@ -105,7 +105,7 @@ def create_querying_dataset(df, dataset='CSMeD', model="gpt", questions=['q1','q
 
 
   if dataset == 'CSMeD':
-    query_dataframe = df[['title', 'abstract', 'review_type','review_id']]
+    query_dataframe = df[['title', 'abstract', 'doi', "decision",'review_id', 'document_id', 'PubMed ID']]
   if dataset == 'Seed':
     query_dataframe = df[["id", 'title', 'link_to_review', 'query', 'edited_search', 'seed_studies', 'included_studies']]
   if dataset == 'CLEF':
@@ -142,16 +142,17 @@ def generate_query_gpt(input, model = "gpt-3.5-turbo", seed=11777768):
     #model="gpt-4",
     seed=11777768,
     response_format= {"type": "json_object"},
+    top_p=0.1,
+    temperature=0,
     messages=[
       {"role": "system", "content": input[0]},
       {"role": "user", "content": input[1]}
     ]
   )
   try:
-    answer = json.loads(completion.choices[0].message.content)
-    print(input)
-    print(answer)
-    return answer['boolean_query']
+    answer = completion.choices[0].message.content
+    print(model, answer)
+    return answer
   except json.JSONDecodeError as e:
     print(f'Error decoding JSON: {e}')
     return "Error decoding JSON"
@@ -270,9 +271,9 @@ def generate_query_mistral(input, model = "mistral_tiny", seed=11777768):
 
 def main(CSMeD=False, Seed=False, CLEF=False, models = ["gpt-3.5-turbo-1106"]):
 #  2426957, 3007195, 9143138, 4187709, 4366962, 5682402, 5915503, 7486832, 8486927, 8701227  #created an error for mistral
-  seeds = [9143138, 4366962, 5682402, 5915503, 7486832, 8486927, 8701227]
+  seeds = [2426957, 3007195, 9143138, 4187709, 4366962]
   #"gpt-4-1106-preview"]:
-  #questions = ['q1','q2','q3','q4', 'q5']
+  #questions = ['q1','q2','q3','q4','q5']
   #questions = ['q4', 'q5']
   #questions = ['q3_abstract','q4_abstract','q5_abstract']
   questions = ['guided_query']
@@ -283,7 +284,7 @@ def main(CSMeD=False, Seed=False, CLEF=False, models = ["gpt-3.5-turbo-1106"]):
 
     for seed in seeds:
       for model in models:
-        query_dataframe = create_querying_dataset(df, dataset="CSMeD", model=model, questions=questions)
+        query_dataframe = create_querying_dataset(df, dataset="CSMeD", model=model, questions=questions, related_example=True)
         for question in questions:
           if "mistral" in model:
             query_dataframe[f'{question}_answer'] = query_dataframe.apply(
@@ -291,13 +292,13 @@ def main(CSMeD=False, Seed=False, CLEF=False, models = ["gpt-3.5-turbo-1106"]):
           else:
             query_dataframe[f'{question}_answer'] = query_dataframe.apply(lambda row: generate_query_gpt(row[question],model=model, seed= seed), axis=1)
           print(f"{question} finished")
-      query_dataframe.to_csv(f"output/CSMeD_f{model}_{seed}.csv")
+      query_dataframe.to_csv(f"output/CSMeD_f{model}_{seed}_{questions[0]}.csv")
 
   if Seed:
     df = utils.read_Seed()
     for seed in seeds:
       for model in models:
-        query_dataframe = create_querying_dataset(df, dataset="Seed", model=model, questions=questions, related_example=True)
+        query_dataframe = create_querying_dataset(df, dataset="Seed", model=model, questions=questions, related_example=False)
         for question in questions:
           if "mistral" in model:
             if question == 'guided_query':
@@ -344,7 +345,7 @@ def main(CSMeD=False, Seed=False, CLEF=False, models = ["gpt-3.5-turbo-1106"]):
             else:
               query_dataframe[f'{question}_answer'] = query_dataframe.apply(lambda row: generate_query_gpt(row[question],model=model, seed= seed), axis=1)
           print(f"{question} finished")
-      query_dataframe.to_csv(f"../../output/CLEF_{model}_{seed}_{questions[0]}.csv")
+      query_dataframe.to_csv(f"output/CLEF_{model}_{seed}_{questions[0]}.csv")
 
 
 if __name__ == "__main__":
@@ -353,7 +354,7 @@ if __name__ == "__main__":
     #parser.add_argument("--email", type=str, default="tester@gmail.com")
     #parser.add_argument("--out_folder", type=str, default="output/")
     args = parser.parse_args()
-    #main(False, True,False, models=['gpt-3.5-turbo-1106'])
+    main(False, True,False, models=['gpt-3.5-turbo-0125'])
     #main(False,False, True, models=['gpt-4-1106-preview'])
-    main(False, True, CLEF=False, models=['mistral-tiny'])
+    #main(True, False, CLEF=False, models=['mistral-tiny'])
 

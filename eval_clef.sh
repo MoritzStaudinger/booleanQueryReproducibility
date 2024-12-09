@@ -1,16 +1,16 @@
 #!/bin/bash
 
 # Specify the path to the folder containing the CSV files
-input_folder="output/"
+input_folder="output/CLEF/Result/"
 
 # Specify the path to the output folder
-output_path="data/2-runs/seed/"
+output_path="data/2-runs/clef/"
 
 # Specify the path to the overall_collection.jsonl file
 stats_file="input/Seed/overall_collection.jsonl"
 
 # Loop through all CSV files in the input folder
-for csv_file in "${input_folder}"Seed_gpt-3.5-turbo-0125*.csv; do
+for csv_file in "${input_folder}"CLEF_gpt-3.5-turbo-0125_4*.csv; do
     # Extract the filename without the path
     filename=$(basename -- "$csv_file")
 

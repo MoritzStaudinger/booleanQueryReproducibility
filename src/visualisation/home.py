@@ -41,7 +41,7 @@ def write_results_table(df):
 
 
 if __name__ == "__main__":
-    results_path = "data/3-evaluated/seed/"
+    results_path = "data/3-evaluated/"
 
     st.set_page_config(layout="wide")
     st.title("Evaluation of boolean queries reproduction")
@@ -58,7 +58,7 @@ if __name__ == "__main__":
         df["query_type"], categories=sorted(df["query_type"].unique())
     )
 
-    metrics = ["precision", "recall", "f1", "f3"]
+    metrics = ["precision", "f1", "f3", 'recall']
     n_metrics = len(metrics)
 
     st.sidebar.header("Filter by collection")
@@ -80,6 +80,19 @@ if __name__ == "__main__":
         )
         st.text_area("Copy the LaTeX string below:", latex_string, height=300)
 
+    st.header("Mean with standard deviation as string")
+    grouped_df = df.groupby("query_type")[metrics].agg(["mean", "std"])
+    grouped_df = grouped_df.round(3)
+
+    for metric in metrics:
+        mean_as_str = grouped_df[(metric, 'mean')].astype(str)
+        std_as_str = grouped_df[(metric, 'std')].astype(str)
+        grouped_df[(metric, 'score')] = mean_as_str + " ± " + std_as_str
+
+    grouped_df.columns = [' '.join(col).strip() for col in grouped_df.columns.values]
+    grouped_df = grouped_df[[col for col in grouped_df.columns if 'score' in col]]
+    st.dataframe(grouped_df)
+
     fig, axes = plt.subplots(1, n_metrics, figsize=(n_metrics * 5, 4))
 
     for idx, metric in enumerate(metrics):
@@ -87,6 +100,7 @@ if __name__ == "__main__":
         axes[idx].set_title(f"Box Plot of {metric.capitalize()}")
         axes[idx].set_xlabel("Query Type")
         axes[idx].set_ylabel(metric.capitalize())
+        axes[idx].set_xticklabels(axes[idx].get_xticklabels(), rotation=90)
 
     plt.tight_layout()
     st.pyplot(fig)
